@@ -167,6 +167,26 @@
     ]
   },
   {
+    "objectID": "content/SI coord/SI_Coordination.html#overview",
+    "href": "content/SI coord/SI_Coordination.html#overview",
+    "title": "IRA PAM Strategic Initiative Coordination",
+    "section": "Overview",
+    "text": "Overview\nThis page serves as a landing page to coordinate progress towards the Passive Acoustic Monitoring Strategic Initiative (PAM SI). Included below are important links to identify open action items, review priority project descriptions and working group meeting notes, as well as track progress and issues through GitHub projects.\nThe PAM SI Team has identified eight priority projects that combined work towards two overarching goals: (1) National Data & Analysis Integration and (2) Infrastructure Development & Efficiency. Progress towards these goals will implement transformational activities that will significantly change the way in which we collect, analyze, and make PAM data accessible for answering mission critical questions.",
+    "crumbs": [
+      "SI Coordination"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/SI_Coordination.html#important-links",
+    "href": "content/SI coord/SI_Coordination.html#important-links",
+    "title": "IRA PAM Strategic Initiative Coordination",
+    "section": "Important Links",
+    "text": "Important Links\n\nPAM SI Active Action Items tracker\nMarch 2024 Workshop Report\nPAM SI Progress Dashboard\nGitHub Projects (* More details to come - this link will only work once you become a member of the NMFS OST GitHub Organization)\nPAM SI Projects Google Folder\nNotes from Bi-weekly SI Team Meetings",
+    "crumbs": [
+      "SI Coordination"
+    ]
+  },
+  {
     "objectID": "content/OpenScience.html",
     "href": "content/OpenScience.html",
     "title": "Open Science",
@@ -297,6 +317,39 @@
     "crumbs": [
       "Optional Pages",
       "Publications and Presentations"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/Openscapes.html",
+    "href": "content/SI coord/Openscapes.html",
+    "title": "Openscapes",
+    "section": "",
+    "text": "Openscapes is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort.\nOur goals include developing the NMFS PAM sharing structure in real time (national and regional lab manuals), building foundational open science knowledge, and sharing the lessons learned with our broader science center PAM groups",
+    "crumbs": [
+      "SI Coordination",
+      "Openscapes"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/Openscapes.html#goals",
+    "href": "content/SI coord/Openscapes.html#goals",
+    "title": "Openscapes",
+    "section": "",
+    "text": "Openscapes is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort.\nOur goals include developing the NMFS PAM sharing structure in real time (national and regional lab manuals), building foundational open science knowledge, and sharing the lessons learned with our broader science center PAM groups",
+    "crumbs": [
+      "SI Coordination",
+      "Openscapes"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/Openscapes.html#notes",
+    "href": "content/SI coord/Openscapes.html#notes",
+    "title": "Openscapes",
+    "section": "Notes",
+    "text": "Notes\nAll meeting notes and Openscapes related documents will be accessible in the PAM SI Openscapes Google Drive Folder",
+    "crumbs": [
+      "SI Coordination",
+      "Openscapes"
     ]
   },
   {
