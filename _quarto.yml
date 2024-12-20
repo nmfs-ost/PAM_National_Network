@@ -33,6 +33,10 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - section: content/SI coord/SI_Coordination.qmd
+        text: SI Coordination
+        contents:
+          - content/SI coord/Openscapes.qmd
       - section: content/LabManagement.qmd
         contents: 
           - href: content/Safety.qmd
