@@ -1,0 +1,5 @@
+## NMFS PAM Google Cloud Project #2
+
+**Goal:** Develop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends
+
+*Team Leads (all NEFSC):* Sofie Van Parijs, Genevieve Davis, Jeff Walker

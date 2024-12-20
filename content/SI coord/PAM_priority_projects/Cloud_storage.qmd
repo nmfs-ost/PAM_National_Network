@@ -1,0 +1,6 @@
+## NMFS PAM Google Cloud Project #1
+
+**Goal:** Demonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS PAM operations and support the protected species mission
+
+*Team Leads:* Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC)
+

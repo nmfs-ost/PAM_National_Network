@@ -1,0 +1,5 @@
+## PAM & Stock Assessments
+
+**Goal:** Advance the accuracy of stock assessments to capture seasonal and long-term changes using glider PAM datasets.
+
+*Team Leads:* Erin Oleson (PIFSC), Yvonne Barkley (PIFSC)

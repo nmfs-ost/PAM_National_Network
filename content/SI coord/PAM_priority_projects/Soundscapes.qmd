@@ -1,0 +1,5 @@
+## Soundscape Analysis, Metrics, and Tools
+
+**Goal:** Facilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generate decision support tools that integrate soundscape visualizations with multiple data types.
+
+*Team Leads:* Samara Haver (PMEL), Megan McKenna (ONMS)

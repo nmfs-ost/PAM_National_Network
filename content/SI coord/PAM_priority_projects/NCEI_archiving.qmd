@@ -1,0 +1,5 @@
+## NCEI Archiving
+
+**Goal:** Build efficient workflows to archive large volumes of NMFS PAM data and meet the projected data growth needs
+
+*Team Leads:* Carrie Wall Bell (NCEI), Jason Gedamke (OST)

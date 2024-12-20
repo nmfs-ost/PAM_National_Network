@@ -1,0 +1,5 @@
+## PAM & Climate / Long-term Trends
+
+**Goal:** Integration of PAM and environmental data to support climate change investigations by developing new tools that can be applied to all regions and species of interest. 
+
+*Team Leads:* Genevieve Davis (NEFSC), Catherine Berchok (AFSC)
