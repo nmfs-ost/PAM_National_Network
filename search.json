@@ -15,11 +15,7 @@
     "href": "content/Safety.html",
     "title": "Safety",
     "section": "",
-    "text": "Include the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual",
-    "crumbs": [
-      "Lab Management",
-      "Safety"
-    ]
+    "text": "Include the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual"
   },
   {
     "objectID": "content/Hardware.html",
@@ -28,7 +24,6 @@
     "section": "",
     "text": "A hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example).\nThis can be a section with subpages or a qmd",
     "crumbs": [
-      "Lab Management",
       "Hardware"
     ]
   },
@@ -187,86 +182,91 @@
     ]
   },
   {
-    "objectID": "content/OpenScience.html",
-    "href": "content/OpenScience.html",
-    "title": "Open Science",
+    "objectID": "content/SI coord/PAM_priority_projects/NCEI_archiving.html",
+    "href": "content/SI coord/PAM_priority_projects/NCEI_archiving.html",
+    "title": "NOAA quarto simple",
     "section": "",
-    "text": "This section is optional but we recommend creating this place to point to the Open Science repository.\nSAEL Example",
+    "text": "Goal: Build efficient workflows to archive large volumes of NMFS PAM data and meet the projected data growth needs\nTeam Leads: Carrie Wall Bell (NCEI), Jason Gedamke (OST)",
     "crumbs": [
-      "Optional Pages",
-      "Open Science"
+      "PAM SI Priority Projects",
+      "NCEI Archiving"
     ]
   },
   {
-    "objectID": "content/Inventory.html",
-    "href": "content/Inventory.html",
-    "title": "Inventory",
+    "objectID": "content/SI coord/PAM_priority_projects/NCEI_archiving.html#ncei-archiving",
+    "href": "content/SI coord/PAM_priority_projects/NCEI_archiving.html#ncei-archiving",
+    "title": "NOAA quarto simple",
     "section": "",
-    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example",
+    "text": "Goal: Build efficient workflows to archive large volumes of NMFS PAM data and meet the projected data growth needs\nTeam Leads: Carrie Wall Bell (NCEI), Jason Gedamke (OST)",
     "crumbs": [
-      "Lab Management",
-      "Inventory"
+      "PAM SI Priority Projects",
+      "NCEI Archiving"
     ]
   },
   {
-    "objectID": "content/Reporting.html",
-    "href": "content/Reporting.html",
-    "title": "Reporting",
+    "objectID": "content/SI coord/PAM_priority_projects/Nationaldecision_supporttool.html",
+    "href": "content/SI coord/PAM_priority_projects/Nationaldecision_supporttool.html",
+    "title": "NOAA quarto simple",
     "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
+    "text": "Goal: Develop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends\nTeam Leads (all NEFSC): Sofie Van Parijs, Genevieve Davis, Jeff Walker",
     "crumbs": [
-      "Reporting"
+      "PAM SI Priority Projects",
+      "National Decision Support Tool"
     ]
   },
   {
-    "objectID": "content/Reporting.html#templates",
-    "href": "content/Reporting.html#templates",
-    "title": "Reporting",
+    "objectID": "content/SI coord/PAM_priority_projects/Nationaldecision_supporttool.html#nmfs-pam-google-cloud-project-2",
+    "href": "content/SI coord/PAM_priority_projects/Nationaldecision_supporttool.html#nmfs-pam-google-cloud-project-2",
+    "title": "NOAA quarto simple",
     "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
+    "text": "Goal: Develop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends\nTeam Leads (all NEFSC): Sofie Van Parijs, Genevieve Davis, Jeff Walker",
     "crumbs": [
-      "Reporting"
+      "PAM SI Priority Projects",
+      "National Decision Support Tool"
     ]
   },
   {
-    "objectID": "content/Reporting.html#permits",
-    "href": "content/Reporting.html#permits",
-    "title": "Reporting",
-    "section": "Permits",
-    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example",
+    "objectID": "content/SI coord/PAM_priority_projects/Soundscapes.html",
+    "href": "content/SI coord/PAM_priority_projects/Soundscapes.html",
+    "title": "NOAA quarto simple",
+    "section": "",
+    "text": "Goal: Facilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generate decision support tools that integrate soundscape visualizations with multiple data types.\nTeam Leads: Samara Haver (PMEL), Megan McKenna (ONMS)",
     "crumbs": [
-      "Reporting"
+      "PAM SI Priority Projects",
+      "Soundscapes"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "National Passive Acoustic Monitoring Network",
+    "objectID": "content/SI coord/PAM_priority_projects/Soundscapes.html#soundscape-analysis-metrics-and-tools",
+    "href": "content/SI coord/PAM_priority_projects/Soundscapes.html#soundscape-analysis-metrics-and-tools",
+    "title": "NOAA quarto simple",
     "section": "",
-    "text": "NOAA Fisheries’ PAM programs collect underwater sound recordings of the marine environment. Identification of the sounds produced by protected marine mammal species, fishes, humans, or the environment allows for an understanding of marine soundscapes and provides information on changes in species distribution, behavior and/or density. The technological revolution in PAM over the past decade has allowed both acoustic recorders and analytical approaches to increasingly become an integral part of NOAA Fisheries core science mission. PAM’s capacity for creating long term time series makes it an ideal approach for evaluating changes in species stocks, ecosystem interactions, and climate change.\nThere are seven NOAA Fisheries PAM programs including each regional Science Center and the Office of Science & Technology’s Ocean Acoustic Program. This repository serves to enhance National PAM collaboration within NOAA Fisheries and our partners through a common GitHub structure. Each of the regional science centers is in the process of establishing a region specific landing page that mimics the structure of this National page.",
+    "text": "Goal: Facilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generate decision support tools that integrate soundscape visualizations with multiple data types.\nTeam Leads: Samara Haver (PMEL), Megan McKenna (ONMS)",
     "crumbs": [
-      "Home"
+      "PAM SI Priority Projects",
+      "Soundscapes"
     ]
   },
   {
-    "objectID": "content/DataManagement.html",
-    "href": "content/DataManagement.html",
-    "title": "Data Management",
+    "objectID": "content/SI coord/PAM_priority_projects/Climate_LTtrends.html",
+    "href": "content/SI coord/PAM_priority_projects/Climate_LTtrends.html",
+    "title": "NOAA quarto simple",
     "section": "",
-    "text": "A data management section is required and should include the following information;\n\nData Archive Methods\n\nInformation on where your data is archived (PACM, NCEI, Tethys, Internal databases, etc)\nSAEL Example\n\nSpecies reference guide for your region\n\nDevelop a species and call type library for your region\nThis can include spectrograms of calls and sound clips\nPIFSC working on this, use them as an example once finalized\nSAEL Example\n\nMedia\n\nLinks to sound archives, media archives, web sites, blogs, etc.\nSAEL Example\n\n\nThis can be a section with subpages or a qmd\nGlider Lab Manual",
+    "text": "Goal: Integration of PAM and environmental data to support climate change investigations by developing new tools that can be applied to all regions and species of interest.\nTeam Leads: Genevieve Davis (NEFSC), Catherine Berchok (AFSC)",
     "crumbs": [
-      "Data Management"
+      "PAM SI Priority Projects",
+      "Climate & Long-Term Trends"
     ]
   },
   {
-    "objectID": "content/PublicationsPresentations.html",
-    "href": "content/PublicationsPresentations.html",
-    "title": "Publications and Presentations",
+    "objectID": "content/SI coord/PAM_priority_projects/Climate_LTtrends.html#pam-climate-long-term-trends",
+    "href": "content/SI coord/PAM_priority_projects/Climate_LTtrends.html#pam-climate-long-term-trends",
+    "title": "NOAA quarto simple",
     "section": "",
-    "text": "This is an optional page but is a great opportunity to highlight some of your publications and presentations.\nSAEL example (add once this page is corrected)",
+    "text": "Goal: Integration of PAM and environmental data to support climate change investigations by developing new tools that can be applied to all regions and species of interest.\nTeam Leads: Genevieve Davis (NEFSC), Catherine Berchok (AFSC)",
     "crumbs": [
-      "Optional Pages",
-      "Publications and Presentations"
+      "PAM SI Priority Projects",
+      "Climate & Long-Term Trends"
     ]
   },
   {
@@ -303,14 +303,178 @@
     ]
   },
   {
+    "objectID": "content/PublicationsPresentations.html",
+    "href": "content/PublicationsPresentations.html",
+    "title": "Publications and Presentations",
+    "section": "",
+    "text": "This is an optional page but is a great opportunity to highlight some of your publications and presentations.\nSAEL example (add once this page is corrected)",
+    "crumbs": [
+      "Optional Pages",
+      "Publications and Presentations"
+    ]
+  },
+  {
+    "objectID": "content/DataManagement.html",
+    "href": "content/DataManagement.html",
+    "title": "Data Management",
+    "section": "",
+    "text": "A data management section is required and should include the following information;\n\nData Archive Methods\n\nInformation on where your data is archived (PACM, NCEI, Tethys, Internal databases, etc)\nSAEL Example\n\nSpecies reference guide for your region\n\nDevelop a species and call type library for your region\nThis can include spectrograms of calls and sound clips\nPIFSC working on this, use them as an example once finalized\nSAEL Example\n\nMedia\n\nLinks to sound archives, media archives, web sites, blogs, etc.\nSAEL Example\n\n\nThis can be a section with subpages or a qmd\nGlider Lab Manual",
+    "crumbs": [
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "National Passive Acoustic Monitoring Network",
+    "section": "",
+    "text": "NOAA Fisheries’ PAM programs collect underwater sound recordings of the marine environment. Identification of the sounds produced by protected marine mammal species, fishes, humans, or the environment allows for an understanding of marine soundscapes and provides information on changes in species distribution, behavior and/or density. The technological revolution in PAM over the past decade has allowed both acoustic recorders and analytical approaches to increasingly become an integral part of NOAA Fisheries core science mission. PAM’s capacity for creating long term time series makes it an ideal approach for evaluating changes in species stocks, ecosystem interactions, and climate change.\nThere are seven NOAA Fisheries PAM programs including each regional Science Center and the Office of Science & Technology’s Ocean Acoustic Program. This repository serves to enhance National PAM collaboration within NOAA Fisheries and our partners through a common GitHub structure. Each of the regional science centers is in the process of establishing a region specific landing page that mimics the structure of this National page.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "content/Reporting.html",
+    "href": "content/Reporting.html",
+    "title": "Reporting",
+    "section": "",
+    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
+    "crumbs": [
+      "Reporting"
+    ]
+  },
+  {
+    "objectID": "content/Reporting.html#templates",
+    "href": "content/Reporting.html#templates",
+    "title": "Reporting",
+    "section": "",
+    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
+    "crumbs": [
+      "Reporting"
+    ]
+  },
+  {
+    "objectID": "content/Reporting.html#permits",
+    "href": "content/Reporting.html#permits",
+    "title": "Reporting",
+    "section": "Permits",
+    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example",
+    "crumbs": [
+      "Reporting"
+    ]
+  },
+  {
+    "objectID": "content/Inventory.html",
+    "href": "content/Inventory.html",
+    "title": "Inventory",
+    "section": "",
+    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example"
+  },
+  {
+    "objectID": "content/OpenScience.html",
+    "href": "content/OpenScience.html",
+    "title": "Open Science",
+    "section": "",
+    "text": "This section is optional but we recommend creating this place to point to the Open Science repository.\nSAEL Example",
+    "crumbs": [
+      "Optional Pages",
+      "Open Science"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/Openscience_infosharing.html",
+    "href": "content/SI coord/PAM_priority_projects/Openscience_infosharing.html",
+    "title": "NOAA quarto simple",
+    "section": "",
+    "text": "Goal: Enhance National PAM collaboration among the regions by facilitating an open science culture and creating the infrastructure for information sharing on GitHub.\nTeam Leads: Becca Van Hoeck (NEFSC), Shannon Rankin (SWFSC)",
+    "crumbs": [
+      "PAM SI Priority Projects",
+      "Open science Information Sharing"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/Openscience_infosharing.html#national-pam-coordination-and-sharing",
+    "href": "content/SI coord/PAM_priority_projects/Openscience_infosharing.html#national-pam-coordination-and-sharing",
+    "title": "NOAA quarto simple",
+    "section": "",
+    "text": "Goal: Enhance National PAM collaboration among the regions by facilitating an open science culture and creating the infrastructure for information sharing on GitHub.\nTeam Leads: Becca Van Hoeck (NEFSC), Shannon Rankin (SWFSC)",
+    "crumbs": [
+      "PAM SI Priority Projects",
+      "Open science Information Sharing"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/Cloud_storage.html",
+    "href": "content/SI coord/PAM_priority_projects/Cloud_storage.html",
+    "title": "NOAA quarto simple",
+    "section": "",
+    "text": "Goal: Demonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS PAM operations and support the protected species mission\nTeam Leads: Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC)",
+    "crumbs": [
+      "PAM SI Priority Projects",
+      "Cloud Storage Solutions"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/Cloud_storage.html#nmfs-pam-google-cloud-project-1",
+    "href": "content/SI coord/PAM_priority_projects/Cloud_storage.html#nmfs-pam-google-cloud-project-1",
+    "title": "NOAA quarto simple",
+    "section": "",
+    "text": "Goal: Demonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS PAM operations and support the protected species mission\nTeam Leads: Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC)",
+    "crumbs": [
+      "PAM SI Priority Projects",
+      "Cloud Storage Solutions"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/Pacific_glider.html",
+    "href": "content/SI coord/PAM_priority_projects/Pacific_glider.html",
+    "title": "NOAA quarto simple",
+    "section": "",
+    "text": "Goal: Develop R2O plan intended to serve all regions to integrate PAM gliders into assessment missions, reducing shiptime needs.\nTeam Leads: Erin Oleson (PIFSC), Shannon Rankin (SWFSC), UxS SI",
+    "crumbs": [
+      "PAM SI Priority Projects",
+      "Pacific Glider R2O"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/Pacific_glider.html#accelerating-pacific-wide-pam-glider-operations",
+    "href": "content/SI coord/PAM_priority_projects/Pacific_glider.html#accelerating-pacific-wide-pam-glider-operations",
+    "title": "NOAA quarto simple",
+    "section": "",
+    "text": "Goal: Develop R2O plan intended to serve all regions to integrate PAM gliders into assessment missions, reducing shiptime needs.\nTeam Leads: Erin Oleson (PIFSC), Shannon Rankin (SWFSC), UxS SI",
+    "crumbs": [
+      "PAM SI Priority Projects",
+      "Pacific Glider R2O"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/Stock_Assessments.html",
+    "href": "content/SI coord/PAM_priority_projects/Stock_Assessments.html",
+    "title": "NOAA quarto simple",
+    "section": "",
+    "text": "Goal: Advance the accuracy of stock assessments to capture seasonal and long-term changes using glider PAM datasets.\nTeam Leads: Erin Oleson (PIFSC), Yvonne Barkley (PIFSC)",
+    "crumbs": [
+      "PAM SI Priority Projects",
+      "Stock Assessments"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/Stock_Assessments.html#pam-stock-assessments",
+    "href": "content/SI coord/PAM_priority_projects/Stock_Assessments.html#pam-stock-assessments",
+    "title": "NOAA quarto simple",
+    "section": "",
+    "text": "Goal: Advance the accuracy of stock assessments to capture seasonal and long-term changes using glider PAM datasets.\nTeam Leads: Erin Oleson (PIFSC), Yvonne Barkley (PIFSC)",
+    "crumbs": [
+      "PAM SI Priority Projects",
+      "Stock Assessments"
+    ]
+  },
+  {
     "objectID": "content/LabManagement.html",
     "href": "content/LabManagement.html",
     "title": "Lab Management",
     "section": "",
-    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory\nHardware",
-    "crumbs": [
-      "Lab Management"
-    ]
+    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory\nHardware"
   },
   {
     "objectID": "content/Software.html",
