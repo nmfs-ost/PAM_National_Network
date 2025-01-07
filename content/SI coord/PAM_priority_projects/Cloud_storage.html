@@ -339,10 +339,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#nmfs-pam-google-cloud-project-1" id="toc-nmfs-pam-google-cloud-project-1" class="nav-link active" data-scroll-target="#nmfs-pam-google-cloud-project-1">NMFS PAM Google Cloud Project #1</a>
-  <ul class="collapse">
-  <li><a href="#pam-gcp-technical-system-documentation" id="toc-pam-gcp-technical-system-documentation" class="nav-link" data-scroll-target="#pam-gcp-technical-system-documentation"><strong>PAM GCP Technical System Documentation</strong></a></li>
-  </ul></li>
+  <li><a href="#nmfs-pam-google-cloud-project-1" id="toc-nmfs-pam-google-cloud-project-1" class="nav-link active" data-scroll-target="#nmfs-pam-google-cloud-project-1">NMFS PAM Google Cloud Project #1</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/nmfs-ost/PAM_template_lab_manual/edit/main/content/SI coord/PAM_priority_projects/Cloud_storage.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/nmfs-ost/PAM_template_lab_manual/blob/main/content/SI coord/PAM_priority_projects/Cloud_storage.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/nmfs-ost/PAM_template_lab_manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -356,11 +353,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h2 class="anchored" data-anchor-id="nmfs-pam-google-cloud-project-1">NMFS PAM Google Cloud Project #1</h2>
 <p><strong>Goal:</strong><br>
 Demonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS PAM operations and support the protected species mission</p>
-<strong>Team Leads:</strong><br>
-Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC)
-<section id="pam-gcp-technical-system-documentation" class="level3" data-align="center">
-<h3 class="anchored" data-anchor-id="pam-gcp-technical-system-documentation"><strong>PAM GCP Technical System Documentation</strong></h3>
-<div data-align="left">
+<p><strong>Team Leads:</strong><br>
+Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC)</p>
+<div data-align="center">
+<img src="../../../content/images/Priority_project_graphics/Cloud/Direct-upload-cloud.png" class="img-fluid" style="width:55.0%">
+<section id="project-steps" class="level3" data-align="left">
+<h3 class="anchored" data-anchor-id="project-steps">Project steps</h3>
+<details>
+<summary>
+PAM GCP Technical System Documentation
+</summary>
 <p><em>Overview: Summary of key decisions, technical system set-up, and use expectations for using software applications in the PAM GCP. This document is an initial way to collaborate on developing the documentation and will be transitioned to the National PAM Network GitHub once folks have access.</em></p>
 <section id="the-acoustics-si-and-project-design-philosophy" class="level4">
 <h4 class="anchored" data-anchor-id="the-acoustics-si-and-project-design-philosophy">The acoustics SI and project design philosophy:</h4>
@@ -425,33 +427,23 @@ Based on NMFS hardened linux container and preloaded with docker. I developed an
 This is where container images will be placed (whether we build or import them), and it is a key backbone of a variety of GCP container orchestration services.</p>
 <p><strong>Application storage buckets:</strong><br>
 There are two new storage buckets, pamdata-app-intermediates and pamdata-app-outputs. Some of the time applications will need their own specific tiering and lifecycle, but I wanted to start with just these two, especially for early development, given that they are visible along with the FMC data buckets and we tend to like to use the console as a browsing tool to keep track of these. Keeping it to two, and dividing permissions by prefix, will keep the bucket display from getting too muddied.</p>
-<p><strong>Networking:</strong><br>
-Created networks and subnets - one for application and development machines, which require ssh and NAT internet connectivity, and one for batch processing, which relies on only private google connectivity by default, but other connectivity can be added as a particular app might need.</p>
-</section>
-<section id="direct-acoustic-data-upload-to-cloud" class="level3" data-align="center">
-<h3 class="anchored" data-anchor-id="direct-acoustic-data-upload-to-cloud"><strong>Direct acoustic data upload to cloud</strong><br>
-</h3>
-<p><br>
-</p>
-<p><img src="../../../content/images/Priority_project_graphics/Cloud/Direct-upload-cloud.png" class="img-fluid" style="width:50.0%"></p>
-<div data-align="left">
-<section id="result" class="level4">
-<h4 class="anchored" data-anchor-id="result">Result:</h4>
+<strong>Networking:</strong><br>
+Created networks and subnets - one for application and development machines, which require ssh and NAT internet connectivity, and one for batch processing, which relies on only private google connectivity by default, but other connectivity can be added as a particular app might need.
+</section></details>
+<details>
+<summary>
+Direct Acoustic Data Upload to Cloud
+</summary>
+<p>Result:</p>
 <p>ASFC was able to upload 100TB of acoustic data to our GCP bucket over the internet connection in our science center (in Seattle) in a three week upload window with low operator effort, representing our whole primary acoustic data collection.<br>
 </p>
-</section>
-<section id="how" class="level4">
-<h4 class="anchored" data-anchor-id="how">How:</h4>
+<p>How:</p>
 <p>Our research group committed two computers with normal user permissions in the AFSC data center to upload data from the AFSC LAN to our pamdata bucket. These two computers ran a simple script, which was written in R and wrapped calls to the GCP ‘gsutil’ tool. The script was very simple, about 50 lines. The script instructed the computers to only initiate uploads between the hours of 7pm and 6am on weekdays and constantly on weekends. The R sessions were logged so we could identify any early termination that might have resulted in partial or corrupted uploads. Additional process will be designed to check that the data was uploaded in full.<br>
 </p>
-</section>
-<section id="impact" class="level4">
-<h4 class="anchored" data-anchor-id="impact">Impact:</h4>
+<p>Impact:</p>
 <p>AFSC IT would have been notified by the NMFS network team if the traffic were considered disruptive. They would have traced the traffic to the machines under my user name, and contacted me to ask questions. This not happening suggests that the traffic was a non-issue. Scheduling traffic within off-hours (nights and weekends) prevents throttling normal user traffic during working hours, and staying within these confines is respectful and normal practice for NMFS IT groups. We did not notify AFSC IT or the NMFS network team as we wanted to test the impact of this traffic empirically, but going forward, especially with multiple FMCs performing uploads concurrently, we advise approving the traffic with FMC &amp; NMFS IT.<br>
 </p>
-</section>
-<section id="contact" class="level4">
-<h4 class="anchored" data-anchor-id="contact">Contact:</h4>
+<p>Contact:</p>
 <p>Dan Woodrich <a href="mailto:daniel.woodrich@noaa.gov">daniel.woodrich@noaa.gov</a> if you would like to explore a similar process for your FMC acoustic data.<br>
 R script:&nbsp;</p>
 <div class="cell">
@@ -492,26 +484,25 @@ R script:&nbsp;</p>
 <span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>  <span class="fu">cat</span>(<span class="fu">paste</span>(<span class="st">"ended"</span>,mooring,<span class="st">"at"</span>,<span class="fu">Sys.time</span>(),<span class="st">"</span><span class="sc">\n</span><span class="st">"</span>))</span>
 <span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-</section>
-<section id="google-transfer-appliance-set-up-checklist" class="level3" data-align="center">
-<h3 class="anchored" data-anchor-id="google-transfer-appliance-set-up-checklist"><strong>Google Transfer Appliance Set Up Checklist</strong></h3>
+</details>
+<details>
+<summary>
+Google Transfer Appliance Set Up Checklist
+</summary>
 <p><img src="../../../content/images/Priority_project_graphics/Cloud/google-transfer.png" class="img-fluid"></p>
-<div data-align="left">
 <ol type="1">
 <li>Enable APIs - this has been completed that the console/project level and the checklist item can simply be marked as complete.</li>
 <li>Authorize Service Acounts: Email Dan Woodrich <a href="mailto:daniel.woodrich@noaa.gov">daniel.woodrich@noaa.gov</a> the link to the checklist so he can complete that step on your behalf</li>
 </ol>
+</details>
 
 
-</div>
 </section>
-</div>
-</section>
-</div>
-</section>
-</section>
+</div></section>
+</main></div>
 
-</main> <!-- /main -->
+
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -1085,7 +1076,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       </a>
   </div>
 </nav>
-</div> <!-- /content -->
+ <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
