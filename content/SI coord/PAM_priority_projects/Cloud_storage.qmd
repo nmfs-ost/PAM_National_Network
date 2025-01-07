@@ -14,7 +14,7 @@ Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC)
 ### Project steps
 
 <details>
-<summary>PAM GCP Technical System Documentation</summary>
+<summary><font size = "5">PAM GCP Technical System Documentation</font></summary>
 *Overview: Summary of key decisions, technical system set-up, and use expectations for using software applications in the PAM GCP. This document is an initial way to collaborate on developing the documentation and will be transitioned to the National PAM Network GitHub once folks have access.* 
 
 #### The acoustics SI and project design philosophy:
@@ -64,7 +64,7 @@ There are two new storage buckets, pamdata-app-intermediates and pamdata-app-out
 Created networks and subnets \- one for application and development machines, which require ssh and NAT internet connectivity, and one for batch processing, which relies on only private google connectivity by default, but other connectivity can be added as a particular app might need. 
 </details>
 <details>
-<summary>Direct Acoustic Data Upload to Cloud</summary>
+<summary><font size = "5">Direct Acoustic Data Upload to Cloud</font></summary>
 \
 *Result:*
 
@@ -123,7 +123,7 @@ for(mooring in moorings){
 ```
 </details>
 <details>
-<summary>Google Transfer Appliance Set Up Checklist</summary>
+<summary><font size = "5">Google Transfer Appliance Set Up Checklist</font></summary>
 
 ![](/content/images/Priority_project_graphics/Cloud/google-transfer.png)
 
