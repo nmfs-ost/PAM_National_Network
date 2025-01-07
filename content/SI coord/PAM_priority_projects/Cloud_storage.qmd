@@ -65,20 +65,20 @@ Created networks and subnets \- one for application and development machines, wh
 </details>
 <details>
 <summary>Direct Acoustic Data Upload to Cloud</summary>
-
-Result:
+\
+*Result:*
 
 ASFC was able to upload 100TB of acoustic data to our GCP bucket over the internet connection in our science center (in Seattle) in a three week upload window with low operator effort, representing our whole primary acoustic data collection.\
 
-How: 
+*How:* 
 
 Our research group committed two computers with normal user permissions in the AFSC data center to upload data from the AFSC LAN to our pamdata bucket. These two computers ran a simple script, which was written in R and wrapped calls to the GCP ‘gsutil’ tool. The script was very simple, about 50 lines. The script instructed the computers to only initiate uploads between the hours of 7pm and 6am on weekdays and constantly on weekends. The R sessions were logged so we could identify any early termination that might have resulted in partial or corrupted uploads. Additional process will be designed to check that the data was uploaded in full.\
 
-Impact: 
+*Impact:*
 
 AFSC IT would have been notified by the NMFS network team if the traffic were considered disruptive. They would have traced the traffic to the machines under my user name, and contacted me to ask questions. This not happening suggests that the traffic was a non-issue. Scheduling traffic within off-hours (nights and weekends) prevents throttling normal user traffic during working hours, and staying within these confines is respectful and normal practice for NMFS IT groups. We did not notify AFSC IT or the NMFS network team as we wanted to test the impact of this traffic empirically, but going forward, especially with multiple FMCs performing uploads concurrently, we advise approving the traffic with FMC & NMFS IT.\
 
-Contact:
+*Contact:*
 
 Dan Woodrich [daniel.woodrich\@noaa.gov](mailto:daniel.woodrich@noaa.gov) if you would like to explore a similar process for your FMC acoustic data.\
 R script: 
