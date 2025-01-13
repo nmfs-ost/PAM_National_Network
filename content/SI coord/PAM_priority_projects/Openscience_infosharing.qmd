@@ -3,3 +3,5 @@
 **Goal:** Enhance National PAM collaboration among the regions by facilitating an open science culture and creating the infrastructure for information sharing on GitHub. 
 
 *Team Leads:* Becca Van Hoeck (NEFSC), Shannon Rankin (SWFSC)
+
+Openscapes show and tell [discussion board](https://github.com/SAEL-SWFSC/OpenScience/discussions/categories/show-and-tell)
