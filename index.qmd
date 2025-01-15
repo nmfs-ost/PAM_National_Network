@@ -8,7 +8,3 @@ NOAA Fisheries’ PAM programs collect underwater sound recordings of the marine
 
 There are seven NOAA Fisheries PAM programs including each regional Science Center and the Office of Science & Technology's Ocean Acoustic Program. This repository serves to enhance National PAM collaboration within NOAA Fisheries and our partners through a common GitHub structure. Each of the regional science centers is in the process of establishing a region specific landing page that mimics the structure of this National page.
 
-<details>
-<summary>dropdown_title</summary>
-contents
-</details>
