@@ -10,6 +10,9 @@ This page serves as a landing page to coordinate progress towards the Passive Ac
 
 The PAM SI Team has identified eight priority projects that combined work towards two overarching goals: (1) National Data & Analysis Integration and (2) Infrastructure Development & Efficiency. Progress towards these goals will implement transformational activities that will significantly change the way in which we collect, analyze, and make PAM data accessible for answering mission critical questions.
 
+## PAM SI Workflow
+![](/content/images/PAM_SI_workflow.PNG)
+
 ## Important Links
 
 -   [PAM SI Active Action Items tracker](https://docs.google.com/spreadsheets/d/1h1950peKh4xwDw4l7brdDYDucXHnOkf-7q-0hN_xAsM/edit?usp=sharing)
