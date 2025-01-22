@@ -41,8 +41,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../../site_libs/bootstrap/bootstrap-1b3b6ae1270efa41ab8a3afa815a4c7b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../../site_libs/bootstrap/bootstrap-dark-ec233c43085d5f5b55312e120616ba47.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../../site_libs/bootstrap/bootstrap-d60dc51e4780a8da6e803e03ea2fa71c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/bootstrap/bootstrap-dark-e19d0f8100c91b5b96a38b37e81d057c.min.css" rel="prefetch" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -288,7 +288,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#ncei-archiving" id="toc-ncei-archiving" class="nav-link active" data-scroll-target="#ncei-archiving">NCEI Archiving</a></li>
+  <li><a href="#ncei-archiving" id="toc-ncei-archiving" class="nav-link active" data-scroll-target="#ncei-archiving">NCEI Archiving</a>
+  <ul class="collapse">
+  <li><a href="#goal" id="toc-goal" class="nav-link" data-scroll-target="#goal">Goal</a></li>
+  <li><a href="#summary" id="toc-summary" class="nav-link" data-scroll-target="#summary">Summary</a></li>
+  <li><a href="#team-leads" id="toc-team-leads" class="nav-link" data-scroll-target="#team-leads">Team leads</a></li>
+  <li><a href="#action-items" id="toc-action-items" class="nav-link" data-scroll-target="#action-items">Action items</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/nmfs-ost/PAM_National_Network/edit/main/content/SI coord/PAM_priority_projects/NCEI_archiving.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/nmfs-ost/PAM_National_Network/blob/main/content/SI coord/PAM_priority_projects/NCEI_archiving.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/nmfs-ost/PAM_National_Network/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -300,10 +306,31 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="ncei-archiving" class="level2">
 <h2 class="anchored" data-anchor-id="ncei-archiving">NCEI Archiving</h2>
-<p><strong>Goal:</strong> Build efficient workflows to archive large volumes of NMFS PAM data and meet the projected data growth needs</p>
-<p><em>Team Leads:</em> Carrie Wall Bell (NCEI), Jason Gedamke (OST)</p>
+<section id="goal" class="level3">
+<h3 class="anchored" data-anchor-id="goal">Goal</h3>
+<p>Build efficient workflows to archive large volumes of NMFS PAM data and meet the projected data growth needs</p>
+</section>
+<section id="summary" class="level3">
+<h3 class="anchored" data-anchor-id="summary">Summary</h3>
+<p>The NCEI Passive Acoustic Data (PAD) Archive team will work collaboratively with each NMFS FMC to develop configurable tools that will facilitate FMCs to prepare numerous datasets in a more automated way for archiving at NCEI. This will allow this collective group to meet the PAM SI goal of archiving 900 TB of data in three years (Objective 3) and make significant progress towards meeting NOAA PARR requirements.</p>
+</section>
+<section id="team-leads" class="level3">
+<h3 class="anchored" data-anchor-id="team-leads">Team leads</h3>
+<p>Carrie Wall Bell (NCEI), Jason Gedamke (OST)</p>
+</section>
+<section id="action-items" class="level3">
+<h3 class="anchored" data-anchor-id="action-items">Action items</h3>
+<ol type="1">
+<li><strong>Archive Breakdown</strong>: FMCs are asked to update <a href="https://docs.google.com/spreadsheets/d/1l-Dfh7DtM11FfrXrn1Ub9dqPl3uSQEd3yRSWiaK_eF0/edit?usp=sharing">this spreadsheet</a> with revised information based on the original table of datasets to archive found in PAM <a href="https://docs.google.com/document/d/1BPkv6vRO97T9Vitud8Ng5ws7tudbtD-IF2NwzX4oRmU/edit?usp=sharing">SI proposal</a> / <a href="https://docs.google.com/presentation/d/1TewDhV21FjX2ANAzedxMR5s_q94eciiu-iTafjJRUVM/edit#slide=id.g2c4705a5e9b_0_35">slide 12</a>. The request is to provide more details on prioritized datasets, target month(s) for data submission, identify POCs to work with the archive team, and describe how metadata are stored (e.g., spreadsheet, Oracle database). Deadline: April, 2024.</li>
+<li><strong>FLAC Check</strong>: Confirm FLAC conversion doesn’t alter audio values with Peter Dugan. Deadline: April, 2024.</li>
+<li><strong>Kourtney’s Kode</strong>: Kourtney will share her <a href="https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-Archive.html#ncei-data-archive">Passive Packer process</a> - using <a href="https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/NCEI.html#passive-packer-resources">semi automated code</a> to convert <a href="https://docs.google.com/spreadsheets/d/1iyNaKKLbqSHK-iWLADO-YQMNaq4XVsIqYbaeHD2Z_AU/edit?usp=sharing">deployment metadata spreadsheet</a> to Passive Packer ready database. Deadline: April, 2024.</li>
+<li><strong>Metadata Madness</strong>: Meeting with NCEI PAD team, Kourtney, Jeff Walker, and Genevieve Davis to review metadata fields and ensure alignment between NCEI Passive Packer / Kourtney’s code /PACM. Deadline: May, 2024.</li>
+<li><strong>Bracing for the Data Tsunami</strong>: NCEI PAD team assesses data prioritization and metadata information provided by the FMCs (Action 1) and outlines a plan for building the necessary capabilities into Passive Packer and the archive pipeline. Deadline: June, 2024.</li>
+<li><strong>Call Me Maybe</strong>: Establish bimonthly meetings with NCEI PAD team and POCs to ensure regular communication regarding progress of archive development tasks and FMC dataset preparation.Deadline: July, 2024.</li>
+</ol>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
