@@ -2,7 +2,7 @@
 title: Openscapes
 ---
 ## Team leads
-Becca Van Hoeck (NEFSC), Shannon Rankin (SWFSC)
+Shannon Rankin (SWFSC), Kourtney Burger (SWFSC), Bella Garfield (NEFSC), Becca Van Hoeck (NEFSC) 
 
 
 ## Goals
