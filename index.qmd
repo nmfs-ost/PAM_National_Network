@@ -10,6 +10,8 @@ There are seven NOAA Fisheries PAM programs including each regional Science Cent
 
 ## Regional National Marine Fisheries Lab Manuals
 
+-   [PIFSC: Pacific Islands Fisheries](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/)
+
 -   [SWFSC: Southwest Fisheries](https://sael-swfsc.github.io/SAEL-lab-manual/)
 
 -   [NWFSC: Northwest Fisheries](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/)
