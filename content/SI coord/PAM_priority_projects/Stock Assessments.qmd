@@ -1,13 +1,10 @@
 # PAM & Stock Assessments
 
 ## Project 1: Incorporating glider data in a species distribution modeling framework
-![](/content/images/Priority_project_graphics/Stock_assessments/SLOCUM-GLIDER.png){width=40%}
+![](/content/images/Priority_project_graphics/Stock_assessments/SLOCUM-GLIDER.png){width=30%}
 
 ### Team Leads
 Erin Oleson (PIFSC), Yvonne Barkley (PIFSC)
-
-### Goal
-Advance the accuracy of stock assessments to capture seasonal and long-term changes using glider PAM datasets.
 
 ### Target outcome
 Advancing the accuracy of stock assessments to capture seasonal and long-term changes in distribution using PAM glider datasets.
@@ -76,3 +73,15 @@ Towed hydrophone arrays are a standard part of NMFS line-transect surveys. Often
 6. **Resolve bugs:** Pina or others address usability needs of all users. 
 
 7. **Aspirational step to improve tool:** If time and capacity allows, consider attempting to integrate depth estimation for more accurate horizontal distance estimation for deep divers based on Yvonne/Annamaria’s work.
+
+
+## Accomplishments
+1. Devin and Janelle awarded funding from NMFS Science & Technology International Fellowship to travel to Univ. of St. Andrews for 2 weeks with CREEM folks (Len, Danielle, Tiago) to work on statistical methods 
+2. This analysis team met 2 weeks ago to start the statistical development for integrating acoustic data into SDMs for towed arrays, so initial thinking is underway!
+3. Data collection underway 
+
+## Existing and expected data sets
+
+![**Main Hawaiian Islands Spring 2022 and 2023**](/content/images/Priority_project_graphics/Stock_assessments/Hawaii.map.PNG)
+
+![**CalCurCEAS - Oregon - Fall 2024 - 3 gliders + DASBRs**](/content/images/Priority_project_graphics/Stock_assessments/Oregon.map.PNG){width=40%}
