@@ -13,10 +13,15 @@ The NCEI Passive Acoustic Data (PAD) Archive team will work collaboratively with
 
 ### Action items
 1. **Archive Breakdown**: FMCs are asked to update [this spreadsheet](https://docs.google.com/spreadsheets/d/1l-Dfh7DtM11FfrXrn1Ub9dqPl3uSQEd3yRSWiaK_eF0/edit?usp=sharing) with revised information based on the original table of datasets to archive found in PAM [SI proposal](https://docs.google.com/document/d/1BPkv6vRO97T9Vitud8Ng5ws7tudbtD-IF2NwzX4oRmU/edit?usp=sharing) / [slide 12](https://docs.google.com/presentation/d/1TewDhV21FjX2ANAzedxMR5s_q94eciiu-iTafjJRUVM/edit#slide=id.g2c4705a5e9b_0_35). The request is to provide more details on prioritized datasets, target month(s) for data submission, identify POCs to work with the archive team, and describe how metadata are stored (e.g., spreadsheet, Oracle database). Deadline: April, 2024.
+
 2. **FLAC Check**: Confirm FLAC conversion doesn’t alter audio values with Peter Dugan. Deadline: April, 2024.
+
 3. **Kourtney’s Kode**: Kourtney will share her [Passive Packer process](https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-Archive.html#ncei-data-archive) - using [semi automated code](https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/NCEI.html#passive-packer-resources) to convert [deployment metadata spreadsheet](https://docs.google.com/spreadsheets/d/1iyNaKKLbqSHK-iWLADO-YQMNaq4XVsIqYbaeHD2Z_AU/edit?usp=sharing) to Passive Packer ready database. Deadline: April, 2024.
+
 4. **Metadata Madness**: Meeting with NCEI PAD team, Kourtney, Jeff Walker, and Genevieve Davis to review metadata fields and ensure alignment between NCEI Passive Packer / Kourtney’s code /PACM. Deadline: May, 2024.
+
 5. **Bracing for the Data Tsunami**: NCEI PAD team assesses data prioritization and metadata information provided by the FMCs (Action 1) and outlines a plan for building the necessary capabilities into Passive Packer and the archive pipeline. Deadline: June, 2024.
+
 6. **Call Me Maybe**: Establish bimonthly meetings with NCEI PAD team and POCs to ensure regular communication regarding progress of archive development tasks and FMC dataset preparation.Deadline: July, 2024.
 
 ## Project 2: Native to FLAC Conversion
