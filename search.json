@@ -383,7 +383,7 @@
     "href": "content/SI coord/PAM_priority_projects/National Decision Support Tool.html",
     "title": "NOAA quarto simple",
     "section": "",
-    "text": "Goal: Develop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends\nTeam Leads (all NEFSC): Sofie Van Parijs, Genevieve Davis, Jeff Walker",
+    "text": "Sofie Van Parijs, Genevieve Davis, Jeff Walker\n\n\n\nDevelop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends\n\n\n\n1. Migrated existing PACM web application from NEFSC on-prem server to Google Cloud Platform with help from NMFS ACIO  Passive Acoustic Cetacean Map\n2. Finalized PostgreSQL database schema for storing passive acoustic detection data and associated metadata from multiple organizations\n\n3. Cleaned, transformed, merged all available legacy data from multiple sources into new schema using {targets} R package",
     "crumbs": [
       "PAM SI",
       "National Decision Support Tool"
@@ -394,7 +394,7 @@
     "href": "content/SI coord/PAM_priority_projects/National Decision Support Tool.html#nmfs-pam-google-cloud-project-2",
     "title": "NOAA quarto simple",
     "section": "",
-    "text": "Goal: Develop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends\nTeam Leads (all NEFSC): Sofie Van Parijs, Genevieve Davis, Jeff Walker",
+    "text": "Sofie Van Parijs, Genevieve Davis, Jeff Walker\n\n\n\nDevelop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends\n\n\n\n1. Migrated existing PACM web application from NEFSC on-prem server to Google Cloud Platform with help from NMFS ACIO  Passive Acoustic Cetacean Map\n2. Finalized PostgreSQL database schema for storing passive acoustic detection data and associated metadata from multiple organizations\n\n3. Cleaned, transformed, merged all available legacy data from multiple sources into new schema using {targets} R package",
     "crumbs": [
       "PAM SI",
       "National Decision Support Tool"

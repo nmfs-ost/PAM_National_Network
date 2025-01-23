@@ -288,7 +288,12 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#nmfs-pam-google-cloud-project-2" id="toc-nmfs-pam-google-cloud-project-2" class="nav-link active" data-scroll-target="#nmfs-pam-google-cloud-project-2">NMFS PAM Google Cloud Project #2</a></li>
+  <li><a href="#nmfs-pam-google-cloud-project-2" id="toc-nmfs-pam-google-cloud-project-2" class="nav-link active" data-scroll-target="#nmfs-pam-google-cloud-project-2">NMFS PAM Google Cloud Project #2</a>
+  <ul class="collapse">
+  <li><a href="#team-leads-all-nefsc" id="toc-team-leads-all-nefsc" class="nav-link" data-scroll-target="#team-leads-all-nefsc">Team Leads (all NEFSC)</a></li>
+  <li><a href="#goal" id="toc-goal" class="nav-link" data-scroll-target="#goal">Goal</a></li>
+  <li><a href="#accomplishments" id="toc-accomplishments" class="nav-link" data-scroll-target="#accomplishments">Accomplishments</a></li>
+  </ul></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/nmfs-ost/PAM_National_Network/edit/main/content/SI coord/PAM_priority_projects/National Decision Support Tool.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/nmfs-ost/PAM_National_Network/blob/main/content/SI coord/PAM_priority_projects/National Decision Support Tool.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/nmfs-ost/PAM_National_Network/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -300,10 +305,24 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="nmfs-pam-google-cloud-project-2" class="level2">
 <h2 class="anchored" data-anchor-id="nmfs-pam-google-cloud-project-2">NMFS PAM Google Cloud Project #2</h2>
-<p><strong>Goal:</strong> Develop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends</p>
-<p><em>Team Leads (all NEFSC):</em> Sofie Van Parijs, Genevieve Davis, Jeff Walker</p>
+<section id="team-leads-all-nefsc" class="level3">
+<h3 class="anchored" data-anchor-id="team-leads-all-nefsc">Team Leads (all NEFSC)</h3>
+<p>Sofie Van Parijs, Genevieve Davis, Jeff Walker</p>
+</section>
+<section id="goal" class="level3">
+<h3 class="anchored" data-anchor-id="goal">Goal</h3>
+<p>Develop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends</p>
+</section>
+<section id="accomplishments" class="level3">
+<h3 class="anchored" data-anchor-id="accomplishments">Accomplishments</h3>
+<p><strong>1.</strong> Migrated existing PACM web application from NEFSC on-prem server to Google Cloud Platform with help from NMFS ACIO <img src="../../../content/images/Priority_project_graphics/cloud_2/PACM_migration.PNG" class="img-fluid" style="width:60.0%"> <a href="https://apps-nefsc.fisheries.noaa.gov/pacm/#/narw">Passive Acoustic Cetacean Map</a></p>
+<p><strong>2.</strong> Finalized PostgreSQL database schema for storing passive acoustic detection data and associated metadata from multiple organizations</p>
+<p><img src="../../../content/images/Priority_project_graphics/cloud_2/schema_workflow.PNG" class="img-fluid" style="width:50.0%"></p>
+<p><strong>3.</strong> Cleaned, transformed, merged all available legacy data from multiple sources into new schema using {targets} R package</p>
+<p><img src="../../../content/images/Priority_project_graphics/cloud_2/legacy_data_merge.PNG" class="img-fluid"></p>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
