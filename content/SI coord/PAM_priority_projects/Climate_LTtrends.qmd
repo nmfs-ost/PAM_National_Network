@@ -1,5 +1,35 @@
-## PAM & Climate / Long-term Trends
+# PAM & Climate / Long-term Trends ![](/content/images/Priority_project_graphics/Climate_trends/Humpback_whale.png){width=30%}
+---
 
-**Goal:** Integration of PAM and environmental data to support climate change investigations by developing new tools that can be applied to all regions and species of interest. 
+### Goal
+Integration of PAM and environmental data to support climate change investigations by developing new tools that can be applied to all regions and species of interest. 
 
-*Team Leads:* Genevieve Davis (NEFSC), Julia Zeh (NEFSC)
+### Target outcome
+To advance data integration in support of creating tools for climate change applications with PAM data and to develop new tools for integration of PAM and environmental data to support climate change investigations.
+
+### Summary
+We will create a streamlined workflow to integrate PAM data with necessary ancillary datasets to address questions relevant to climate change and long-term species trends. This workflow will include: identifying PAM data to be included; identifying the climatological data to be included; creating tools for accessing, formatting, and integrating a subset of these data streams; and using these tools and approaches broadly across all regions and species of interest. 
+
+The first goal of this project is to compare humpback whale occurrence trends nationwide. All regions will submit and format their humpback detection data into the Passive Acoustic Cetacean Map database. 
+
+The second goal will be to identify and create tools to access and apply relevant climate data on the humpback whale dataset. 
+
+This workflow will allow for a national comparison of one species to be able to identify and compare changes (or lack thereof) within and across regions. Once this structure has been established, these standardized data formats, tools, and environmental
+data streams can be applied across the range of project goals and regional needs, including regional-specific high-profile species. This project directly supports the PAM SI objective to advance PAM data analysis and integration approaches with an emphasis on addressing long-term trends.
+
+### Action items
+1. **Data Identification:** Identify existing humpback detection data sets to be included. Deadline: May 2024
+2. **Environmental data identification:** Identify environmental data (i.e. parameters, spatio-temporal range, source) to integrate with daily PACM output. Deadline: May, 2024.
+3. **Format data to PACM:** Get humpback detection data formatted and submitted into PACM, on an hourly or daily scale. This phase includes meetings, as-needed tutorials, consultation with Jeff Walker, as well as identifying and developing the tools needed. Deadline: December, 2024.
+4. **Access and aggregate detection data from PACM:** Pull humpback detection data from PACM in standardized format aggregated at daily scale. This phase includes meetings, tutorials, identifying and developing tools as needed. Deadline: January, 2025.
+5. **Develop and refine workflow:** Develop and refine processing workflow that extracts identified environmental data from various sources and integrates with daily PACM outputs. Includes creating open-source / github hosted repo that is tested and implemented across FMCs (Taiki). Deadline: May, 2025.
+6. **Identify additional data:** Identify which additional data (regional-specific or other species-specific data) we’d want tools for to help predict movements and move towards addressing climate-related questions. Deadline: May, 2026.
+7. **Output products:** Identify and draft collaborative questions, papers, products to compare across FMC’s and regions. Deadline: July, 2026.
+8. **Aspirational next steps:** Explore methods for incorporating additional PAM data into workflow from other platforms (mobile or drifting data) or from AI tools for species detection, as available. Deadline: August, 2026.
+
+### Accomplishments
+[Spreadsheet of available humpback data](https://docs.google.com/spreadsheets/u/0/d/128jZhAl3YAP3QF2Ww7e04CSRxMch5IIFebsX2NqFFpU/edit)
+
+### Team Leads
+Genevieve Davis (NEFSC), Julia Zeh (NEFSC)
+
