@@ -4,7 +4,6 @@ title: Openscapes
 ## Team leads
 Shannon Rankin (SWFSC), Kourtney Burger (SWFSC), Bella Garfield (NEFSC), Becca Van Hoeck (NEFSC) 
 
-
 ## Goals
 
 [Openscapes](https://openscapes.org/) is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort.

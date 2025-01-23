@@ -2,18 +2,16 @@
 
 ![](/content/images/Priority_project_graphics/Cloud/Direct-upload-cloud.png){width=35%}
 
+### Team Leads 
+Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC)
+
 ### Goal 
 Demonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS PAM operations and support the protected species mission\
 
 ### Target outcome
 Developing a National PAM Cloud operational repository for data processing and storage
 
-![](/content/images/Priority_project_graphics/Cloud/flowchart.PNG)
-
-### Team Leads 
-Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC)
-
-
+![](/content/images/Priority_project_graphics/Cloud/flowchart.)
 
 ### Project steps
 

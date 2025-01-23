@@ -1,6 +1,9 @@
 # PAM & Climate / Long-term Trends ![](/content/images/Priority_project_graphics/Climate_trends/Humpback_whale.png){width=30%}
 ---
 
+### Team Leads
+Genevieve Davis (NEFSC), Julia Zeh (NEFSC)
+
 ### Goal
 Integration of PAM and environmental data to support climate change investigations by developing new tools that can be applied to all regions and species of interest. 
 
@@ -30,6 +33,4 @@ data streams can be applied across the range of project goals and regional needs
 ### Accomplishments
 [Spreadsheet of available humpback data](https://docs.google.com/spreadsheets/u/0/d/128jZhAl3YAP3QF2Ww7e04CSRxMch5IIFebsX2NqFFpU/edit)
 
-### Team Leads
-Genevieve Davis (NEFSC), Julia Zeh (NEFSC)
 

@@ -2,14 +2,14 @@
 
 ## Project 1: National PAM Archival Storage: NCEI Archiving
 
+### Team leads
+Carrie Wall Bell (NCEI), Jason Gedamke (OST)
+
 ### Goal
 Build efficient workflows to archive large volumes of NMFS PAM data and meet the projected data growth needs
 
 ### Summary
 The NCEI Passive Acoustic Data (PAD) Archive team will work collaboratively with each NMFS FMC to develop configurable tools that will facilitate FMCs to prepare numerous datasets in a more automated way for archiving at NCEI. This will allow this collective group to meet the PAM SI goal of archiving 900 TB of data in three years (Objective 3) and make significant progress towards meeting NOAA PARR requirements.
-
-### Team leads
-Carrie Wall Bell (NCEI), Jason Gedamke (OST)
 
 ### Action items
 1. **Archive Breakdown**: FMCs are asked to update [this spreadsheet](https://docs.google.com/spreadsheets/d/1l-Dfh7DtM11FfrXrn1Ub9dqPl3uSQEd3yRSWiaK_eF0/edit?usp=sharing) with revised information based on the original table of datasets to archive found in PAM [SI proposal](https://docs.google.com/document/d/1BPkv6vRO97T9Vitud8Ng5ws7tudbtD-IF2NwzX4oRmU/edit?usp=sharing) / [slide 12](https://docs.google.com/presentation/d/1TewDhV21FjX2ANAzedxMR5s_q94eciiu-iTafjJRUVM/edit#slide=id.g2c4705a5e9b_0_35). The request is to provide more details on prioritized datasets, target month(s) for data submission, identify POCs to work with the archive team, and describe how metadata are stored (e.g., spreadsheet, Oracle database). Deadline: April, 2024.
