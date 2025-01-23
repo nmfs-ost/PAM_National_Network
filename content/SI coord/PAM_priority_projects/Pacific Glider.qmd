@@ -2,4 +2,4 @@
 
 **Goal:** Develop R2O plan intended to serve all regions to integrate PAM gliders into assessment missions, reducing shiptime needs.
 
-*Team Leads:* Erin Oleson (PIFSC), Shannon Rankin (SWFSC), UxS SI
+*Team Leads:* Erin Oleson (PIFSC), Shannon Rankin (SWFSC)

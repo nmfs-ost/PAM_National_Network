@@ -11,7 +11,7 @@ Demonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS
 ### Target outcome
 Developing a National PAM Cloud operational repository for data processing and storage
 
-![](/content/images/Priority_project_graphics/Cloud/flowchart.)
+![](/content/images/Priority_project_graphics/Cloud/flowchart.PNG)
 
 ### Project steps
 

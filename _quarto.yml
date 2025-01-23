@@ -38,19 +38,19 @@ website:
         contents:
           - href: content/SI coord/Openscapes.qmd
             text: Openscapes
-          - href: content/SI coord/PAM_priority_projects/Climate_LTtrends.qmd
+          - href: content/SI coord/PAM_priority_projects/Climate Trends.qmd
             text: Climate & Long-Term Trends
-          - href: content/SI coord/PAM_priority_projects/Stock_Assessments.qmd
+          - href: content/SI coord/PAM_priority_projects/Stock Assessments.qmd
             text: Stock Assessments
           - href: content/SI coord/PAM_priority_projects/Soundscapes.qmd
             text: Soundscapes
-          - href: content/SI coord/PAM_priority_projects/Cloud_storage.qmd
+          - href: content/SI coord/PAM_priority_projects/Cloud Storage.qmd
             text: Cloud Storage Solutions
-          - href: content/SI coord/PAM_priority_projects/Nationaldecision_supporttool.qmd
+          - href: content/SI coord/PAM_priority_projects/National Decision Support Tool.qmd
             text: National Decision Support Tool
-          - href: content/SI coord/PAM_priority_projects/Pacific_glider.qmd
+          - href: content/SI coord/PAM_priority_projects/Pacific Glider.qmd
             text: Pacific Glider R2O
-          - href: content/SI coord/PAM_priority_projects/NCEI_archiving.qmd
+          - href: content/SI coord/PAM_priority_projects/NCEI Archiving.qmd
             text: NCEI Archiving
       - href: content/FieldMethods.qmd
         text: "Field Methods"

@@ -1,13 +1,13 @@
 # PAM & Stock Assessments
 
-### Goal
-Advance the accuracy of stock assessments to capture seasonal and long-term changes using glider PAM datasets.
-
 ## Project 1: Incorporating glider data in a species distribution modeling framework
 ![](/content/images/Priority_project_graphics/Stock_assessments/SLOCUM-GLIDER.png){width=40%}
 
 ### Team Leads
 Erin Oleson (PIFSC), Yvonne Barkley (PIFSC)
+
+### Goal
+Advance the accuracy of stock assessments to capture seasonal and long-term changes using glider PAM datasets.
 
 ### Target outcome
 Advancing the accuracy of stock assessments to capture seasonal and long-term changes in distribution using PAM glider datasets.
