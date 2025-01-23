@@ -1,5 +1,24 @@
 ## NMFS PAM Google Cloud Project #2
 
-**Goal:** Develop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends
+### Team Leads (all NEFSC)
+Sofie Van Parijs, Genevieve Davis, Jeff Walker
 
-*Team Leads (all NEFSC):* Sofie Van Parijs, Genevieve Davis, Jeff Walker
+### Goal 
+Develop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends
+
+### Accomplishments
+
+**1.** Migrated existing PACM web application from NEFSC on-prem server to Google Cloud Platform with help from NMFS ACIO
+![](/content/images/Priority_project_graphics/cloud_2/PACM_migration.PNG){width=60%}
+[Passive Acoustic Cetacean Map](https://apps-nefsc.fisheries.noaa.gov/pacm/#/narw)
+
+
+
+**2.** Finalized PostgreSQL database schema for storing passive acoustic detection data and associated metadata from multiple organizations
+
+![](/content/images/Priority_project_graphics/cloud_2/schema_workflow.PNG){width=50%}
+
+
+**3.** Cleaned, transformed, merged all available legacy data from multiple sources into new schema using {targets} R package
+
+![](/content/images/Priority_project_graphics/cloud_2/legacy_data_merge.PNG)
