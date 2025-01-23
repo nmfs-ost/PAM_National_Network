@@ -38,7 +38,7 @@ website:
         contents:
           - href: content/SI coord/Openscapes.qmd
             text: Openscapes
-          - href: content/SI coord/PAM_priority_projects/Climate Trends.qmd
+          - href: content/SI coord/PAM_priority_projects/Long Term Trends.qmd
             text: Climate & Long-Term Trends
           - href: content/SI coord/PAM_priority_projects/Stock Assessments.qmd
             text: Stock Assessments

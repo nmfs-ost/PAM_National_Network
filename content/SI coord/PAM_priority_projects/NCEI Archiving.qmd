@@ -37,11 +37,11 @@ The goal of this effort will be to eliminate the time-consuming step of converti
 
 ### Action Items
 1. **Convert to FLAC**: Develop processing pipeline to save native data formats to FLAC. This will include three sub tasks:
-  * Establish a list of what the native file formats are that we want to evaluate going from native to FLAC. Deadline: May, 2024
-  * Determine the level of effort to convert the formats listed in subtask 1 to FLAC and who will complete that work. Deadline: September, 2024
-  * Create processing code to convert identified native file types to FLAC. Deadline: Fall 2025
+  * Establish a list of what the native file formats are that we want to evaluate going from native to FLAC.
+  * Determine the level of effort to convert the formats listed in subtask 1 to FLAC and who will complete that work. 
+  * Create processing code to convert identified native file types to FLAC. 
   
 2. **Process FLAC**: Update common analysis software to read FLAC. This will include three sub tasks:
-  * Establish a list of standard software to develop this capacity. Deadline: May, 2024
-  * Determine what is needed to adjust the software list in subtask 1 to input FLAC files. Deadline: September, 2024
-  * Issue contract to complete the work identified in subtask 2. Deadline: Spring 2025
+  * Establish a list of standard software to develop this capacity. 
+  * Determine what is needed to adjust the software list in subtask 1 to input FLAC files. 
+  * Issue contract to complete the work identified in subtask 2. 
