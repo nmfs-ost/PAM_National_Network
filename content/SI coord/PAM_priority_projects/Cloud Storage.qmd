@@ -1,6 +1,4 @@
-## NMFS PAM Google Cloud Project #1
-
-![](/content/images/Priority_project_graphics/Cloud/Direct-upload-cloud.png){width=35%}
+## NMFS PAM Google Cloud Project #1 ![](/content/images/Priority_project_graphics/Cloud/Direct-upload-cloud.png){width=25%}
 
 ### Team Leads 
 Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC)
@@ -17,7 +15,9 @@ Developing a National PAM Cloud operational repository for data processing and s
 
 <details>
 <summary><font size = "5">PAM GCP Technical System Documentation</font></summary>
-*Overview: Summary of key decisions, technical system set-up, and use expectations for using software applications in the PAM GCP. This document is an initial way to collaborate on developing the documentation and will be transitioned to the National PAM Network GitHub once folks have access.* 
+
+#### Overview 
+Summary of key decisions, technical system set-up, and use expectations for using software applications in the PAM GCP. This document is an initial way to collaborate on developing the documentation and will be transitioned to the National PAM Network GitHub once folks have access. 
 
 #### The acoustics SI and project design philosophy:
 The ggn-nmfs-pamdata-prod-1 (“pamdata”) GCP project is designed to encompass the requirements of the PAM SI, while best prioritizing the wants and needs of the end-users and use cases, and staying near best admin practices for NMFS OCIO GCP. The relevant objectives of the PAM acoustics SI include acoustic data storage across NMFS, and passive acoustic monitoring applications that generally feed from this data. The primary end-users of the system include data owners and users, and application owners, developers, and users. 
@@ -49,7 +49,7 @@ Each FMC has a distinct storage bucket for their data. This allows for some flex
 
 The browser allows for [easy viewing of the storage buckets](https://console.cloud.google.com/storage/browser?project=ggn-nmfs-pamdata-prod-1) such that non-technical users can easily interpret the current state of the data across the NMFS FMCs. However, the tool cannot distinguish the FMC buckets from application buckets, and in order to maintain easy interpretability applications will be encouraged to consolidate to fewer buckets as appropriate. Currently, three additional buckets outside of the FMC data buckets exist: the terraform state bucket, an application intermediate bucket, and an application output bucket.  
 
-#### Development resources:
+#### Development resources
 
 The following resources have been stood up for application development: 
 
