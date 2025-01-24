@@ -8,13 +8,13 @@ Samara Haver (PMEL), Megan McKenna (ONMS)
 ### Goal 
 Facilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generate decision support tools that integrate soundscape visualizations with multiple data types.
 
-![](/content/images/Priority_project_graphics/Soundscapes/Processing_pathways.PNG)
-
 ### Target outcome
 Identify, archive, and process soundscape metrics for priority SI PAM datasets to build capacity and consistency across programs.
 
 ### Summary
 This project will add soundscape metrics for priority PAM SI datasets alongside audio files and other metrics to the NCEI Passive Acoustics archive. The soundscape metrics will be used to develop and demonstrate soundscape interpretation and visualization tools being developed as part of the SI. The datasets will also facilitate comparison of data sampled by multiple recording technologies and projects that are unique to select FMCs. A technical guide for processing and archiving PAM data will also be prepared as part of this project. This project will work with PAM SI cloud computing projects to operationalize soundscape metric processing software in the cloud environment. Streamlining and documenting methods to process and archive soundscape metrics supports PAM SI objectives to advance PAM data analysis and integration approaches, and advance archival cloud capabilities.
+
+![](/content/images/Priority_project_graphics/Soundscapes/Processing_pathways.PNG){width=95%}
 
 ### Action items
 1. **Convene working group:** Establish data processing group, Google doc folder, regular check-in schedule. 
