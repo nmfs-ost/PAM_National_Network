@@ -1,5 +1,61 @@
-## Accelerating Pacific-wide PAM-glider operations
+# Accelerating Pacific-wide PAM-glider operations
 
-**Goal:** Develop R2O plan intended to serve all regions to integrate PAM gliders into assessment missions, reducing shiptime needs.
+![](/content/images/Priority_project_graphics/Glider/Glider.1.png){width=20%}![](/content/images/Priority_project_graphics/Glider/Glider.2.png){width=20%}![](/content/images/Priority_project_graphics/Glider/Glider.3.png){width=20%}![](/content/images/Priority_project_graphics/Glider/Glider.4.png){width=20%}
 
-*Team Leads:* Erin Oleson (PIFSC), Shannon Rankin (SWFSC)
+### Team Leads 
+Erin Oleson (PIFSC), Shannon Rankin (SWFSC)
+
+### Goal
+Develop R2O plan intended to serve all regions to integrate PAM gliders into assessment missions, reducing shiptime needs.
+
+## PAM-Glider National Roadmap
+
+
+### 1. Identify & Test Technology
+
+#### Build Capacity
+
+* Accomplishments
+  + PIFSC: 2 @ Seagliders, Glider Lab
+  + SWFSC: 2 @ Slocum, 2 @ Hefring Ocean Scout
+  + Expand DMON (expected by end of FY26)
+
+* Next steps
+  + Test!
+  
+#### Glider Rodeo
+
+* Accomplishments
+  + Alseamar Contract Awarded (data as a service for Glider Rodeo)
+  + Presentations at UG2 (Underwater Glider User Group, Erik Norris)
+  + [Glider Reseo Repo/Website](https://nmfs-pam-glider.github.io/GliderRodeo/)
+  
+* Next steps
+  + [Standardized Metrics for Comparison](https://nmfs-pam-glider.github.io/GliderRodeo/content/contactUs.html)
+  + Schedule/Plan Survey (Fall 2025 West Coast, Feb 2026 Hawaii)
+
+### 2. Concurrent Glider/Ship Surveys
+
+#### US West Coast CalCurCEAS
+
+* Accomplishments
+  + Partner with OSU: 3 Seagliders off Oregon
+  + [Access to real time maps/metadata](https://noaaosu.seaglider.pub/)
+
+* Next steps
+  + Survey data to Stock Assessment Team
+  + Hawaii Survey (Feb 2026)
+  
+### 3. Advanced Data Analysis
+Link our data with other teams (in process)
+
+### 4. Field Test Ecosystem Studies (UxS funded "Plankton to Whales")
+Postponed until SWFSC has PAM-Gliders
+
+### 5. Transition to Operations Plan --> National Roadmap
+* [PAM-Glider Github Organization](https://github.com/NMFS-PAM-Glider)
+* Repositories 
+  + [Glider Rodeo](https://nmfs-pam-glider.github.io/GliderRodeo/)
+  + [Glider-CalCurCEAS](https://github.com/NMFS-PAM-Glider/glider-CalCurCEAS)
+  + [PAM-UxS](https://nmfs-pam-glider.github.io/PAM-UxS/)
+* Openscapes: Create Repo/Foundation for Reports
