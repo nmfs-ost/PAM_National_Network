@@ -322,7 +322,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#nmfs-pam-google-cloud-project-1" id="toc-nmfs-pam-google-cloud-project-1" class="nav-link active" data-scroll-target="#nmfs-pam-google-cloud-project-1">NMFS PAM Google Cloud Project #1</a>
+  <li><a href="#nmfs-pam-google-cloud-project-1" id="toc-nmfs-pam-google-cloud-project-1" class="nav-link active" data-scroll-target="#nmfs-pam-google-cloud-project-1">NMFS PAM Google Cloud Project #1 <img src="../../../content/images/Priority_project_graphics/Cloud/Direct-upload-cloud.png" class="img-fluid" style="width:25.0%"></a>
   <ul class="collapse">
   <li><a href="#team-leads" id="toc-team-leads" class="nav-link" data-scroll-target="#team-leads">Team Leads</a></li>
   <li><a href="#goal" id="toc-goal" class="nav-link" data-scroll-target="#goal">Goal</a></li>
@@ -339,8 +339,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 <section id="nmfs-pam-google-cloud-project-1" class="level2">
-<h2 class="anchored" data-anchor-id="nmfs-pam-google-cloud-project-1">NMFS PAM Google Cloud Project #1</h2>
-<p><img src="../../../content/images/Priority_project_graphics/Cloud/Direct-upload-cloud.png" class="img-fluid" style="width:35.0%"></p>
+<h2 class="anchored" data-anchor-id="nmfs-pam-google-cloud-project-1">NMFS PAM Google Cloud Project #1 <img src="../../../content/images/Priority_project_graphics/Cloud/Direct-upload-cloud.png" class="img-fluid" style="width:25.0%"></h2>
 <section id="team-leads" class="level3">
 <h3 class="anchored" data-anchor-id="team-leads">Team Leads</h3>
 <p>Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC)</p>
@@ -361,7 +360,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <summary>
 <font size="5">PAM GCP Technical System Documentation</font>
 </summary>
-<p><em>Overview: Summary of key decisions, technical system set-up, and use expectations for using software applications in the PAM GCP. This document is an initial way to collaborate on developing the documentation and will be transitioned to the National PAM Network GitHub once folks have access.</em></p>
+<section id="overview" class="level4">
+<h4 class="anchored" data-anchor-id="overview">Overview</h4>
+<p>Summary of key decisions, technical system set-up, and use expectations for using software applications in the PAM GCP. This document is an initial way to collaborate on developing the documentation and will be transitioned to the National PAM Network GitHub once folks have access.</p>
+</section>
 <section id="the-acoustics-si-and-project-design-philosophy" class="level4">
 <h4 class="anchored" data-anchor-id="the-acoustics-si-and-project-design-philosophy">The acoustics SI and project design philosophy:</h4>
 <p>The ggn-nmfs-pamdata-prod-1 (“pamdata”) GCP project is designed to encompass the requirements of the PAM SI, while best prioritizing the wants and needs of the end-users and use cases, and staying near best admin practices for NMFS OCIO GCP. The relevant objectives of the PAM acoustics SI include acoustic data storage across NMFS, and passive acoustic monitoring applications that generally feed from this data. The primary end-users of the system include data owners and users, and application owners, developers, and users.</p>
@@ -417,7 +419,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>The browser allows for <a href="https://console.cloud.google.com/storage/browser?project=ggn-nmfs-pamdata-prod-1">easy viewing of the storage buckets</a> such that non-technical users can easily interpret the current state of the data across the NMFS FMCs. However, the tool cannot distinguish the FMC buckets from application buckets, and in order to maintain easy interpretability applications will be encouraged to consolidate to fewer buckets as appropriate. Currently, three additional buckets outside of the FMC data buckets exist: the terraform state bucket, an application intermediate bucket, and an application output bucket.</p>
 </section>
 <section id="development-resources" class="level4">
-<h4 class="anchored" data-anchor-id="development-resources">Development resources:</h4>
+<h4 class="anchored" data-anchor-id="development-resources">Development resources</h4>
 <p>The following resources have been stood up for application development:</p>
 <p><strong>Hardened docker image/server:</strong><br>
 Based on NMFS hardened linux container and preloaded with docker. I developed an imagining pipeline for this, meaning it will be easy to keep up to date and we can make as many copies of this as developers need them. Developing on this instead of locally will be a little closer to cloud and streamlines and simplifies some assumptions. Please make sure any developers working on containers understand this option exists and the advantages in doing development here (hardware flexibility, more similar to production, built in permissions w/o key management, etc).</p>
