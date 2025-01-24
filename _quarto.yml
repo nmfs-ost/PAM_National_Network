@@ -21,11 +21,11 @@ website:
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-ost.github.io/PAM_National_NMFS_Network
+        href: https://nmfs-ost.github.io/PAM_National_Network/
         text: "NMFS National Passive Acoustic Monitoring Network"
       - icon: github
-        href: https://github.com/nmfs-ost/PAM_template_lab_manual
-        text: "NMFS PAM SI Lab Manual Template"
+        href: https://github.com/nmfs-ost/PAM_National_Network
+        text: "NMFS PAM SI Lab Manual Github"
 
     style: "docked"
     search: true
