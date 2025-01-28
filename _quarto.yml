@@ -36,8 +36,8 @@ website:
       - section: content/SI coord/SI_Coordination.qmd
         text: PAM SI
         contents:
-          - href: content/SI coord/Openscapes.qmd
-            text: Openscapes
+          - href: content/SI coord/OpenScience.qmd
+            text: Open Science
           - href: content/SI coord/PAM_priority_projects/Long Term Trends.qmd
             text: Long-Term Trends
           - href: content/SI coord/PAM_priority_projects/Stock Assessments.qmd
