@@ -1,5 +1,5 @@
 ---
-title: "National Passive Acoustic Monitoring Network"
+title: "Lab Manual - National Passive Acoustic Monitoring Network"
 subtitle: "NOAA Fisheries"
 page-layout: full
 ---

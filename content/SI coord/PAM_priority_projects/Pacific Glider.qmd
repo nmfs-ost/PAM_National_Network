@@ -55,7 +55,7 @@ Postponed until SWFSC has PAM-Gliders
 ### 5. Transition to Operations Plan --> National Roadmap
 * [PAM-Glider Github Organization](https://github.com/NMFS-PAM-Glider)
 * Repositories 
-  + [Glider Rodeo](https://nmfs-pam-glider.github.io/GliderRodeo/)
+  + [Glider Rodeo](https://nmfs-ost.github.io/PAM-GliderRodeo/)
   + [Glider-CalCurCEAS](https://github.com/NMFS-PAM-Glider/glider-CalCurCEAS)
   + [PAM-UxS](https://nmfs-pam-glider.github.io/PAM-UxS/)
 * Openscapes: Create Repo/Foundation for Reports
