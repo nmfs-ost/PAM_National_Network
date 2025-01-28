@@ -393,7 +393,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "National Passive Acoustic Monitoring Network",
+    "title": "Lab Manual - National Passive Acoustic Monitoring Network",
     "section": "",
     "text": "NOAA Fisheries’ PAM programs collect underwater sound recordings of the marine environment. Identification of the sounds produced by protected marine mammal species, fishes, humans, or the environment allows for an understanding of marine soundscapes and provides information on changes in species distribution, behavior and/or density. The technological revolution in PAM over the past decade has allowed both acoustic recorders and analytical approaches to increasingly become an integral part of NOAA Fisheries core science mission. PAM’s capacity for creating long term time series makes it an ideal approach for evaluating changes in species stocks, ecosystem interactions, and climate change.\nThere are seven NOAA Fisheries PAM programs including each regional Science Center and the Office of Science & Technology’s Ocean Acoustic Program. This repository serves to enhance National PAM collaboration within NOAA Fisheries and our partners through a common GitHub structure. Each of the regional science centers is in the process of establishing a region specific landing page that mimics the structure of this National page.",
     "crumbs": [
@@ -403,7 +403,7 @@
   {
     "objectID": "index.html#regional-national-marine-fisheries-lab-manuals",
     "href": "index.html#regional-national-marine-fisheries-lab-manuals",
-    "title": "National Passive Acoustic Monitoring Network",
+    "title": "Lab Manual - National Passive Acoustic Monitoring Network",
     "section": "Regional National Marine Fisheries Lab Manuals",
     "text": "Regional National Marine Fisheries Lab Manuals\n\nPIFSC: Pacific Islands Fisheries\nSWFSC: Southwest Fisheries\nNWFSC: Northwest Fisheries\nAFSC: Alaska Fisheries\nSEFSC: Southeast Fisheries\nNEFSC: Northeast Fisheries",
     "crumbs": [
