@@ -55,7 +55,7 @@ geocode.alaska <- st_as_sf(regional_offices.alaska, coords = c("Long", "Lat"), c
 alaska <- tm_shape(alaska) +
   tm_fill() +
   tm_shape(geocode.alaska) +
-  tm_bubbles(col = "black", fill = "darkorchid4", size = .5) +
+  tm_bubbles(col = "black", fill = "darkorchid4", size = 1) +
   tm_text("Name1", size = 1.3, ymod = 1, xmod = 0, col = "darkorchid4") +
   tm_text("Name2", size = 1.3, ymod = -.8, xmod = -.6) 
 
@@ -72,11 +72,11 @@ hawaii <- tm_shape(hawaii) +
   tm_fill() +
   tm_borders() +
   tm_shape(geocode.hawaii) +
-  tm_bubbles(col = "black", fill = "cyan4", size = .5) +
-  tm_text("Name", size = 1.3, ymod = 0, xmod = -5, col = "cyan4") +
+  tm_bubbles(col = "black", fill = "cyan4", size = 1) +
+  tm_text("Name", size = 1.3, ymod = 0, xmod = -5, col = "cyan4") 
   tm_add_legend(type = "fill", 
                 labels = c("AFSC", "PIFSC"),
-                col = c("darkorchid4", "cyan4"),
+                col = c("coral3" "darkorchid4", "cyan4"),
                 border.lwd = 0.5,
                 title = "Office",
                 is.portrait = F)
