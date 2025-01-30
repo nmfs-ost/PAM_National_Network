@@ -1,4 +1,6 @@
-# PAM & Stock Assessments
+---
+title: PAM & Stock Assessments
+---
 
 ## Project 1: Incorporating glider data in a species distribution modeling framework
 ![](/content/images/Priority_project_graphics/Stock_assessments/SLOCUM-GLIDER.png){width=30%}

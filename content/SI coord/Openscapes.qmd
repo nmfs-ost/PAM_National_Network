@@ -1,0 +1,18 @@
+---
+title: Openscapes
+---
+## Team leads
+Shannon Rankin (SWFSC), Kourtney Burger (SWFSC), Bella Garfield (NEFSC), Becca Van Hoeck (NEFSC) 
+
+## Goals
+
+[Openscapes](https://openscapes.org/) is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort.
+
+Our goals include developing the NMFS PAM sharing structure in real time (national and [regional lab manuals](https://github.com/nmfs-ost/PAM_template_lab_manual)), building foundational open science knowledge, and sharing the lessons learned with our broader science center PAM groups
+
+## Notes
+
+All meeting notes and Openscapes related documents will be accessible in the [PAM SI Openscapes Google Drive Folder](https://drive.google.com/drive/folders/1HPBhA0jRF1XqKL_6RhoGASPFOO7pi40c?usp=drive_link)
+
+
+Openscience discussions are hosted on SAEL's Openscience Github repository. Access the [discussion board here](https://github.com/SAEL-SWFSC/OpenScience/discussions)

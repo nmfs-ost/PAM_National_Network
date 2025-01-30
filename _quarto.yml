@@ -36,22 +36,22 @@ website:
       - section: content/SI coord/SI_Coordination.qmd
         text: PAM SI
         contents:
-          - href: content/SI coord/OpenScience.qmd
-            text: Open Science
           - href: content/SI coord/PAM_priority_projects/Long Term Trends.qmd
-            text: Long-Term Trends
+            text: PAM-Trends
           - href: content/SI coord/PAM_priority_projects/Stock Assessments.qmd
-            text: Stock Assessments
+            text: PAM-Stocks
           - href: content/SI coord/PAM_priority_projects/Soundscapes.qmd
-            text: Soundscapes
+            text: PAM-Soundscapes
+          - href: content/SI coord/OpenScience.qmd
+            text: PAM-OpenScience
           - href: content/SI coord/PAM_priority_projects/Cloud Storage.qmd
-            text: Cloud Storage Solutions
+            text: PAM-Cloud
           - href: content/SI coord/PAM_priority_projects/National Decision Support Tool.qmd
             text: National Decision Support Tool
           - href: content/SI coord/PAM_priority_projects/Pacific Glider.qmd
-            text: Pacific Glider R2O
+            text: PAM-Glider
           - href: content/SI coord/PAM_priority_projects/NCEI Archiving.qmd
-            text: NCEI Archiving
+            text: PAM-NCEI
       - href: content/FieldMethods.qmd
         text: "Field Methods"
       - href: content/DataManagement.qmd

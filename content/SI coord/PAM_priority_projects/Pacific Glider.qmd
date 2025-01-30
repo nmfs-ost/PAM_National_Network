@@ -1,5 +1,6 @@
-# Accelerating Pacific-wide PAM-glider operations
-
+---
+title: Accelerating Pacific-wide PAM-glider operations
+---
 ![](/content/images/Priority_project_graphics/Glider/Glider.1.png){width=20%}![](/content/images/Priority_project_graphics/Glider/Glider.2.png){width=20%}![](/content/images/Priority_project_graphics/Glider/Glider.3.png){width=20%}![](/content/images/Priority_project_graphics/Glider/Glider.4.png){width=20%}
 
 ### Team Leads 

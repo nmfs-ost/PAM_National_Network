@@ -1,4 +1,8 @@
-## NMFS PAM Google Cloud Project #1 ![](/content/images/Priority_project_graphics/Cloud/Direct-upload-cloud.png){width=25%}
+---
+title: NMFS PAM Google Cloud Project 1 
+---
+
+![](/content/images/Priority_project_graphics/Cloud/Direct-upload-cloud.png){width=25%}
 
 ### Team Leads 
 Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC)

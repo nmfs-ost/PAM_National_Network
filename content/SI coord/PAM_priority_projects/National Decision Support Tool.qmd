@@ -1,4 +1,6 @@
-## NMFS PAM Google Cloud Project #2
+---
+title: NMFS PAM Google Cloud Project #2
+---
 
 ### Team Leads (all NEFSC)
 Sofie Van Parijs, Genevieve Davis, Jeff Walker

@@ -1,4 +1,6 @@
-# Soundscape Analysis, Metrics, and Tools
+---
+title: Soundscape Analysis, Metrics, and Tools
+---
 
 ## Project 1: Soundscape metric processing and archiving
 
