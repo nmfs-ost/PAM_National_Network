@@ -19,9 +19,6 @@ library(spDataLarge)
 library(ggplot2)
 library(fiftystater)
 library(mapproj)
-library(gridExtra)
-library(grid)
-library(png)
 
 regional_offices <- read.csv("content/code/Regional_offices_mainland.csv")
 geocode <- st_as_sf(regional_offices, coords = c("Long", "Lat"), crs = 4326)
@@ -76,12 +73,12 @@ hawaii <- tm_shape(hawaii) +
   tm_text("Name", size = 1.3, ymod = 0, xmod = -5, col = "cyan4") +
   tm_add_legend(type = "fill", 
                 labels = c("NEFSC", "SEFSC", "NWFSC", "SWFSC", "AFSC", "PIFSC"),
-                col = c("coral2","darkgoldenrod1","deepskyblue4","chartreuse3","darkorchid3","cyan3"),
+                col = c("coral2","darkgoldenrod1","deepskyblue3","chartreuse4","darkorchid3","cyan3"),
                 border.lwd = 0.5,
                 title = "Office",
                 is.portrait = F)
 
 hawaii
-tmap_save(hawaii, "content/code/output/Hawaii.png", dpi = 900)
+tmap_save(hawaii, "content/code/output/Hawaii.2.png", dpi = 900)
 
        
