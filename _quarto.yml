@@ -47,7 +47,7 @@ website:
           - href: content/SI coord/PAM_priority_projects/Cloud Storage.qmd
             text: PAM-Cloud
           - href: content/SI coord/PAM_priority_projects/National Decision Support Tool.qmd
-            text: National Decision Support Tool
+            text: PAM-Cloud-PACM
           - href: content/SI coord/PAM_priority_projects/Pacific Glider.qmd
             text: PAM-Glider
           - href: content/SI coord/PAM_priority_projects/NCEI Archiving.qmd

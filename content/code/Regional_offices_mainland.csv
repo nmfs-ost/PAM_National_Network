@@ -1,14 +1,15 @@
-Office,Lat,Long,Name1,Name2,Name3,Name4,Name5,Name6,Name7,Name8,Name9,Name10,Name11,Name12,Name13,Primary
-NEFSC,41.5254587,-70.6742067,WH Lab,,,,,,,,,,,,,1
-NEFSC,40.457995,-74.0025007,,SH Lab,,,,,,,,,,,,2
-NEFSC,41.2121098,-73.0536257,,,MI Lab,,,,,,,,,,,2
-NEFSC,41.4908041,-71.4214294,,,,NA Lab,,,,,,,,,,2
-NWFSC,47.6448556,-122.3069625,,,,,Montlake Lab,,,,,,,,,1
-SEFSC,25.7334877,-80.1605495,,,,,,Miami Lab,,,,,,,,1
-SEFSC,34.7187271,-76.6724365,,,,,,,Beaufort Lab,,,,,,,2
-SEFSC,29.2755168,-94.8150484,,,,,,,,Galveston Lab,,,,,,2
-SEFSC,30.366021,-88.5617118,,,,,,,,,Pascagoula Lab,,,,,2
-SEFSC,30.1476494,-85.7142667,,,,,,,,,,Panama City Lab,,,,2
-SWFSC,32.8700747,-117.251156,,,,,,,,,,,La Jolla Lab,,,1
-SWFSC,36.9520712,-122.0647781,,,,,,,,,,,,Santa Cruz Lab,,2
-SWFSC,36.6039386,-121.8949021,,,,,,,,,,,,,Monterey Lab,2
+Office,Name,Type,Lat,Long,Name1,Name2,Name3,Name4,Name5,Name6,Name7,Name8,Name9,Name10,Name11,Name12,Name13,Name14
+NEFSC,WH Lab,Primary,41.5254587,-70.6742067,WH Lab,,,,,,,,,,,,,
+NEFSC,SH Lab,Secondary,40.457995,-74.0025007,,SH Lab,,,,,,,,,,,,
+NEFSC,MI Lab,Secondary,41.2121098,-73.0536257,,,MI Lab,,,,,,,,,,,
+NEFSC,NA LAB,Secondary,41.4908041,-71.4214294,,,,NA Lab,,,,,,,,,,
+NWFSC,Montlake Lab,Primary,47.6448556,-122.3069625,,,,,Montlake Lab,,,,,,,,,
+SEFSC,Miami Lab,Primary,25.7334877,-80.1605495,,,,,,Miami Lab,,,,,,,,
+SEFSC,Beaufort Lab,Secondary,34.7187271,-76.6724365,,,,,,,Beaufort Lab,,,,,,,
+SEFSC,Galveston Lab,Secondary,29.2755168,-94.8150484,,,,,,,,Galveston Lab,,,,,,
+SEFSC,Pascagoula Lab,Secondary,30.366021,-88.5617118,,,,,,,,,Pascagoula Lab,,,,,
+SEFSC,Panama City Lab,Secondary,30.1476494,-85.7142667,,,,,,,,,,Panama City Lab,,,,
+SWFSC,La Jolla Lab,Primary,32.8700747,-117.251156,,,,,,,,,,,La Jolla Lab,,,
+SWFSC,Santa Cruz Lab,Secondary,36.9520712,-122.0647781,,,,,,,,,,,,Santa Cruz Lab,,
+SWFSC,Monterey Lab,Secondary,36.6039386,-121.8949021,,,,,,,,,,,,,Monterey Lab,
+AFSC,Alaska Fisheries Science Center Main Campus,Primary,47.6866365,-122.2598572,,,,,,,,,,,,,,AFSC Main Lab (Seattle)

@@ -4,18 +4,18 @@ title: NMFS PAM Google Cloud Project 1
 
 ![](/content/images/Priority_project_graphics/Cloud/Direct-upload-cloud.png){width=25%}
 
-### Team Leads 
+## Team Leads 
 Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC)
 
-### Goal 
+## Goal 
 Demonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS PAM operations and support the protected species mission\
 
-### Target outcome
+## Target outcome
 Developing a National PAM Cloud operational repository for data processing and storage
 
 ![](/content/images/Priority_project_graphics/Cloud/flowchart.PNG)
 
-### Project steps
+## Project Resources
 
 <details>
 <summary><font size = "5">PAM GCP Technical System Documentation</font></summary>
@@ -137,3 +137,6 @@ for(mooring in moorings){
 2. Authorize Service Acounts: Email Dan Woodrich [daniel.woodrich\@noaa.gov](mailto:daniel.woodrich@noaa.gov) the link to the checklist so he can complete that step on your behalf
 </details>
 
+## Report bug/issue in PAM windows workstation
+* [Report a bug](https://app.smartsheetgov.com/b/form/cb361c4cdbd7416c90bb5905020174a6)
+* [Bug Tracking](https://app.smartsheetgov.com/b/home?dlp=%2Fsheets%2FcQ7v4XMHJVWMPf938jpgCF46695VP7Fc8J2p6HH1&dlq=view%3Dcard%26cardLevel%3D0%26cardViewByColumnId%3D5253881597847428)
