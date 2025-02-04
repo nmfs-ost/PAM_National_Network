@@ -2,15 +2,15 @@
 title: Open Science
 ---
 
-## Team leads
+### Team leads
 
 Shannon Rankin (SWFSC), Kourtney Burger (SWFSC), Bella Garfield (NEFSC), Becca Van Hoeck (NEFSC)
 
-## Goals
+### Goals
 
 The overarching goal of the Open Science team is to facilitate adoption of Open Science Methods into our day to day research activities.
 
-## Action Items
+### Action Items
 
 1.  [**Openscapes**](https://openscapes.org/) **PAM Team Cohort:** Openscapes is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort. This cohort will serve as the backbone of our Open Science effort, and methods developed during the Openscapes project will be detailed in our stand-along [Open Science repository](https://sael-swfsc.github.io/OpenScience/).
 
@@ -20,7 +20,7 @@ The overarching goal of the Open Science team is to facilitate adoption of Open 
 
 4.  **Research Compendiums:** A research compendium is a comprehensive collection of all the digital components related to a research project, including data, code, and text (protocols, reports, metadata, etc). We will develop a set of best practices and a compendium template to encourage standardization of NMFS PAM Research Compendiums.
 
-## Notes
+### Notes
 
 All meeting notes and Openscapes related documents will be accessible in the [PAM SI Openscapes Google Drive Folder](https://drive.google.com/drive/folders/1HPBhA0jRF1XqKL_6RhoGASPFOO7pi40c?usp=drive_link)
 
