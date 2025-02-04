@@ -375,51 +375,7 @@
     "href": "content/SI coord/OpenScience.html",
     "title": "Open Science",
     "section": "",
-    "text": "Shannon Rankin (SWFSC), Kourtney Burger (SWFSC), Bella Garfield (NEFSC), Becca Van Hoeck (NEFSC)",
-    "crumbs": [
-      "PAM SI",
-      "PAM-OpenScience"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/OpenScience.html#team-leads",
-    "href": "content/SI coord/OpenScience.html#team-leads",
-    "title": "Open Science",
-    "section": "",
-    "text": "Shannon Rankin (SWFSC), Kourtney Burger (SWFSC), Bella Garfield (NEFSC), Becca Van Hoeck (NEFSC)",
-    "crumbs": [
-      "PAM SI",
-      "PAM-OpenScience"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/OpenScience.html#goals",
-    "href": "content/SI coord/OpenScience.html#goals",
-    "title": "Open Science",
-    "section": "Goals",
-    "text": "Goals\nThe overarching goal of the Open Science team is to facilitate adoption of Open Science Methods into our day to day research activities.",
-    "crumbs": [
-      "PAM SI",
-      "PAM-OpenScience"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/OpenScience.html#action-items",
-    "href": "content/SI coord/OpenScience.html#action-items",
-    "title": "Open Science",
-    "section": "Action Items",
-    "text": "Action Items\n\nOpenscapes PAM Team Cohort: Openscapes is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort. This cohort will serve as the backbone of our Open Science effort, and methods developed during the Openscapes project will be detailed in our stand-along Open Science repository.\nLab Manual: Development of a National Lab Manual and a Lab Manual for each Science Center. This will be initiated during the Openscapes program, and will serve as a landing page for all information related to the activities of each lab. This will lead to increased transparency and will facilitate information sharing between NOAA Science Centers, outside partners, and the public.\nPAM-SI Team Organization : Cross-center collaborations will be organized by teams, with landing pages for each PAM-SI team. This will allow for increased coordination, transparency and information sharing within and outside of these teams.\nResearch Compendiums: A research compendium is a comprehensive collection of all the digital components related to a research project, including data, code, and text (protocols, reports, metadata, etc). We will develop a set of best practices and a compendium template to encourage standardization of NMFS PAM Research Compendiums.",
-    "crumbs": [
-      "PAM SI",
-      "PAM-OpenScience"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/OpenScience.html#notes",
-    "href": "content/SI coord/OpenScience.html#notes",
-    "title": "Open Science",
-    "section": "Notes",
-    "text": "Notes\nAll meeting notes and Openscapes related documents will be accessible in the PAM SI Openscapes Google Drive Folder\nOpenscience discussions are hosted on SAEL’s Openscience Github repository. Access the discussion board here",
+    "text": "Team leads\nShannon Rankin (SWFSC), Kourtney Burger (SWFSC), Bella Garfield (NEFSC), Becca Van Hoeck (NEFSC)\n\n\nGoals\nThe overarching goal of the Open Science team is to facilitate adoption of Open Science Methods into our day to day research activities.\n\n\nAction Items\n\nOpenscapes PAM Team Cohort: Openscapes is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort. This cohort will serve as the backbone of our Open Science effort, and methods developed during the Openscapes project will be detailed in our stand-along Open Science repository.\nLab Manual: Development of a National Lab Manual and a Lab Manual for each Science Center. This will be initiated during the Openscapes program, and will serve as a landing page for all information related to the activities of each lab. This will lead to increased transparency and will facilitate information sharing between NOAA Science Centers, outside partners, and the public.\nPAM-SI Team Organization : Cross-center collaborations will be organized by teams, with landing pages for each PAM-SI team. This will allow for increased coordination, transparency and information sharing within and outside of these teams.\nResearch Compendiums: A research compendium is a comprehensive collection of all the digital components related to a research project, including data, code, and text (protocols, reports, metadata, etc). We will develop a set of best practices and a compendium template to encourage standardization of NMFS PAM Research Compendiums.\n\n\n\nNotes\nAll meeting notes and Openscapes related documents will be accessible in the PAM SI Openscapes Google Drive Folder\nOpenscience discussions are hosted on SAEL’s Openscience Github repository. Access the discussion board here",
     "crumbs": [
       "PAM SI",
       "PAM-OpenScience"
