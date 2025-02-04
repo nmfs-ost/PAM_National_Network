@@ -9,7 +9,7 @@ NOAA Fisheries’ PAM programs collect underwater sound recordings of the marine
 There are seven NOAA Fisheries PAM programs including each regional Science Center and the Office of Science & Technology's Ocean Acoustic Program. This repository serves to enhance National PAM collaboration within NOAA Fisheries and our partners through a common GitHub structure. Each of the regional science centers is in the process of establishing a region specific landing page that mimics the structure of this National page.
 
 ## Regional National Marine Fisheries locations
-Map of Regional Fishery Science Center Labs. Regions are designated by color (see legend) with each region's primary lab indicated by color-coded text. For NEFSC labs: **WH** = Woods Hole, **NA** = Narragansett, **MI** = Milford, **SH** = Sandy Hook. 
+Map of Regional Fishery Science Center Labs. Regions are designated by color (see legend) with each region's primary lab indicated by square symbols. For NEFSC labs: **WH** = Woods Hole, **NA** = Narragansett, **MI** = Milford, **SH** = Sandy Hook. 
 ![](/content/code/output/Mainland.4.png){width=90%}![](/content/code/output/Legend.png){width=10%}
 ![](/content/code/output/Alaska.png){width=54%}![](/content/code/output/Hawaii.2.png){width=46%}
 

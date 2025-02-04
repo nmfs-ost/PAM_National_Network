@@ -35,7 +35,7 @@ bbox_new <- bbox_new %>%  # take the bounding box ...
   st_as_sfc() # ... and make it a sf polygon
 
 
-### Mainland test 4 ####
+### Mainland ####
 NEFSC_offices <- read.csv("content/code/NEFSC_offices.csv")
 geocode.NEFSC <- st_as_sf(NEFSC_offices, coords = c("Long", "Lat"), crs = 4326)
 
@@ -96,7 +96,7 @@ mainland4 <- tm_shape(us_states, bbox = bbox_new) +
   tm_shape(geocode.Montlake) +
   tm_polygons(legend.show = F) +
   tm_squares(col = "grey", fill = "Type", size = .5, alpha = 1) +
-  tm_text("Montlake Lab (NWFSC) and AFSC Main Lab (Seattle)", size = 0.8, ymod = 0, xmod = 10.5, col = "black") +
+  tm_text("NWFSC Main Lab (Montlake) and AFSC Main Lab (Sandy Point)", size = 0.8, ymod = 0, xmod = 12.5, col = "black") +
   tm_shape(geocode.NWFSC) +
   tm_polygons(legend.show = F) +
   tm_bubbles(col = "darkred", fill = "Type", size = .4, alpha = 1) +
@@ -162,8 +162,8 @@ hawaii <- tm_shape(hawaii, bbox = bbox_HI) +
   tm_text("Name", size = 1.3, ymod = 0, xmod = -5, col = "coral2") +
   tm_layout(title = 'Hawaii NMFS Offices', title.position = c('center', 'top'), title.size = 2) +
   tm_add_legend(type = "fill", 
-                labels = c("NEFSC", "SEFSC", "NWFSC", "SWFSC", "AFSC", "PIFSC"),
-                col = c("royalblue","aquamarine","darkred","darkgoldenrod2","springgreen3","coral2"),
+                labels = c("NEFSC", "SEFSC", "NWFSC", "SWFSC", "AFSC", "PIFSC", "Multiple Offices"),
+                col = c("royalblue","aquamarine","darkred","darkgoldenrod2","springgreen3","coral2", "gray"),
                 border.lwd = 0.5,
                 title = "Office",
                 is.portrait = F)
