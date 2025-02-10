@@ -141,7 +141,7 @@ alaska <- tm_shape(alaska, bbox = bbox_AK) +
   tm_bubbles(col = "springgreen3", fill = "springgreen3", size = 0.8, alpha = 1) +
   tm_text("Name1", size = 1.3, ymod = 1, xmod = 0, col = "black") +
   tm_text("Name2", size = 1.3, ymod = -.8, xmod = -.6, col = "black") +
-  tm_layout(title = 'Alaska NMFS Offices', title.position = c('center', 'top'), title.size = 2) 
+  tm_layout(title = 'Alaska NMFS Fisheries Science Centers', title.position = c('center', 'top'), title.size = 2) 
 
 alaska
 tmap_save(alaska, "content/code/output/Alaska.png", dpi = 900)
@@ -166,13 +166,13 @@ hawaii <- tm_shape(hawaii, bbox = bbox_HI) +
   tm_shape(geocode.hawaii) +
   tm_bubbles(col = "coral2", fill = "coral2", size = 0.8, alpha = 1) +
   tm_text("Name", size = 1.3, ymod = 0, xmod = -5, col = "coral2") +
-  tm_layout(title = 'Hawaii NMFS Offices', title.position = c('center', 'top'), title.size = 2) +
-  tm_add_legend(type = "fill", 
-                labels = c("NEFSC", "SEFSC", "NWFSC", "SWFSC", "AFSC", "PIFSC", "Multiple Offices"),
-                col = c("royalblue","aquamarine","darkred","darkgoldenrod2","springgreen3","coral2", "gray"),
-                border.lwd = 0.5,
-                title = "Office",
-                is.portrait = F)
+  tm_layout(title = 'Hawaii NOAA Fisheries Science Centers', title.position = c('center', 'top'), title.size = 2) 
+#  tm_add_legend(type = "fill", 
+#                labels = c("NEFSC", "SEFSC", "NWFSC", "SWFSC", "AFSC", "PIFSC", "Multiple Offices"),
+#                col = c("royalblue","aquamarine","darkred","darkgoldenrod2","springgreen3","coral2", "gray"),
+#                border.lwd = 0.5,
+#                title = "Office",
+#                is.portrait = F)
 
 hawaii
 tmap_save(hawaii, "content/code/output/Hawaii.2.png", dpi = 900)
