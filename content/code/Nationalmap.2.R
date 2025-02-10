@@ -26,10 +26,12 @@ library(usmap)
 
 bbox_new <- st_bbox(us_states) # current bounding box
 
-
 yrange <- bbox_new$ymax - bbox_new$ymin # range of y values
+xrange <- bbox_new$xmax - bbox_new$xmin # range of x values
 
-bbox_new[4] <- bbox_new[4] + (0.1 * yrange) # ymax - top
+bbox_new[3] <- bbox_new[3] + (0.1 * xrange) # xmax - right
+bbox_new[1] <- bbox_new[1] - (0.1 * xrange) # xmin - left
+bbox_new[4] <- bbox_new[4] + (0.15 * yrange)
 
 bbox_new <- bbox_new %>%  # take the bounding box ...
   st_as_sfc() # ... and make it a sf polygon
@@ -63,31 +65,33 @@ geocode.La.jolla <- st_as_sf(La.jolla, coords = c("Long", "Lat"), crs = 4326)
 AFSC_offices <- read.csv("content/code/AFSC_offices.csv")
 geocode.AFSC <- st_as_sf(AFSC_offices, coords = c("Long", "Lat"), crs = 4326)
 
+Headquarter_offices <- read.csv("content/code/Regional_offices_Headquarters.csv")
+geocode.HQ <- st_as_sf(Headquarter_offices, coords = c("Long", "Lat"), crs = 4326)
 
 mainland4 <- tm_shape(us_states, bbox = bbox_new) +
   tm_fill() +
   tm_shape(geocode.WH) +
   tm_squares(col = "royalblue", fill = "royalblue", size = .5, alpha = 1) +
-  tm_text("Name1", size = 0.8, ymod = -.7, xmod = 2, col = "black") +
+  tm_text("Name1", size = 0.7, ymod = 0, xmod = 3.7, col = "black") +
   tm_shape(geocode.NEFSC) +
   tm_polygons(legend.show = F) +
   tm_bubbles(col = "royalblue", fill = "Type", size = .5, alpha = 1) +
-  tm_text("Name2", size = 0.7, ymod = 0, xmod = -1.9, col = "black") +
-  tm_text("Name3", size = 0.7, ymod = 0, xmod = -1.9, col = "black") +
-  tm_text("Name4", size = 0.7, ymod = 0.8, xmod = -1.3, col = "black") +
+  tm_text("Name2", size = 0.7, ymod = 0, xmod = -3.5, col = "black") +
+  tm_text("Name3", size = 0.7, ymod = 0, xmod = -2.6, col = "black") +
+  tm_text("Name4", size = 0.7, ymod = 0.7, xmod = -3.2, col = "black") +
   tm_shape(geocode.Miami) +
   tm_squares(col = "aquamarine", fill = "aquamarine", size = .5, alpha = 1) +
-  tm_text("Name6", size = 0.8, ymod = -.7, xmod = 2, col = "black") +
+  tm_text("Name6", size = 0.7, ymod = 0, xmod = 2.4, col = "black") +
   tm_shape(geocode.SEFSC) +
   tm_polygons(legend.show = F) +
   tm_bubbles(col = "aquamarine", fill = "Type", size = .5, alpha = 1) +
-  tm_text("Name7", size = 0.7, ymod = 0, xmod = 3, col = "black") +
-  tm_text("Name8", size = 0.7, ymod = -.7, xmod = 0, col = "black") +
-  tm_text("Name9", size = 0.7, ymod = 1, xmod = 0, col = "black") +
-  tm_text("Name10", size = 0.7, ymod = 0, xmod = 4, col = "black") +
+  tm_text("Name7", size = 0.7, ymod = 0, xmod = 2.9, col = "black") +
+  tm_text("Name8", size = 0.7, ymod = 0, xmod = -3.2, col = "black") +
+  tm_text("Name9", size = 0.7, ymod = 0, xmod = -3.5, col = "black") +
+  tm_text("Name10", size = 0.7, ymod = 0, xmod = 3.7, col = "black") +
   tm_shape(geocode.La.jolla) +
   tm_squares(col = "darkgoldenrod2", fill = "darkgoldenrod2", size = .5, alpha = 1) +
-  tm_text("Name11", size = 0.8, ymod = 0, xmod = 3, col = "black") +
+  tm_text("Name11", size = 0.7, ymod = 0, xmod = 3, col = "black") +
   tm_shape(geocode.SWFSC) +
   tm_polygons(legend.show = F) +
   tm_bubbles(col = "darkgoldenrod2", fill = "Type", size = .5, alpha = 1) +
@@ -96,19 +100,21 @@ mainland4 <- tm_shape(us_states, bbox = bbox_new) +
   tm_shape(geocode.Montlake) +
   tm_polygons(legend.show = F) +
   tm_squares(col = "grey", fill = "Type", size = .5, alpha = 1) +
-  tm_text("NWFSC Main Lab (Montlake) and AFSC Main Lab (Sandy Point)", size = 0.8, ymod = 0, xmod = 12.5, col = "black") +
+  tm_text("NWFSC Main Lab (Montlake) and AFSC Main Lab (Sandy Point)", size = 0.7, ymod = 0, xmod = 12.5, col = "black") +
   tm_shape(geocode.NWFSC) +
   tm_polygons(legend.show = F) +
-  tm_bubbles(col = "darkred", fill = "Type", size = .4, alpha = 1) +
-  tm_text("Name1", size = 0.7, ymod = -.7, xmod = 2.6, col = "black") +
+  tm_bubbles(col = "darkred", fill = "Type", size = .5, alpha = 1) +
+  tm_text("Name1", size = 0.7, ymod = 0, xmod = -3.3, col = "black") +
   tm_text("Name2", size = 0.7, ymod = 0, xmod = 2.5, col = "black") +
-  tm_text("Name3", size = 0.7, ymod = -.7, xmod = 3, col = "black") +
-  tm_text("Name4", size = 0.7, ymod = -.7, xmod = 2.6, col = "black") +
+  tm_text("Name3", size = 0.7, ymod = 0, xmod = -3.5, col = "black") +
+  tm_text("Name4", size = 0.7, ymod = 0, xmod = -2.8, col = "black") +
   tm_shape(geocode.AFSC) +
   tm_polygons(legend.show = F) +
- # tm_squares(col = "black", fill = "Type", size = .5, alpha = 0.3) +
- # tm_text("Name14", size = 0.8, ymod = .8, xmod = 5, col = "black") +
-  tm_layout(title = 'Mainland NMFS Offices', title.position = c('center', 'top'), title.size = 2) 
+  tm_shape(geocode.HQ) +
+  tm_polygons(legend.show = F) +
+  tm_squares(col = "black", fill = "Type", size = .4, alpha = 1) +
+  tm_text("NOAA Headquarters", size = 0.7, ymod = 0, xmod = 4.5, col = "black") +
+  tm_layout(title = 'Mainland NOAA Fisheries Science Centers', title.position = c('center', 'top'), title.size = 2) 
   
 mainland4
 tmap_save(mainland4, "content/code/output/Mainland.4.png", dpi = 900)
