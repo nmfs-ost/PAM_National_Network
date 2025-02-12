@@ -12,7 +12,7 @@ The overarching goal of the Open Science team is to facilitate adoption of Open 
 
 ### Action Items
 
-1.  [**Openscapes**](https://openscapes.org/) **PAM Team Cohort:** Openscapes is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort. This cohort will serve as the backbone of our Open Science effort, and methods developed during the Openscapes project will be detailed in our stand-along [Open Science repository](https://sael-swfsc.github.io/OpenScience/).
+1.  [**Openscapes**](https://openscapes.org/){target="_blank"} **PAM Team Cohort:** Openscapes is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort. This cohort will serve as the backbone of our Open Science effort, and methods developed during the Openscapes project will be detailed in our stand-along [Open Science repository](https://sael-swfsc.github.io/OpenScience/){target="_blank"}.
 
 2.  **Lab Manual:** Development of a National Lab Manual and a Lab Manual for each Science Center. This will be initiated during the Openscapes program, and will serve as a landing page for all information related to the activities of each lab. This will lead to increased transparency and will facilitate information sharing between NOAA Science Centers, outside partners, and the public.
 
@@ -22,6 +22,6 @@ The overarching goal of the Open Science team is to facilitate adoption of Open 
 
 ### Notes
 
-All meeting notes and Openscapes related documents will be accessible in the [PAM SI Openscapes Google Drive Folder](https://drive.google.com/drive/folders/1HPBhA0jRF1XqKL_6RhoGASPFOO7pi40c?usp=drive_link)
+All meeting notes and Openscapes related documents will be accessible in the [PAM SI Openscapes Google Drive Folder](https://drive.google.com/drive/folders/1HPBhA0jRF1XqKL_6RhoGASPFOO7pi40c?usp=drive_link){target="_blank"}
 
-Openscience discussions are hosted on SAEL's Openscience Github repository. Access the [discussion board here](https://github.com/SAEL-SWFSC/OpenScience/discussions)
+Openscience discussions are hosted on SAEL's Openscience Github repository. Access the [discussion board here](https://github.com/SAEL-SWFSC/OpenScience/discussions){target="_blank"}
