@@ -536,7 +536,7 @@
   {
     "objectID": "content/SI coord/PAM_priority_projects/PAM-Cloud-PACM.html",
     "href": "content/SI coord/PAM_priority_projects/PAM-Cloud-PACM.html",
-    "title": "NMFS PAM Google Cloud Project",
+    "title": "MAKARA Database & National PACM Decision Support Tool",
     "section": "",
     "text": "Team Leads (all NEFSC)\nSofie Van Parijs, Genevieve Davis, Jeff Walker\n\n\nGoal\nDevelop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends\n\n\nAccomplishments\n\n1. Migrated existing PACM web application from NEFSC on-prem server to Google Cloud Platform with help from NMFS ACIO\n Passive Acoustic Cetacean Map\n\n\n\n\n\n\n2. Finalized PostgreSQL database schema for storing passive acoustic detection data and associated metadata from multiple organizations\n\n\n\n\n\n\n\n3. Cleaned, transformed, merged all available legacy data from multiple sources into new schema using {targets} R package",
     "crumbs": [
