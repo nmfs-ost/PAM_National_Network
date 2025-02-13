@@ -1,5 +1,5 @@
 ---
-title: NMFS PAM Google Cloud Project 1 
+title: NMFS PAM Operational Cloud Storage and Processing
 ---
 
 ![](/content/images/Priority_project_graphics/Cloud/Direct-upload-cloud.png){width=25%}
