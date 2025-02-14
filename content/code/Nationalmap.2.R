@@ -139,8 +139,8 @@ alaska <- tm_shape(alaska, bbox = bbox_AK) +
   tm_fill() +
   tm_shape(geocode.alaska) +
   tm_bubbles(col = "springgreen3", fill = "springgreen3", size = 0.8, alpha = 1) +
-  tm_text("Name1", size = 1.3, ymod = 1, xmod = 0, col = "black") +
-  tm_text("Name2", size = 1.3, ymod = -.8, xmod = -.6, col = "black") +
+  tm_text("Name1", size = 1.5, ymod = 1, xmod = 0, col = "black") +
+  tm_text("Name2", size = 1.5, ymod = -.8, xmod = -.6, col = "black") +
   tm_layout(title = 'Alaska NOAA Fisheries Science Centers', title.position = c('center', 'top'), title.size = 2) 
 
 alaska
@@ -164,7 +164,7 @@ hawaii <- tm_shape(hawaii, bbox = bbox_HI) +
   tm_fill() +
   tm_borders() +
   tm_shape(geocode.hawaii) +
-  tm_bubbles(col = "coral2", fill = "coral2", size = 0.8, alpha = 1) +
+  tm_bubbles(col = "coral2", fill = "coral2", size = 1, alpha = 1) +
   tm_text("PIFSC", size = 1.6, ymod = 0, xmod = -2, col = "black") +
   tm_layout(title = 'Pacific Islands NOAA Fisheries Science Centers', title.position = c('center', 'top'), title.size = 2) 
  # tm_add_legend(type = "fill", 
