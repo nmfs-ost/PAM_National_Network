@@ -10,8 +10,9 @@ There are seven NOAA Fisheries PAM programs including each regional Science Cent
 
 ## Regional National Marine Fisheries locations
 Map of Regional Fishery Science Center Labs. Regions are designated by color (see legend) with each region's primary lab indicated by square symbols. 
-![](/content/code/output/Mainland.4.png){width=90%}![](/content/code/output/Legend.png){width=10%}
-![](/content/code/output/Alaska.png){width=54%}![](/content/code/output/Hawaii.2.png){width=46%}
+
+![](/content/code/output/Mainland.4.png){width=100%}
+![](/content/code/output/Alaska.png){width=44%}![](/content/code/output/Hawaii.2.png){width=38%}![](/content/code/output/Legend.png){width=18%}
 
 ## Regional National Marine Fisheries Lab Manuals
 

@@ -72,7 +72,7 @@ mainland4 <- tm_shape(us_states, bbox = bbox_new) +
   tm_fill() +
   tm_shape(geocode.WH) +
   tm_squares(col = "royalblue", fill = "royalblue", size = .5, alpha = 1) +
-  tm_text("Name1", size = 0.7, ymod = 0, xmod = 3.7, col = "black") +
+  tm_text("NEFSC", size = 0.7, ymod = 0, xmod = 2, col = "black") +
   tm_shape(geocode.NEFSC) +
   tm_polygons(legend.show = F) +
   tm_bubbles(col = "royalblue", fill = "Type", size = .5, alpha = 1) +
@@ -81,7 +81,7 @@ mainland4 <- tm_shape(us_states, bbox = bbox_new) +
   tm_text("Name4", size = 0.7, ymod = 0.7, xmod = -3.2, col = "black") +
   tm_shape(geocode.Miami) +
   tm_squares(col = "aquamarine", fill = "aquamarine", size = .5, alpha = 1) +
-  tm_text("Name6", size = 0.7, ymod = 0, xmod = 2.4, col = "black") +
+  tm_text("SEFSC", size = 0.7, ymod = 0, xmod = 2, col = "black") +
   tm_shape(geocode.SEFSC) +
   tm_polygons(legend.show = F) +
   tm_bubbles(col = "aquamarine", fill = "Type", size = .5, alpha = 1) +
@@ -91,7 +91,7 @@ mainland4 <- tm_shape(us_states, bbox = bbox_new) +
   tm_text("Name10", size = 0.7, ymod = 0, xmod = 3.7, col = "black") +
   tm_shape(geocode.La.jolla) +
   tm_squares(col = "darkgoldenrod2", fill = "darkgoldenrod2", size = .5, alpha = 1) +
-  tm_text("Name11", size = 0.7, ymod = 0, xmod = 3, col = "black") +
+  tm_text("SWFSC", size = 0.7, ymod = 0, xmod = 2, col = "black") +
   tm_shape(geocode.SWFSC) +
   tm_polygons(legend.show = F) +
   tm_bubbles(col = "darkgoldenrod2", fill = "Type", size = .5, alpha = 1) +
@@ -100,7 +100,7 @@ mainland4 <- tm_shape(us_states, bbox = bbox_new) +
   tm_shape(geocode.Montlake) +
   tm_polygons(legend.show = F) +
   tm_squares(col = "grey", fill = "Type", size = .5, alpha = 1) +
-  tm_text("NWFSC Main Lab (Montlake) and AFSC Main Lab (Sandy Point)", size = 0.7, ymod = 0, xmod = 12.5, col = "black") +
+  tm_text("NWFSC (Montlake) and AFSC (Sandy Point)", size = 0.7, ymod = 0, xmod = 8.8, col = "black") +
   tm_shape(geocode.NWFSC) +
   tm_polygons(legend.show = F) +
   tm_bubbles(col = "darkred", fill = "Type", size = .5, alpha = 1) +
@@ -114,7 +114,7 @@ mainland4 <- tm_shape(us_states, bbox = bbox_new) +
   tm_polygons(legend.show = F) +
   tm_squares(col = "black", fill = "Type", size = .4, alpha = 1) +
   tm_text("NOAA Headquarters", size = 0.7, ymod = 0, xmod = 4.5, col = "black") +
-  tm_layout(title = 'Mainland NOAA Fisheries Science Centers', title.position = c('center', 'top'), title.size = 2) 
+  tm_layout(title = 'Continental U.S. NOAA Fisheries Science Centers', title.position = c('center', 'top'), title.size = 2) 
   
 mainland4
 tmap_save(mainland4, "content/code/output/Mainland.4.png", dpi = 900)
@@ -141,7 +141,7 @@ alaska <- tm_shape(alaska, bbox = bbox_AK) +
   tm_bubbles(col = "springgreen3", fill = "springgreen3", size = 0.8, alpha = 1) +
   tm_text("Name1", size = 1.3, ymod = 1, xmod = 0, col = "black") +
   tm_text("Name2", size = 1.3, ymod = -.8, xmod = -.6, col = "black") +
-  tm_layout(title = 'Alaska NMFS Fisheries Science Centers', title.position = c('center', 'top'), title.size = 2) 
+  tm_layout(title = 'Alaska NOAA Fisheries Science Centers', title.position = c('center', 'top'), title.size = 2) 
 
 alaska
 tmap_save(alaska, "content/code/output/Alaska.png", dpi = 900)
@@ -165,16 +165,16 @@ hawaii <- tm_shape(hawaii, bbox = bbox_HI) +
   tm_borders() +
   tm_shape(geocode.hawaii) +
   tm_bubbles(col = "coral2", fill = "coral2", size = 0.8, alpha = 1) +
-  tm_text("Name", size = 1.3, ymod = 0, xmod = -5, col = "coral2") +
-  tm_layout(title = 'Hawaii NOAA Fisheries Science Centers', title.position = c('center', 'top'), title.size = 2) 
-#  tm_add_legend(type = "fill", 
-#                labels = c("NEFSC", "SEFSC", "NWFSC", "SWFSC", "AFSC", "PIFSC", "Multiple Offices"),
-#                col = c("royalblue","aquamarine","darkred","darkgoldenrod2","springgreen3","coral2", "gray"),
-#                border.lwd = 0.5,
-#                title = "Office",
-#                is.portrait = F)
+  tm_text("PIFSC", size = 1.6, ymod = 0, xmod = -2, col = "black") +
+  tm_layout(title = 'Pacific Islands NOAA Fisheries Science Centers', title.position = c('center', 'top'), title.size = 2) 
+ # tm_add_legend(type = "fill", 
+                labels = c("Northeast Regional Offices", "Southeast Regional Offices", "Northwest Regional Offices", "Southwest Regional Offices", "Alaska Regional Offices", "Pacific Islands Regional Offices", "Multiple Offices", "Headquarters"),
+                col = c("royalblue","aquamarine","darkred","darkgoldenrod2","springgreen3","coral2", "gray", "black"),
+                border.lwd = 0.5,
+                title = "Legend",
+                is.portrait = F)
 
 hawaii
 tmap_save(hawaii, "content/code/output/Hawaii.2.png", dpi = 900)
-
+#tmap_save(hawaii, "content/code/output/Hawaii.3.png", dpi = 900)
        
