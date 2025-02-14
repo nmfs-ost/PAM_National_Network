@@ -1,16 +1,160 @@
 ---
 title: Hardware
 ---
+Our Passive Acoustic science centers utilize an array of hardware tools for passive acoustic monitoring. Below is a list of hardware tools, detailing which science centers are actively incorporating each tool in research efforts.
 
-A hardware section is required and should include the following information;
+![](/content/images/Hardware/Hardware.png)
 
--   Information on your recorders
--   Array configurations and diagrams
--   Platform information (towed, moored, drifting, etc.)
--   Other sensors included (GPS devices, depth senors, etc.)
+## Towed Array
 
-This will be variable for each center and may change from project to project. You should list all hardware, present and past.
+:::::::::::::: {.columns}
+::: {.column width="60%"}
 
-You can also link to a separate hardware repository if needed ([SAEL example](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_ADRIFT.html)).
+### What are Towed Arrays?
+Towed arrays consist of an array of hydrophones connected to a long electronic cable dragged behind a vessel. This method or acoustic recording is a powerful survey method as it can be paired with visual observer data, enabling new acoustic sounds to be ground-truthed with the sound source. 
 
-This can be a section with subpages or a qmd
+### Science Centers using Towed Arrays
+- [AFSC](https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/content/Hardware.html)
+- [NEFSC](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html)
+- [NWFSC](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Hardware.html)
+- [PIFSC](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/Hardware.html)
+- [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html)
+- [SWFSC](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware.html)
+
+:::
+::: {.column width="40%"}
+![](/content/images/Hardware/SHIP-TOWED-ARRAY.png){width=100%}
+
+:::
+::::::::::::::
+
+## Glider
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+
+### What are Gliders?
+Gliders are autonomous underwater vehicles that are pre-programmed to travel a given path collecting acoustic and ancillary data. There are two primary types of gliders: Battery-powered (capabilities of traveling at varying depths in the water column) or wave-powered (powered by the motion of the waves)
+
+### Science Centers using Gliders
+- [NEFSC](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html)
+- [PIFSC](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/Hardware.html)
+- [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html)
+- [SWFSC](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware.html)
+
+
+
+### Github Resources
+- [PAM Glider page](https://nmfs-ost.github.io/PAM-Glider/content/gliders.html)
+:::
+::: {.column width="40%"}
+
+![](/content/images/Hardware/SLOCUM-GLIDER.png){width=100%}
+
+:::
+::::::::::::::
+
+## Moored Recorders
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+
+### What are Moored Recorders?
+Moored Recording devices record continuous acoustic data in a stationary location. There are multiple types of moored recorders, including Soundtraps, HARPs(High-Frequency Acoustic Recording Package), PALs, and EARs.  
+
+### Science Centers using Moored Recorders
+
+- [AFSC](https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/content/Hardware.html)
+- [NEFSC](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html)
+- [NWFSC](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Hardware.html)
+- [PIFSC](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/Hardware.html)
+- [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html)
+
+:::
+::: {.column width="13%"}
+
+![Soundtrap](/content/images/Hardware/SOUNDTRAP.png){width=45%}
+
+:::
+::: {.column width="13%"}
+
+![Moored-Buoy](/content/images/Hardware/MOORED-BUOY.png){width=32%}
+
+:::
+::: {.column width="13%"}
+
+![HARP](/content/images/Hardware/HARP.png){width=93%}
+
+:::
+::::::::::::::
+
+## Drifting Acoustic Recorders
+
+:::::::::::::: {.columns}
+::: {.column width="70%"}
+
+### What are Drifting Acoustic Recorders?
+Drifting Acoustic Recorders are recording devices designed to drift at sea for long periods of time. This acoustic sampling method utilizes oceanic currents to carry these drifting buoys long distances. There are different types of drifting acoustic recorders, including DASBRs(Drifting Acoustic Spar Buoy Recorder) and Sonobuoys.
+
+### Science Centers using Drifting Acoustic Recorders
+- [AFSC](https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/content/Hardware.html)
+- [NEFSC](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html)
+- [PIFSC](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/Hardware.html)
+- [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html)
+- [SWFSC](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware.html)
+
+
+
+
+### Resources
+- [DASBR desgin](https://www.cetus.ucsd.edu/dclde/docs/pdfs/Wednesday/W4-Griffiths.pdf)
+:::
+::: {.column width="18%"}
+
+![Drifting Acoustic Spar Buoy Recorder](/content/images/Hardware/DASBR.PNG){width=100%}
+
+:::
+::::::::::::::
+
+## Handheld Hydrophones
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+
+### What are Handheld Hydrophones?
+Handheld hydrophones consist of a simple tethered acoustic recording device hand-held in the water. 
+
+### Science Centers using Handheld Hydrophones
+- [NEFSC](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html)
+- [SWFSC](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware.html)
+
+:::
+::: {.column width="40%"}
+
+![](/content/images/Hardware/HYDROPHONE.png){width=100%}
+
+:::
+::::::::::::::
+
+
+## Dtags
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+
+### What are Dtags?
+Dtags, or Acoustic and Dive Behavior Tags, are powerful acoustic recording devices deployed directly on an animal. Dtags are deployed directly by researchers using long poles or drones, and tags remain on the animal using suction cups. Varying Dtag models collect a variety of acoustic, geographic tracking, and ancillary data (depth, temperature, salinity, etc.), allowing researchers to understand acoustic and dive behaviors.
+
+### Science Centers using Handheld Hydrophones
+
+- [NWFSC](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Hardware.html)
+- [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html)
+
+:::
+::: {.column width="40%"}
+
+![](/content/images/Hardware/TAG-HUMPBACK.png){width=100%}
+
+:::
+::::::::::::::
+
