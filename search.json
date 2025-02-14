@@ -4,7 +4,67 @@
     "href": "content/Hardware.html",
     "title": "Hardware",
     "section": "",
-    "text": "A hardware section is required and should include the following information;\n\nInformation on your recorders\nArray configurations and diagrams\nPlatform information (towed, moored, drifting, etc.)\nOther sensors included (GPS devices, depth senors, etc.)\n\nThis will be variable for each center and may change from project to project. You should list all hardware, present and past.\nYou can also link to a separate hardware repository if needed (SAEL example).\nThis can be a section with subpages or a qmd",
+    "text": "Our Passive Acoustic science centers utilize an array of hardware tools for passive acoustic monitoring. Below is a list of hardware tools, detailing which science centers are actively incorporating each tool in research efforts.",
+    "crumbs": [
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#towed-array",
+    "href": "content/Hardware.html#towed-array",
+    "title": "Hardware",
+    "section": "Towed Array",
+    "text": "Towed Array\n\n\n\nWhat are Towed Arrays?\nTowed arrays consist of an array of hydrophones connected to a long electronic cable dragged behind a vessel. This method or acoustic recording is a powerful survey method as it can be paired with visual observer data, enabling new acoustic sounds to be ground-truthed with the sound source.\n\n\nScience Centers using Towed Arrays\n\nAFSC\nNEFSC\nNWFSC\nPIFSC\nSEFSC\nSWFSC",
+    "crumbs": [
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#glider",
+    "href": "content/Hardware.html#glider",
+    "title": "Hardware",
+    "section": "Glider",
+    "text": "Glider\n\n\n\nWhat are Gliders?\nGliders are autonomous underwater vehicles that are pre-programmed to travel a given path collecting acoustic and ancillary data. There are two primary types of gliders: Battery-powered (capabilities of traveling at varying depths in the water column) or wave-powered (powered by the motion of the waves)\n\n\nScience Centers using Gliders\n\nNEFSC\nPIFSC\nSEFSC\nSWFSC\n\n\n\nGithub Resources\n\nPAM Glider page",
+    "crumbs": [
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#moored-recorders",
+    "href": "content/Hardware.html#moored-recorders",
+    "title": "Hardware",
+    "section": "Moored Recorders",
+    "text": "Moored Recorders\n\n\n\nWhat are Moored Recorders?\nMoored Recording devices record continuous acoustic data in a stationary location. There are multiple types of moored recorders, including Soundtraps, HARPs(High-Frequency Acoustic Recording Package), PALs, and EARs.\n\n\nScience Centers using Moored Recorders\n\nAFSC\nNEFSC\nNWFSC\nPIFSC\nSEFSC\n\n\n\n\n\n\nSoundtrap\n\n\n\n\n\n\nMoored-Buoy\n\n\n\n\n\n\nHARP",
+    "crumbs": [
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#drifting-acoustic-recorders",
+    "href": "content/Hardware.html#drifting-acoustic-recorders",
+    "title": "Hardware",
+    "section": "Drifting Acoustic Recorders",
+    "text": "Drifting Acoustic Recorders\n\n\n\nWhat are Drifting Acoustic Recorders?\nDrifting Acoustic Recorders are recording devices designed to drift at sea for long periods of time. This acoustic sampling method utilizes oceanic currents to carry these drifting buoys long distances. There are different types of drifting acoustic recorders, including DASBRs(Drifting Acoustic Spar Buoy Recorder) and Sonobuoys.\n\n\nScience Centers using Drifting Acoustic Recorders\n\nAFSC\nNEFSC\nPIFSC\nSEFSC\nSWFSC\n\n\n\nResources\n\nDASBR desgin\n\n\n\n\n\n\nDrifting Acoustic Spar Buoy Recorder",
+    "crumbs": [
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#handheld-hydrophones",
+    "href": "content/Hardware.html#handheld-hydrophones",
+    "title": "Hardware",
+    "section": "Handheld Hydrophones",
+    "text": "Handheld Hydrophones\n\n\n\nWhat are Handheld Hydrophones?\nHandheld hydrophones consist of a simple tethered acoustic recording device hand-held in the water.\n\n\nScience Centers using Handheld Hydrophones\n\nNEFSC\nSWFSC",
+    "crumbs": [
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#dtags",
+    "href": "content/Hardware.html#dtags",
+    "title": "Hardware",
+    "section": "Dtags",
+    "text": "Dtags\n\n\n\nWhat are Dtags?\nDtags, or Acoustic and Dive Behavior Tags, are powerful acoustic recording devices deployed directly on an animal. Dtags are deployed directly by researchers using long poles or drones, and tags remain on the animal using suction cups. Varying Dtag models collect a variety of acoustic, geographic tracking, and ancillary data (depth, temperature, salinity, etc.), allowing researchers to understand acoustic and dive behaviors.\n\n\nScience Centers using Handheld Hydrophones\n\nNWFSC\nSEFSC",
     "crumbs": [
       "Hardware"
     ]
