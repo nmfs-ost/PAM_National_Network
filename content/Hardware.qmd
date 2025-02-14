@@ -111,7 +111,7 @@ Drifting Acoustic Recorders are recording devices designed to drift at sea for l
 :::
 ::: {.column width="18%"}
 
-![Drifting Acoustic Spar Buoy Recorder](/content/images/Hardware/DASBR.PNG){width=100%}
+![Drifting Acoustic Spar Buoy Recorder](/content/images/Hardware/DASBR.png){width=100%}
 
 :::
 ::::::::::::::
