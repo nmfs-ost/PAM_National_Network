@@ -3,23 +3,33 @@ title: Hardware
 ---
 Our Passive Acoustic science centers utilize an array of hardware tools for passive acoustic monitoring. Below is a list of hardware tools, detailing which science centers are actively incorporating each tool in research efforts.
 
-![](/content/images/Hardware/Hardware.png)
+:::::::::::::: {.columns}
+::: {.column width="23%"}
+
+:::
+:::{.column width="55%"}
+![](/content/images/Hardware/Hardware.png){width=100%}
+:::
+:::{.column width="23%"}
+
+:::
+::::::::::::::
 
 ## Towed Array
 
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
 
-### What are Towed Arrays?
+#### What are Towed Arrays?
 Towed arrays consist of an array of hydrophones connected to a long electronic cable dragged behind a vessel. This method or acoustic recording is a powerful survey method as it can be paired with visual observer data, enabling new acoustic sounds to be ground-truthed with the sound source. 
 
-### Science Centers using Towed Arrays
-- [AFSC](https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/content/Hardware.html)
+#### Science Centers using Towed Arrays
+- [AFSC](https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/content/Hardware.html#towed-hydrophone-arrays)
 - [NEFSC](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html)
-- [NWFSC](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Hardware.html)
-- [PIFSC](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/Hardware.html)
-- [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html)
-- [SWFSC](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware.html)
+- [NWFSC](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Hardware.html#towed-arrays)
+- [PIFSC](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/Hardware.html#towed-array)
+- [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html#towed-hydrophone-array)
+- [SWFSC](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_Towed-Hydrophone.html)
 
 :::
 ::: {.column width="40%"}
@@ -33,18 +43,18 @@ Towed arrays consist of an array of hydrophones connected to a long electronic c
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
 
-### What are Gliders?
+#### What are Gliders?
 Gliders are autonomous underwater vehicles that are pre-programmed to travel a given path collecting acoustic and ancillary data. There are two primary types of gliders: Battery-powered (capabilities of traveling at varying depths in the water column) or wave-powered (powered by the motion of the waves)
 
-### Science Centers using Gliders
-- [NEFSC](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html)
-- [PIFSC](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/Hardware.html)
-- [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html)
-- [SWFSC](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware.html)
+#### Science Centers using Gliders
+- [NEFSC](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html#gliders)
+- [PIFSC](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/Hardware.html#glider)
+- [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html#gliders)
+- [SWFSC](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_Gliders.html)
 
 
 
-### Github Resources
+#### Github Resources
 - [PAM Glider page](https://nmfs-ost.github.io/PAM-Glider/content/gliders.html)
 :::
 ::: {.column width="40%"}
@@ -59,16 +69,16 @@ Gliders are autonomous underwater vehicles that are pre-programmed to travel a g
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
 
-### What are Moored Recorders?
+#### What are Moored Recorders?
 Moored Recording devices record continuous acoustic data in a stationary location. There are multiple types of moored recorders, including Soundtraps, HARPs(High-Frequency Acoustic Recording Package), PALs, and EARs.  
 
-### Science Centers using Moored Recorders
+#### Science Centers using Moored Recorders
 
-- [AFSC](https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/content/Hardware.html)
-- [NEFSC](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html)
-- [NWFSC](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Hardware.html)
-- [PIFSC](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/Hardware.html)
-- [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html)
+- [AFSC](https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/content/Hardware.html#moorings)
+- [NEFSC](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html#moored-near-real-time-buoys)
+- [NWFSC](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Hardware.html#moored-recorders)
+- [PIFSC](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/Hardware.html#harp-high-frequency-acoustic-recording-package)
+- [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html#seafloor-moored-acoustic-recorders)
 
 :::
 ::: {.column width="13%"}
@@ -91,27 +101,51 @@ Moored Recording devices record continuous acoustic data in a stationary locatio
 ## Drifting Acoustic Recorders
 
 :::::::::::::: {.columns}
+::: {.column width="55%"}
+
+#### What are Drifting Acoustic Recorders?
+Drifting Acoustic Recorders are recording devices designed to drift at sea for long periods of time. This acoustic sampling method utilizes oceanic currents to carry these drifting buoys long distances. 
+
+#### Science Centers using Drifting Acoustic Recorders
+
+- [NEFSC](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html)
+- [PIFSC](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/Hardware.html#dasbr-dirfting-acoustic-spar-buoy-recorder)
+- [SWFSC](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_Drifters.html)
+
+
+
+#### Resources
+- [Drifting Recorder in-depth overview (SWFSC)](https://sael-swfsc.github.io/Adrift/content/driftingRecorders.html)
+:::
+::: {.column width="45%"}
+
+![](/content/images/Hardware/DriftingAcousticBuoyDiagram.jpg){width=100%}
+
+:::
+::::::::::::::
+
+## Sonobuoys
+:::::::::::::: {.columns}
 ::: {.column width="70%"}
 
-### What are Drifting Acoustic Recorders?
-Drifting Acoustic Recorders are recording devices designed to drift at sea for long periods of time. This acoustic sampling method utilizes oceanic currents to carry these drifting buoys long distances. There are different types of drifting acoustic recorders, including DASBRs(Drifting Acoustic Spar Buoy Recorder) and Sonobuoys.
+#### What are Sonobuoys?
+Sonobuoys serve as disposable floating acoustic recording devices. These disposable recorders transmit real-time underwater acoustics via radio transmission, which is beneficial to record acoustics in a location free of vessel presence. Sonobuoys can be deployed via aircraft or boat, and are primarily used by the navy. 
 
-### Science Centers using Drifting Acoustic Recorders
-- [AFSC](https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/content/Hardware.html)
-- [NEFSC](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html)
-- [PIFSC](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/Hardware.html)
-- [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html)
-- [SWFSC](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware.html)
-
+#### Science Centers using Sonobuoys
+- [AFSC](https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/content/Hardware.html#sonobuoys)
+- [PIFSC](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/Hardware.html#sonobuoy)
+- [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html#sonobuoys)
+- [SWFSC](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_Sonobuoys.html)
 
 
 
-### Resources
-- [DASBR desgin](https://www.cetus.ucsd.edu/dclde/docs/pdfs/Wednesday/W4-Griffiths.pdf)
+
+#### Resources
+- [SWFSC Sonobuoy manual](https://github.com/SAEL-SWFSC/SAEL-lab-manual/blob/main/supplemental/Sonobuoy_Instructions.pdf)
+
 :::
 ::: {.column width="18%"}
 
-![Drifting Acoustic Spar Buoy Recorder](/content/images/Hardware/DASBR.png){width=100%}
 
 :::
 ::::::::::::::
@@ -121,12 +155,12 @@ Drifting Acoustic Recorders are recording devices designed to drift at sea for l
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
 
-### What are Handheld Hydrophones?
+#### What are Handheld Hydrophones?
 Handheld hydrophones consist of a simple tethered acoustic recording device hand-held in the water. 
 
-### Science Centers using Handheld Hydrophones
+#### Science Centers using Handheld Hydrophones
 - [NEFSC](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html)
-- [SWFSC](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware.html)
+- [SWFSC](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_Handheld-Hydrophone.html)
 
 :::
 ::: {.column width="40%"}
@@ -137,18 +171,18 @@ Handheld hydrophones consist of a simple tethered acoustic recording device hand
 ::::::::::::::
 
 
-## Dtags
+## Biologging Recorders
 
 :::::::::::::: {.columns}
 ::: {.column width="60%"}
 
-### What are Dtags?
+#### What are Biologging Recorders?
 Dtags, or Acoustic and Dive Behavior Tags, are powerful acoustic recording devices deployed directly on an animal. Dtags are deployed directly by researchers using long poles or drones, and tags remain on the animal using suction cups. Varying Dtag models collect a variety of acoustic, geographic tracking, and ancillary data (depth, temperature, salinity, etc.), allowing researchers to understand acoustic and dive behaviors.
 
-### Science Centers using Handheld Hydrophones
+#### Science Centers using Biologging Recorders
 
-- [NWFSC](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Hardware.html)
-- [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html)
+- [NWFSC](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Hardware.html#dtags)
+- [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html#acoustic-and-dive-behavior-tags)
 
 :::
 ::: {.column width="40%"}
