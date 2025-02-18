@@ -44,7 +44,17 @@
     "href": "content/Hardware.html#drifting-acoustic-recorders",
     "title": "Hardware",
     "section": "Drifting Acoustic Recorders",
-    "text": "Drifting Acoustic Recorders\n\n\n\nWhat are Drifting Acoustic Recorders?\nDrifting Acoustic Recorders are recording devices designed to drift at sea for long periods of time. This acoustic sampling method utilizes oceanic currents to carry these drifting buoys long distances. There are different types of drifting acoustic recorders, including DASBRs(Drifting Acoustic Spar Buoy Recorder) and Sonobuoys.\n\n\nScience Centers using Drifting Acoustic Recorders\n\nAFSC\nNEFSC\nPIFSC\nSEFSC\nSWFSC\n\n\n\nResources\n\nDASBR desgin\n\n\n\n\n\n\nDrifting Acoustic Spar Buoy Recorder",
+    "text": "Drifting Acoustic Recorders\n\n\n\nWhat are Drifting Acoustic Recorders?\nDrifting Acoustic Recorders are recording devices designed to drift at sea for long periods of time. This acoustic sampling method utilizes oceanic currents to carry these drifting buoys long distances.\n\n\nScience Centers using Drifting Acoustic Recorders\n\nNEFSC\nPIFSC\nSWFSC\n\n\n\nResources\n\nDrifting Recorder in-depth overview (SWFSC)",
+    "crumbs": [
+      "Hardware"
+    ]
+  },
+  {
+    "objectID": "content/Hardware.html#sonobuoys",
+    "href": "content/Hardware.html#sonobuoys",
+    "title": "Hardware",
+    "section": "Sonobuoys",
+    "text": "Sonobuoys\n\n\n\nWhat are Sonobuoys?\nSonobuoys serve as disposable floating acoustic recording devices. These disposable recorders transmit real-time underwater acoustics via radio transmission, which is beneficial to record acoustics in a location free of vessel presence. Sonobuoys can be deployed via aircraft or boat, and are primarily used by the navy.\n\n\nScience Centers using Sonobuoys\n\nAFSC\nPIFSC\nSEFSC\nSWFSC\n\n\n\nResources\n\nSWFSC Sonobuoy manual",
     "crumbs": [
       "Hardware"
     ]
@@ -60,11 +70,11 @@
     ]
   },
   {
-    "objectID": "content/Hardware.html#dtags",
-    "href": "content/Hardware.html#dtags",
+    "objectID": "content/Hardware.html#biologging-recorders",
+    "href": "content/Hardware.html#biologging-recorders",
     "title": "Hardware",
-    "section": "Dtags",
-    "text": "Dtags\n\n\n\nWhat are Dtags?\nDtags, or Acoustic and Dive Behavior Tags, are powerful acoustic recording devices deployed directly on an animal. Dtags are deployed directly by researchers using long poles or drones, and tags remain on the animal using suction cups. Varying Dtag models collect a variety of acoustic, geographic tracking, and ancillary data (depth, temperature, salinity, etc.), allowing researchers to understand acoustic and dive behaviors.\n\n\nScience Centers using Handheld Hydrophones\n\nNWFSC\nSEFSC",
+    "section": "Biologging Recorders",
+    "text": "Biologging Recorders\n\n\n\nWhat are Biologging Recorders?\nDtags, or Acoustic and Dive Behavior Tags, are powerful acoustic recording devices deployed directly on an animal. Dtags are deployed directly by researchers using long poles or drones, and tags remain on the animal using suction cups. Varying Dtag models collect a variety of acoustic, geographic tracking, and ancillary data (depth, temperature, salinity, etc.), allowing researchers to understand acoustic and dive behaviors.\n\n\nScience Centers using Biologging Recorders\n\nNWFSC\nSEFSC",
     "crumbs": [
       "Hardware"
     ]
