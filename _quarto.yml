@@ -56,8 +56,6 @@ website:
                text: Glider tools
              - href: content/SI coord/PAM_priority_projects/Stock_projects/Project_2.qmd
                text: Stationary tools
-             - href: content/SI coord/PAM_priority_projects/Stock_projects/Project_3.qmd
-               text: Towed array tools
       - href: content/FieldMethods.qmd
         text: "Field Methods"
       - href: content/DataManagement.qmd
