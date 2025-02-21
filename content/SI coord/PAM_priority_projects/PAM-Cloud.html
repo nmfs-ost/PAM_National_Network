@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.40">
+<meta name="generator" content="quarto-1.6.41">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -71,8 +71,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-8ea72dc5fed832574809a9c94082fbbb.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-48ffa3e5b9d089919c6712c39e5b00f2.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-dark-71390cc8b9bae10139428574d3aab2c6.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../site_libs/bootstrap/bootstrap-4958dc29e5427858b9ccb93b2b1472a5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
@@ -526,7 +526,115 @@ R script:&nbsp;</p>
 <li>Authorize Service Acounts: Email Dan Woodrich <a href="mailto:daniel.woodrich@noaa.gov">daniel.woodrich@noaa.gov</a> the link to the checklist so he can complete that step on your behalf</li>
 </ol>
 </details>
+<details>
+<summary>
+<font size="5">PAMDATA Windows Workstation User Guide</font>
+</summary>
+<p><br>
+</p>
+<section id="provision" class="level5">
+<h5 class="anchored" data-anchor-id="provision"><strong>Provision</strong></h5>
+<p>Ask Sofie/Becca/Dan for an instance.</p>
 </section>
+<section id="configure-gcloud" class="level5">
+<h5 class="anchored" data-anchor-id="configure-gcloud"><strong>Configure gcloud</strong></h5>
+<p>All steps in this section only needs to be done once for each computer you want to access the pam-ww from.</p>
+<ol type="1">
+<li><p>To connect to a remote workstation, you have to install software on your primary physical computer. The next steps in this section assume you’re using Windows, alternatives exist for Mac and Linux.</p></li>
+<li><p>Make sure you have <a href="https://cloud.google.com/sdk/docs/install-sdk">Google Cloud SDK</a> installed on your primary physical computer. In the section titled “Installing the latest gcloud CLI version”, select your personal computer operating system and follow the steps to configure the client software.</p></li>
+</ol>
+<p><img src="../../../content/images/Priority_project_graphics/Cloud/PAMDATA_Workstation_1.png" class="img-fluid"></p>
+<ol start="3" type="1">
+<li><p>Open the terminal (Command Prompt on windows, can use other shells on other OS as long as it works with gcloud) and enter “gcloud auth login”. This will take you to a browser to login with your email password or two-step verification to configure your user credential with gcloud.</p></li>
+<li><p>The authentication will be successful if you can type in a command line ‘gcloud auth list’ and it returns your NOAA email address.</p>
+<ul>
+<li>If asked to pick a cloud project, enter the number associated with ggn-nmfs-pamdata-prod-1</li>
+</ul></li>
+<li><p>Open the VM instances list here to identify the name of your personal windows workstation. The default naming convention is “firstname-lastname-pam-ww”.</p></li>
+</ol>
+</section>
+<section id="connect" class="level5">
+<h5 class="anchored" data-anchor-id="connect"><strong>Connect</strong></h5>
+<p>Prior to connecting, ensure that the workstation is in an ‘on’ state. You can navigate to the link <a href="https://console.cloud.google.com/compute/instances?cloudshell=true&amp;project=ggn-nmfs-pamdata-prod-1">here</a> to see the workstation state and turn it on/off in the browser.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="../../../content/images/Priority_project_graphics/Cloud/PAMDATA_Workstation_2.png" class="img-fluid figure-img"></p>
+<figcaption>Green checkmarks means on, circle means state is changing (turning on or off), gray means stopped. The three dots on the right are called the ‘hamburger’ menu where you can turn change the on/off state.</figcaption>
+</figure>
+</div>
+<p>Find the instance containing your name, click on the hamburger menu on the right of the row representing that instance, and select ‘on’. This is also how you turn it off.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Please keep the instance off when not in use, for instance at the end of your workday if you are actively using it. Leaving it on for long periods unnecessarily incurs unneeded cost.</p>
+</div>
+</div>
+<section id="remote-desktop-connection" class="level6">
+<h6 class="anchored" data-anchor-id="remote-desktop-connection"><strong>Remote Desktop Connection</strong></h6>
+<p>Built-in windows RDP client, usually preinstalled</p>
+<ol type="1">
+<li>Open up the Windows Command Prompt if on windows.</li>
+<li>Enter the below line of code into the command line to log in as a user. The pattern is [firstname]-[lastname]-pam-ww. It will match the name of the workstation, which you can reference in the link to the pam-ww management <a href="https://console.cloud.google.com/compute/instances?cloudshell=true&amp;project=ggn-nmfs-pamdata-prod-1">page</a>. For example, for user “rebecca.vanhoeck@noaa.gov”, you would enter in cmd:</li>
+</ol>
+<p><em>start gcloud compute start-iap-tunnel rebecca-vanhoeck-pam-ww 3389 –local-host-port=localhost:3390 –zone=us-east4-c –project=ggn-nmfs-pamdata-prod-1 &amp;&amp; timeout 5 &amp;&amp; mstsc /v:localhost:3390</em></p>
+<p>Change the above code to match your username.</p>
+<p>Enter the code. When prompted, enter pam_user for user, do not supply a password, and hit enter. Accept any warnings that look reasonable. Remote desktop connection will supply the correct username on subsequent logins</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Some users report issues associated with connecting with the above command. If you have similar issues, try running in cmd with:</p>
+<p><em>gcloud compute start-iap-tunnel rebecca-vanhoeck-pam-ww 3389 –local-host-port=localhost:3390 –zone=us-east4-c –project=ggn-nmfs-pamdata-prod-1</em></p>
+<p>Like above, change the above code to match your username. Then, leaving the terminal window running, navigate to “remote desktop connection” application, and enter in localhost:3390. Like with above, supply the username as pam_user and no password.</p>
+<p>For even quicker logins, you can copy the code into a text file, rename to make it have a .bat extension instead of .txt extension (if your primary physical computer is Windows), and then double click it. The code will run in the cmd line when you double click it, so you don’t have to open cmd prompt and copy paste the code in each time.</p>
+</div>
+</div>
+</section>
+</section>
+<section id="upgrade" class="level5">
+<h5 class="anchored" data-anchor-id="upgrade"><strong>Upgrade</strong></h5>
+<p>The pam-ww template image is upgraded in a versioned manner to fix bugs and add new features and software. Currently the default support model is just to replace pam-ww when upgrades are needed. Be aware that upgrading will wipe out your local files on the instance as well as any customized software you or admins have installed on your particular instance.If you’d like a newer build of the pam-ww, request an upgrade from <a href="mailto:daniel.woodrich@noaa.gov">daniel.woodrich@noaa.gov</a>. You can, and it is in fact preferred, to delete your own pam-ww in advance prior to requesting an upgrade to the latest version.</p>
+<p>If there are specific software you’d like installed on your workstation, ask <a href="mailto:daniel.woodrich@noaa.gov">daniel.woodrich@noaa.gov</a> to remote into your instance and install the software on your behalf. In some cases software needs admin privileges as well as personal license credentials with the service (such as MATLAB), in these cases we will set up a shared session to install together.</p>
+<p>Sometimes it is not clear if you need an update, since you may be unsure which version you are on and what features or changes have been made in successive versions. The next steps are to check your current image and determine which features have been added which can help you decide if you’d like an update.</p>
+</section>
+<section id="check-your-current-image" class="level5">
+<h5 class="anchored" data-anchor-id="check-your-current-image"><strong>Check your current image</strong></h5>
+<p>You can see the current version of your pam-ww by going to the <a href="https://console.cloud.google.com/compute/instances?project=ggn-nmfs-pamdata-prod-1">homepage</a>, clicking on the name of your pam-ww (with the name of your pam-ww)</p>
+<p><img src="../../../content/images/Priority_project_graphics/Cloud/PAMDATA_Workstation_3.png" class="img-fluid"></p>
+<p>The text under the ‘image’ field indicates the current version of your pam-ww. The pam-ww image name is between the text “pww-disa” and “hardened…”, in this case, “beta-3”. You can cross reference this with the following documents that track the changes. Both are organized in consecutive order where the last entry represents the most recent available version.</p>
+<ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1uYMeBy8f8OI4st7ZWvpnbl9-DPmnF-ZgWeGDjNhqDUE/edit?usp=sharing">PAM-ww template change tracking</a></li>
+<li><a href="https://docs.google.com/document/d/1SFP5HuQox5JcSEmV2D_M7O_llcFEE_jUEOmpxTr19nY/edit?usp=sharing">PAM-ww versioned build steps</a></li>
+</ul>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>We are currently working on github based process to formalize provisioning and updating processes and hope to make this aspect of the pam-ww increasingly streamlined.</p>
+</div>
+</div>
+</section></details>
+</section>
+
 
 <section id="report-bugissue-in-pam-windows-workstation" class="level3">
 <h3 class="anchored" data-anchor-id="report-bugissue-in-pam-windows-workstation">Report bug/issue in PAM windows workstation</h3>
