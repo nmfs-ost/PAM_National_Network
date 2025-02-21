@@ -180,8 +180,9 @@ Built-in windows RDP client, usually preinstalled
 1. Open up the Windows Command Prompt if on windows. 
 2. Enter the below line of code into the command line to log in as a user. The pattern is [firstname]-[lastname]-pam-ww. It will match the name of the workstation, which you can reference in the link to the pam-ww management [page](https://console.cloud.google.com/compute/instances?cloudshell=true&project=ggn-nmfs-pamdata-prod-1). For example, for user “rebecca.vanhoeck@noaa.gov”, you would enter in cmd:
 
-*start gcloud compute start-iap-tunnel rebecca-vanhoeck-pam-ww 3389 --local-host-port=localhost:3390 --zone=us-east4-c --project=ggn-nmfs-pamdata-prod-1 && timeout 5 && mstsc /v:localhost:3390*
-
+```{r, eval=F}
+start gcloud compute start-iap-tunnel rebecca-vanhoeck-pam-ww 3389 --local-host-port=localhost:3390 --zone=us-east4-c --project=ggn-nmfs-pamdata-prod-1 && timeout 5 && mstsc /v:localhost:3390
+```
 Change the above code to match your username. 
 
 Enter the code. When prompted, enter pam_user for user, do not supply a password, and hit enter. Accept any warnings that look reasonable. Remote desktop connection will supply the correct username on subsequent logins
