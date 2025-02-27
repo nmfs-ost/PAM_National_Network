@@ -1,5 +1,360 @@
 [
   {
+    "objectID": "content/Onboarding.html",
+    "href": "content/Onboarding.html",
+    "title": "Onboarding",
+    "section": "",
+    "text": "This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
+    "crumbs": [
+      "Optional Pages",
+      "Onboarding"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-Glider.html#pam-glider-national-roadmap",
+    "href": "content/SI coord/PAM_priority_projects/PAM-Glider.html#pam-glider-national-roadmap",
+    "title": "Accelerating Pacific-wide PAM-glider operations",
+    "section": "PAM-Glider National Roadmap",
+    "text": "PAM-Glider National Roadmap\n\n1. Identify & Test Technology\n\nBuild Capacity\n\nAccomplishments\n\nPIFSC: 2 @ Seagliders, Glider Lab\nSWFSC: 2 @ Slocum, 2 @ Hefring Ocean Scout\nExpand DMON (expected by end of FY26)\n\nNext steps\n\nTest!\n\n\n\n\nGlider Rodeo\n\nAccomplishments\n\nAlseamar Contract Awarded (data as a service for Glider Rodeo)\nPresentations at UG2 (Underwater Glider User Group, Erik Norris)\nGlider Reseo Repo/Website\n\nNext steps\n\nStandardized Metrics for Comparison\nSchedule/Plan Survey (Fall 2025 West Coast, Feb 2026 Hawaii)\n\n\n\n\n\n2. Concurrent Glider/Ship Surveys\n\nUS West Coast CalCurCEAS\n\nAccomplishments\n\nPartner with OSU: 3 Seagliders off Oregon\nAccess to real time maps/metadata\n\nNext steps\n\nSurvey data to Stock Assessment Team\nHawaii Survey (Feb 2026)\n\n\n\n\n\n3. Advanced Data Analysis\nLink our data with other teams (in process)\n\n\n4. Field Test Ecosystem Studies (UxS funded “Plankton to Whales”)\nPostponed until SWFSC has PAM-Gliders\n\n\n5. Transition to Operations Plan –&gt; National Roadmap\n\nPAM-Glider Github Organization\nRepositories\n\nGlider Rodeo\nGlider-CalCurCEAS\nPAM-UxS\n\nOpenscapes: Create Repo/Foundation for Reports",
+    "crumbs": [
+      "PAM SI",
+      "PAM-Glider"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html",
+    "href": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html",
+    "title": "PAM & Stock Assessments",
+    "section": "",
+    "text": "Erin Oleson (PIFSC), Yvonne Barkley (PIFSC)\n\n\n\nAdvancing the accuracy of stock assessments to capture seasonal and long-term changes in distribution using PAM glider datasets.\n\n\n\nThis project would develop the analytical framework necessary to integrate PAM data from profiling gliders into quantitative assessments of population distribution and density. The PAM and UxS SIs are heavily investing in the testing and development of PAM-equipped gliders and this effort would ensure that those developments are more quickly leveraged to improve cetacean assessments. This project would focus on developing a statistical framework for integrating a density model created with PAM glider data with existing visual-based species distribution models (SDM) to achieve more accurate ensemble models with seasonal context. This project may leverage an OPR Climate IRA proposal by Badger & Whitney, if funded.\n\n\n\n\nEvaluate resources required: Evaluate required funding depending on other proposals and staffing.\nConfer with PAM SI Working Group: Working Group determines whether there is substantial interest and priority for continued pursuit of this project. If no-go, determine whether the project may be re-evaluated later based on funds available.\nEvaluate state of the science: Connect with Center for Research into Ecological and Environmental Modelling, Duke, and other colleagues to assess the state of the science.\nIdentify datasets and species: Collect and collate PIFSC, SEFSC, and SWFSC PAM glider data and identify priority species for modeling based on data availability and management needs.\nAssess analytical next steps: Establish a working group to assess suitable modeling frameworks that fit PAM glider data. Additionally, the PAM SI could convene a workshop or series of workshops that assess the state of the science for incorporating PAM data into species distribution model frameworks in support of this project."
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#project-1-incorporating-glider-data-in-a-species-distribution-modeling-framework",
+    "href": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#project-1-incorporating-glider-data-in-a-species-distribution-modeling-framework",
+    "title": "PAM & Stock Assessments",
+    "section": "",
+    "text": "Erin Oleson (PIFSC), Yvonne Barkley (PIFSC)\n\n\n\nAdvancing the accuracy of stock assessments to capture seasonal and long-term changes in distribution using PAM glider datasets.\n\n\n\nThis project would develop the analytical framework necessary to integrate PAM data from profiling gliders into quantitative assessments of population distribution and density. The PAM and UxS SIs are heavily investing in the testing and development of PAM-equipped gliders and this effort would ensure that those developments are more quickly leveraged to improve cetacean assessments. This project would focus on developing a statistical framework for integrating a density model created with PAM glider data with existing visual-based species distribution models (SDM) to achieve more accurate ensemble models with seasonal context. This project may leverage an OPR Climate IRA proposal by Badger & Whitney, if funded.\n\n\n\n\nEvaluate resources required: Evaluate required funding depending on other proposals and staffing.\nConfer with PAM SI Working Group: Working Group determines whether there is substantial interest and priority for continued pursuit of this project. If no-go, determine whether the project may be re-evaluated later based on funds available.\nEvaluate state of the science: Connect with Center for Research into Ecological and Environmental Modelling, Duke, and other colleagues to assess the state of the science.\nIdentify datasets and species: Collect and collate PIFSC, SEFSC, and SWFSC PAM glider data and identify priority species for modeling based on data availability and management needs.\nAssess analytical next steps: Establish a working group to assess suitable modeling frameworks that fit PAM glider data. Additionally, the PAM SI could convene a workshop or series of workshops that assess the state of the science for incorporating PAM data into species distribution model frameworks in support of this project."
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#project-option-2-incorporating-stationary-data-into-a-species-distribution-modeling-framework",
+    "href": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#project-option-2-incorporating-stationary-data-into-a-species-distribution-modeling-framework",
+    "title": "PAM & Stock Assessments",
+    "section": "Project option 2: Incorporating stationary data into a species distribution modeling framework",
+    "text": "Project option 2: Incorporating stationary data into a species distribution modeling framework\n\nTeam leads\nLance Garrison (SEFSC), Melissa Soldevilla (SEFSC), Ann Allen (PIFSC), Genevieve Davis (NEFSC), Manolo Castellote (AFSC), Marla Holt (NWFSC), Jason Gedamke (OST)\n\n\nTarget outcome:\nIntegrating long-term PAM data into species density models to provide seasonal and long-term changes in distribution and density.\n\n\nSummary\nThis project would support the PAM SI objective of advancing data integration by leveraging stationary PAM data and visual data to improve the accuracy of stock assessments by capturing seasonal and long-term changes. This project would focus on developing a statistical framework for integrating a density model created with stationary PAM data with existing visual-based SDMs to achieve more accurate models with seasonal context. This project may leverage LISTEN GoMex funding to develop models for sperm whales and beaked whales.\n\n\nAction items\n\nEstablish collaboration: Meet with Lance Garrison to identify his interest and willingness to convene a working group to support his ongoing effort and work towards broader applicability of the outcomes.\nIdentify resources required: Evaluate whether LISTEN GoMex requires more resources to make these methods broadly applicable.\nConfer with PAM SI Working Group: Working Group determines whether there is substantial interest and priority for continued pursuit of this project. If no-go, determine whether the project may be re-evaluated later based on funds available. Deadline: May 2024. Note: As of May 2024, this project was not selected for funding by the PAM SI Working Group. However, given the synergies between integrating stationary PAM data and mobile PAM data, the SI will leverage any PAM data integration workshops held to assess the state of the science for integrating both data types into species distribution modeling framework. This will advance our analytical readiness to pursue this project at a later time.\nEstablish project team: Establish working group, potentially including colleagues from Duke University, Fisheries and Oceans Canada, etc., to meet periodically with the LISTEN GoMex team to ensure broad regional relevance.\nExpand capacity: If funded, advertise post-doc position to support this effort. Alterntively, the PAM SI could convene a workshop or series of workshops that assess the state of the science for incorporating PAM data into species distribution model frameworks in conjunction with Project 1."
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#project-option-3-improving-sperm-whale-and-beaked-whale-density-estimation-from-towed-arrays",
+    "href": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#project-option-3-improving-sperm-whale-and-beaked-whale-density-estimation-from-towed-arrays",
+    "title": "PAM & Stock Assessments",
+    "section": "Project option 3: Improving sperm whale and beaked whale density estimation from towed arrays",
+    "text": "Project option 3: Improving sperm whale and beaked whale density estimation from towed arrays\n\n\nTeam leads\nYvonne Barkey (PIFSC), Melissa Soldevilla (SEFSC), Annamaria DeAngelis (NEFSC), Jennifer McCullough (PIFSC)\n\n\nTarget Outcome\nExpanding the utility of an existing automated tracking and localization tool to facilitate distance sampling-based density estimation from towed array surveys for sperm and beaked whales.\n\n\nSummary\nTowed hydrophone arrays are a standard part of NMFS line-transect surveys. Oftentimes acoustic detection of species far out-numbers visual detections, such that inclusion of acoustically detected groups could increase the precision and accuracy of density analyses and improve stock assessments. PIFSC has developed an automated multi-target tracking tool for identification, tracking, and localization of false killer whale subgroups that can be adapted for use with other species. Current methods for density estimation using towed array acoustic detections of sperm whales and beaked whales are time-consuming and use of automated tracking and localization tools would increase efficiency and therefore utility of these datasets to improve the stock assessments for these species. This project will improve functionality of the existing multi-target tracking tool that is used by PIFSC to extract perpendicular distance information from data to support density and abundance estimation. Work will include testing, modifying, and validating the tool on sperm whale and beaked whale datasets from multiple regions (NEFSC, SEFSC). The outcome of this project would support the PAM SI objective of data integration to support stock assessments by advancing the technology readiness of PAM inclusion in Stock Assessment Reports in multiple NOAA Fisheries regions.\n\n\nAction Items\n\nIdentify challenges: Yvonne and Jen work with Pina Gruden to understand what modifications to the current code are necessary for use for sperm whales and beaked whales, providing an estimate of the expected investment required to adapt the tool.\nConfer with PAM SI Working Group: Working Group determines whether there is substantial interest and priority for continued pursuit of this project. If no-go, determine whether the project may be re-evaluated later based on funds available. Note: As of May 2024, this project was not selected for funding based on the outcomes of the consultation with the tool developer, Pina Gruden. Specifically, the time and amount of resources required are beyond the scope of the PAM SI.\nPrepare test datasets: Gather test datasets from NE/SE/PI.\nTraining on Multi-target tracking tool: Yvonne and Pina will train others on executing the tool in MATLAB.\nTest cases: Basic assessment of the tool on NE and SE datasets to identify bugs.\nResolve bugs: Pina or others address usability needs of all users.\nAspirational step to improve tool: If time and capacity allows, consider attempting to integrate depth estimation for more accurate horizontal distance estimation for deep divers based on Yvonne/Annamaria’s work."
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#accomplishments",
+    "href": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#accomplishments",
+    "title": "PAM & Stock Assessments",
+    "section": "Accomplishments",
+    "text": "Accomplishments\n\nDevin and Janelle awarded funding from NMFS Science & Technology International Fellowship to travel to Univ. of St. Andrews for 2 weeks with CREEM folks (Len, Danielle, Tiago) to work on statistical methods\nThis analysis team met 2 weeks ago to start the statistical development for integrating acoustic data into SDMs for towed arrays, so initial thinking is underway!\nData collection underway"
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#existing-and-expected-data-sets",
+    "href": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#existing-and-expected-data-sets",
+    "title": "PAM & Stock Assessments",
+    "section": "Existing and expected data sets",
+    "text": "Existing and expected data sets\n\n\n\nMain Hawaiian Islands Spring 2022 and 2023\n\n\n\n\n\nCalCurCEAS - Oregon - Fall 2024 - 3 gliders + DASBRs"
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-Trends.html",
+    "href": "content/SI coord/PAM_priority_projects/PAM-Trends.html",
+    "title": "Long-Term Trends and Environmental Variables",
+    "section": "",
+    "text": "Team Leads\nGenevieve Davis (NEFSC), Julia Zeh (NEFSC)\n\n\nGoal\nIntegration of PAM and environmental data to support climate change investigations by developing new tools that can be applied to all regions and species of interest.\n\n\nTarget outcome\nTo advance data integration in support of creating tools for climate change applications with PAM data and to develop new tools for integration of PAM and environmental data to support climate change investigations.\n\n\nSummary\nWe will create a streamlined workflow to integrate PAM data with necessary ancillary datasets to address questions relevant to climate change and long-term species trends. This workflow will include: identifying PAM data to be included; identifying the climatological data to be included; creating tools for accessing, formatting, and integrating a subset of these data streams; and using these tools and approaches broadly across all regions and species of interest.\nThe first goal of this project is to compare humpback whale occurrence trends nationwide. All regions will submit and format their humpback detection data into the Passive Acoustic Cetacean Map database.\nThe second goal will be to identify and create tools to access and apply relevant climate data on the humpback whale dataset.\nThis workflow will allow for a national comparison of one species to be able to identify and compare changes (or lack thereof) within and across regions. Once this structure has been established, these standardized data formats, tools, and environmental data streams can be applied across the range of project goals and regional needs, including regional-specific high-profile species. This project directly supports the PAM SI objective to advance PAM data analysis and integration approaches with an emphasis on addressing long-term trends.\n\n\nAction items\n\nData Identification: Identify existing humpback detection data sets to be included.\nEnvironmental data identification: Identify environmental data (i.e. parameters, spatio-temporal range, source) to integrate with daily PACM output.\nFormat data to PACM: Get humpback detection data formatted and submitted into PACM, on an hourly or daily scale. This phase includes meetings, as-needed tutorials, consultation with Jeff Walker, as well as identifying and developing the tools needed. Deadline:\nAccess and aggregate detection data from PACM: Pull humpback detection data from PACM in standardized format aggregated at daily scale. This phase includes meetings, tutorials, identifying and developing tools as needed.\nDevelop and refine workflow: Develop and refine processing workflow that extracts identified environmental data from various sources and integrates with daily PACM outputs. Includes creating open-source / github hosted repo that is tested and implemented across FMCs (Taiki).\nIdentify additional data: Identify which additional data (regional-specific or other species-specific data) we’d want tools for to help predict movements and move towards addressing climate-related questions.\nOutput products: Identify and draft collaborative questions, papers, products to compare across FMC’s and regions.\nAspirational next steps: Explore methods for incorporating additional PAM data into workflow from other platforms (mobile or drifting data) or from AI tools for species detection, as available.\n\n\n\nAccomplishments\nSpreadsheet of available humpback data",
+    "crumbs": [
+      "PAM SI",
+      "PAM-Trends"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-OpenScience.html",
+    "href": "content/SI coord/PAM_priority_projects/PAM-OpenScience.html",
+    "title": "Open Science",
+    "section": "",
+    "text": "Team leads\nShannon Rankin (SWFSC), Kourtney Burger (SWFSC), Bella Garfield (NEFSC), Becca Van Hoeck (NEFSC)\n\n\nGoals\nThe overarching goal of the Open Science team is to facilitate adoption of Open Science Methods into our day to day research activities.\n\n\nAction Items\n\nOpenscapes PAM Team Cohort: Openscapes is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort. This cohort will serve as the backbone of our Open Science effort, and methods developed during the Openscapes project will be detailed in our stand-along Open Science repository.\nLab Manual: Development of a National Lab Manual and a Lab Manual for each Science Center. This will be initiated during the Openscapes program, and will serve as a landing page for all information related to the activities of each lab. This will lead to increased transparency and will facilitate information sharing between NOAA Science Centers, outside partners, and the public.\nPAM-SI Team Organization : Cross-center collaborations will be organized by teams, with landing pages for each PAM-SI team. This will allow for increased coordination, transparency and information sharing within and outside of these teams.\nResearch Compendiums: A research compendium is a comprehensive collection of all the digital components related to a research project, including data, code, and text (protocols, reports, metadata, etc). We will develop a set of best practices and a compendium template to encourage standardization of NMFS PAM Research Compendiums.\n\n\n\nNotes\nAll meeting notes and Openscapes related documents will be accessible in the PAM SI Openscapes Google Drive Folder\nOpenscience discussions are hosted on SAEL’s Openscience Github repository. Access the discussion board here",
+    "crumbs": [
+      "PAM SI",
+      "PAM-OpenScience"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-Cloud.html",
+    "href": "content/SI coord/PAM_priority_projects/PAM-Cloud.html",
+    "title": "NMFS PAM Operational Cloud Storage and Processing",
+    "section": "",
+    "text": "Team Leads\nSofie Van Parijs (NEFSC), Dan Woodrich (AFSC)\n\n\nGoal\nDemonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS PAM operations and support the protected species mission\n\n\n\nTarget outcome\nDeveloping a National PAM Cloud operational repository for data processing and storage\n\n\n\nReport bug/issue in PAM windows workstation\n\nReport a bug\nBug Tracking",
+    "crumbs": [
+      "PAM SI",
+      "PAM-Cloud"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM GCP Technical System Documentation.html",
+    "href": "content/SI coord/PAM_priority_projects/PAM GCP Technical System Documentation.html",
+    "title": "NOAA quarto simple",
+    "section": "",
+    "text": "PAM GCP Technical System Documentation\nOverview: Summary of key decisions, technical system set-up, and use expectations for using software applications in the PAM GCP. This document is an initial way to collaborate on developing the documentation and will be transitioned to the National PAM Network GitHub once folks have access.\nThe acoustics SI and project design philosophy:\nThe ggn-nmfs-pamdata-prod-1 (“pamdata”) GCP project is designed to encompass the requirements of the PAM SI, while best prioritizing the wants and needs of the end-users and use cases, and staying near best admin practices for NMFS OCIO GCP. The relevant objectives of the PAM acoustics SI include acoustic data storage across NMFS, and passive acoustic monitoring applications that generally feed from this data. The primary end-users of the system include data owners and users, and application owners, developers, and users.\nPermissions structure:\nA principle and role based structure was designed for project capabilities. By defining specific principle groups (project supervisor, application developer, etc) the project is resilient to changes in individual users. Roles are given to these principle groups- for example, the project supervisors principle group is given viewing roles for most of the resources in the project for their visibility.\nFor quick configuration and transparency during the dynamic early stages of the project, principle and role definitions are managed by a central “project admin” principle group via terraform. NMFS OCIO best practice recommends Terraform for more transparent project resource configuration and management, and this allows for simplicity and transparency.\nAlternatives: In the future, we may wish to delegate assignment of users to principle groups in a way that better resembles the true acoustics SI responsible parties (ie, supervisors can assign the project admin(s), data authorities can designate their respective data admin(s), etc). In the short term, this may result in too much unpredictability to the dynamic project.\nBelow are some of the currently defined principles for the project:\n\n\n\n\n\n\n\nPrinciple group name\nDefinition and roles\n\n\n\n\nProject admin\nHighest GCP admin role, controls project terraform (all principle, role, resource definitions)\n\n\nProject supervisors\nHighest SI role, has visibility across project resources, tells project admin what to do\n\n\nData authority\nResponsible party for a particular FMC data storage bucket\n\n\nData admin\nAdministrates the contents (write/delete) of a particular storage bucket\n\n\nApplication developer\nAccess to software development resources\n\n\n\nResources:\nThe pamdata project is expected to house PAM data from across NMFS, application development resources, and various applications (&lt;30) in various states of development. Sprawl is a serious threat, in particular since many end-users of the system (owners/authorities, supervisors, users) tend to understand the system through use of a web browser as opposed to filterable api calls. In other words, resource sprawl will lead to reduced understandability of the project across the PAM SI end users and is thus carefully considered.\nData resources:\nEach FMC has a distinct storage bucket for their data. This allows for some flexibility in data naming and easier isolation of permissions between FMCs. Principle groups that are designated here are data authorities (the data owner or responsible party, usually the PI of an FMC acoustics group), and the data admins (the technical users responsible for maintaining the contents of the storage bucket).\nThe browser allows for easy viewing of the storage buckets such that non-technical users can easily interpret the current state of the data across the NMFS FMCs. However, the tool cannot distinguish the FMC buckets from application buckets, and in order to maintain easy interpretability applications will be encouraged to consolidate to fewer buckets as appropriate. Currently, three additional buckets outside of the FMC data buckets exist: the terraform state bucket, an application intermediate bucket, and an application output bucket.\nDevelopment resources:\nThe following resources have been stood up for application development:\nHardened docker image/server: Based on NMFS hardened linux container and preloaded with docker. I developed an imagining pipeline for this, meaning it will be easy to keep up to date and we can make as many copies of this as developers need them. Developing on this instead of locally will be a little closer to cloud and streamlines and simplifies some assumptions. Please make sure any developers working on containers understand this option exists and the advantages in doing development here (hardware flexibility, more similar to production, built in permissions w/o key management, etc).\nDocker registry: This is where container images will be placed (whether we build or import them), and it is a key backbone of a variety of GCP container orchestration services.\nApplication storage buckets: There are two new storage buckets, pamdata-app-intermediates and pamdata-app-outputs. Some of the time applications will need their own specific tiering and lifecycle, but I wanted to start with just these two, especially for early development, given that they are visible along with the FMC data buckets and we tend to like to use the console as a browsing tool to keep track of these. Keeping it to two, and dividing permissions by prefix, will keep the bucket display from getting too muddied.\nNetworking: Created networks and subnets - one for application and development machines, which require ssh and NAT internet connectivity, and one for batch processing, which relies on only private google connectivity by default, but other connectivity can be added as a particular app might need."
+  },
+  {
+    "objectID": "content/SI coord/SI_Coordination.html#overview",
+    "href": "content/SI coord/SI_Coordination.html#overview",
+    "title": "IRA PAM Strategic Initiative Coordination",
+    "section": "Overview",
+    "text": "Overview\nThis page serves as a landing page to coordinate progress towards the Passive Acoustic Monitoring Strategic Initiative (PAM SI). Included below are important links to identify open action items, review priority project descriptions and working group meeting notes, as well as track progress and issues through GitHub projects.\nThe PAM SI Team has identified eight priority projects that combined work towards two overarching goals: (1) National Data & Analysis Integration and (2) Infrastructure Development & Efficiency. Progress towards these goals will implement transformational activities that will significantly change the way in which we collect, analyze, and make PAM data accessible for answering mission critical questions.",
+    "crumbs": [
+      "PAM SI"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/SI_Coordination.html#pam-si-workflow",
+    "href": "content/SI coord/SI_Coordination.html#pam-si-workflow",
+    "title": "IRA PAM Strategic Initiative Coordination",
+    "section": "PAM SI Workflow",
+    "text": "PAM SI Workflow",
+    "crumbs": [
+      "PAM SI"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/SI_Coordination.html#important-links",
+    "href": "content/SI coord/SI_Coordination.html#important-links",
+    "title": "IRA PAM Strategic Initiative Coordination",
+    "section": "Important Links",
+    "text": "Important Links\n\nPAM SI Active Action Items tracker\nMarch 2024 Workshop Report\nPAM SI Progress Dashboard\nGitHub Projects (* More details to come - this link will only work once you become a member of the NMFS OST GitHub Organization)\nPAM SI Projects Google Folder\nNotes from Bi-weekly SI Team Meetings",
+    "crumbs": [
+      "PAM SI"
+    ]
+  },
+  {
+    "objectID": "content/SharedValues.html",
+    "href": "content/SharedValues.html",
+    "title": "Shared Values",
+    "section": "",
+    "text": "A shared values / lab culture page is optional but is highly recommended. Establishing these values as a team can help create a positive and inclusive environment, foster a shared vision, promote collaboration, and build team cohesion while supporting individual growth.\nSAEL example\nFaylab example",
+    "crumbs": [
+      "Optional Pages",
+      "Shared Values"
+    ]
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/acknowledgements.html",
+    "href": "content/NMFS_OpenSciDirections/acknowledgements.html",
+    "title": "Acknowledgments",
+    "section": "",
+    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html",
+    "href": "content/NMFS_OpenSciDirections/publishing.html",
+    "title": "Publishing",
+    "section": "",
+    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
+    "href": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
+    "title": "Publishing",
+    "section": "Turn on GitHub Pages for your repo",
+    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings &gt; Actions &gt; General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
+    "href": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
+    "title": "Publishing",
+    "section": "Do your first publish to gh-pages",
+    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
+    "href": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
+    "title": "Publishing",
+    "section": "Don’t like using gh-pages?",
+    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/organize.html",
+    "href": "content/NMFS_OpenSciDirections/organize.html",
+    "title": "Organize with Yaml",
+    "section": "",
+    "text": "Quarto Books are combinations of multiple documents (chapters) into a single manuscript in one or more formats (HTML, PDF, Word Doc, etc). Our example below is based on the PAM_template_lab_manual:\nindex.qmd- the index.qmd file is in the root director for your project, and serves as the Home Page for a website. This file is mandatory.\n_quarto.yml- the _quarto.yml is the configuration file for your project, and is also located in the root directory. The _quarto.yml provides information regarding overall formatting and structure of pages within the larger document.\nREADME.md- Markdown file that serves as the readme for the github repository.\ncontent folder- This folder contains the individual pages for your document. Alternative names for this folder are sometimes used, but we have found that the term ‘content’ is less confusing that frequently used alternatives. Here we recommend using this for consistency.\n\n\nYAML is a human-readable data serialization language commonly used for configuration files. YAML works with multiple programming languages, and also allows users to add comments to their data (useful for documentation). YAML does require very specific indentation, mapping, etc. It is helpful to use a yaml checker to be sure your yaml does not have errors.\nQuarto books/websites contain a _quarto.yml file, which is the website’s configuration file. It is essentially metadata for the website that includes the order that the pages/chapters will be in. This is where you organize your site. Here is a side-by-side example:\n\nLearn more, here."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/organize.html#how-to-organize-your-quarto-book",
+    "href": "content/NMFS_OpenSciDirections/organize.html#how-to-organize-your-quarto-book",
+    "title": "Organize with Yaml",
+    "section": "",
+    "text": "Quarto Books are combinations of multiple documents (chapters) into a single manuscript in one or more formats (HTML, PDF, Word Doc, etc). Our example below is based on the PAM_template_lab_manual:\nindex.qmd- the index.qmd file is in the root director for your project, and serves as the Home Page for a website. This file is mandatory.\n_quarto.yml- the _quarto.yml is the configuration file for your project, and is also located in the root directory. The _quarto.yml provides information regarding overall formatting and structure of pages within the larger document.\nREADME.md- Markdown file that serves as the readme for the github repository.\ncontent folder- This folder contains the individual pages for your document. Alternative names for this folder are sometimes used, but we have found that the term ‘content’ is less confusing that frequently used alternatives. Here we recommend using this for consistency.\n\n\nYAML is a human-readable data serialization language commonly used for configuration files. YAML works with multiple programming languages, and also allows users to add comments to their data (useful for documentation). YAML does require very specific indentation, mapping, etc. It is helpful to use a yaml checker to be sure your yaml does not have errors.\nQuarto books/websites contain a _quarto.yml file, which is the website’s configuration file. It is essentially metadata for the website that includes the order that the pages/chapters will be in. This is where you organize your site. Here is a side-by-side example:\n\nLearn more, here."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/organize.html#resources",
+    "href": "content/NMFS_OpenSciDirections/organize.html#resources",
+    "title": "Organize with Yaml",
+    "section": "Resources",
+    "text": "Resources\n\nYaml Checker\nQuarto Yaml Options (HTML)\nQuarto Book Structure"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/code.html",
+    "href": "content/NMFS_OpenSciDirections/code.html",
+    "title": "Rendering with Code",
+    "section": "",
+    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nx &lt;- c(5, 15, 25, 35, 45, 55)\ny &lt;- c(5, 20, 14, 32, 22, 38)\nlm(x ~ y)\n\n\nCall:\nlm(formula = x ~ y)\n\nCoefficients:\n(Intercept)            y  \n      1.056        1.326"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
+    "href": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
+    "title": "Rendering with Code",
+    "section": "Modify the GitHub Action",
+    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
+    "href": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
+    "title": "Rendering with Code",
+    "section": "Render locally and publish to gh-pages branch",
+    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html",
+    "href": "content/NMFS_OpenSciDirections/rendering.html",
+    "title": "Rendering",
+    "section": "",
+    "text": "The repo includes a GitHub Action that will render (build) the website automatically when you make changes to the files. It will be pushed to the gh-pages branch.\nBut when you are developing your content, you will want to render it locally."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
+    "href": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
+    "title": "Rendering",
+    "section": "Step 1. Make sure you have a recent RStudio",
+    "text": "Step 1. Make sure you have a recent RStudio\nHave you updated RStudio since about August 2022? No? Then update to a newer version of RStudio. In general, you want to keep RStudio updated and it is required to have a recent version to use Quarto."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
+    "href": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
+    "title": "Rendering",
+    "section": "Step 2. Clone and create RStudio project",
+    "text": "Step 2. Clone and create RStudio project\nFirst, clone the repo onto your local computer. How? You can click File &gt; New Project and then select “Version Control”. Paste in the url of the repository. That will clone the repo on to your local computer. When you make changes, you will need to push those up."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
+    "href": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
+    "title": "Rendering",
+    "section": "Step 3. Render within RStudio",
+    "text": "Step 3. Render within RStudio\nRStudio will recognize that this is a Quarto project by the presence of the _quarto.yml file and will see the “Build” tab. Click the “Render website” button to render to the _site folder.\nPreviewing: You can either click index.html in the _site folder and specify “preview in browser” or set up RStudio to preview to the viewer panel. To do the latter, go to Tools &gt; Global Options &gt; R Markdown. Then select “Show output preview in: Viewer panel”."
+  },
+  {
+    "objectID": "content/SoftwareAnalysis.html",
+    "href": "content/SoftwareAnalysis.html",
+    "title": "Software & Analysis Methods",
+    "section": "",
+    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics).",
+    "crumbs": [
+      "Software & Analysis Methods"
+    ]
+  },
+  {
+    "objectID": "content/Software.html",
+    "href": "content/Software.html",
+    "title": "Software",
+    "section": "",
+    "text": "A software section is required and should include the following information;\n\nList of software you use and their applications (R, Matlab/Triton, Python, PAMGuard, Raven, etc.)\nSoftware packages or tools your team has built (PAMPal, PAMmisc, Banter, PAMscapes, Driftwatch, etc.)\n\nSAEL example",
+    "crumbs": [
+      "Software & Analysis Methods",
+      "Software"
+    ]
+  },
+  {
+    "objectID": "content/FieldMethods.html",
+    "href": "content/FieldMethods.html",
+    "title": "Field Methods",
+    "section": "",
+    "text": "A field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example",
+    "crumbs": [
+      "Field Methods"
+    ]
+  },
+  {
+    "objectID": "content/Offboarding.html",
+    "href": "content/Offboarding.html",
+    "title": "Offboarding",
+    "section": "",
+    "text": "This page is optional but can be extremely beneficial when a member of your team is transitioning out of their current position. Things to include here are directions for project documentation, data and code storage/sharing, turning in equipment, etc.\nFaylab example",
+    "crumbs": [
+      "Optional Pages",
+      "Offboarding"
+    ]
+  },
+  {
+    "objectID": "content/PublicationsPresentations.html",
+    "href": "content/PublicationsPresentations.html",
+    "title": "Publications and Presentations",
+    "section": "",
+    "text": "This is an optional page but is a great opportunity to highlight some of your publications and presentations.\nSAEL example (add once this page is corrected)",
+    "crumbs": [
+      "Optional Pages",
+      "Publications and Presentations"
+    ]
+  },
+  {
+    "objectID": "content/OpenScience.html",
+    "href": "content/OpenScience.html",
+    "title": "Open Science",
+    "section": "",
+    "text": "NOAA Fisheries PAM Teams are adopting and Open Science approach to research. We have created a stand-alone repository for Open Science Methods, and we encourage our colleagues to join us on this journey.",
+    "crumbs": [
+      "Optional Pages",
+      "Open Science"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lab Manual - National Passive Acoustic Monitoring Network",
+    "section": "",
+    "text": "NOAA Fisheries’ PAM programs collect underwater sound recordings of the marine environment. Identification of the sounds produced by protected marine mammal species, fishes, humans, or the environment allows for an understanding of marine soundscapes and provides information on changes in species distribution, behavior and/or density. The technological revolution in PAM over the past decade has allowed both acoustic recorders and analytical approaches to increasingly become an integral part of NOAA Fisheries core science mission. PAM’s capacity for creating long term time series makes it an ideal approach for evaluating changes in species stocks, ecosystem interactions, and climate change.\nThere are seven NOAA Fisheries PAM programs including each regional Science Center and the Office of Science & Technology’s Ocean Acoustic Program. This repository serves to enhance National PAM collaboration within NOAA Fisheries and our partners through a common GitHub structure. Each of the regional science centers is in the process of establishing a region specific landing page that mimics the structure of this National page.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#regional-national-marine-fisheries-locations",
+    "href": "index.html#regional-national-marine-fisheries-locations",
+    "title": "Lab Manual - National Passive Acoustic Monitoring Network",
+    "section": "Regional National Marine Fisheries locations",
+    "text": "Regional National Marine Fisheries locations\nMap of Regional Fishery Science Center Labs. Regions are designated by color (see legend) with each region’s primary science center indicated by square symbols.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#regional-national-marine-fisheries-lab-manuals",
+    "href": "index.html#regional-national-marine-fisheries-lab-manuals",
+    "title": "Lab Manual - National Passive Acoustic Monitoring Network",
+    "section": "Regional National Marine Fisheries Lab Manuals",
+    "text": "Regional National Marine Fisheries Lab Manuals\n\nPIFSC: Pacific Islands Fisheries\nSWFSC: Southwest Fisheries\nNWFSC: Northwest Fisheries\nAFSC: Alaska Fisheries\nSEFSC: Southeast Fisheries\nNEFSC: Northeast Fisheries",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "content/AnalysisMethods.html",
+    "href": "content/AnalysisMethods.html",
+    "title": "Analysis Methods",
+    "section": "",
+    "text": "An analysis methods section is required and should include the following information;\n\nData Prep and Archive\n\nData prep (decompressing, creating LTSAs, decimating, etc.)\n\nSAEL example\n\nData quality checks (QAQC scripts)\n\nSAEL example\n\nData upload steps\n\nIf you have a internal storage include directions here on where data should be stored and in what format\nYou can also include a data managment structure with standardized naming and storage/folder structures\nSAEL example\n\n\nAnalysis methods for each species, group, or sound source\n\nYou can break this down by baleen and toothed whales, soundscapes, etc.\nEach section should include detailed and reproducible methods that anybody can recreate\n\n\nYou can also link to a separate hardware repository if needed (SAEL example)\nGlider Lab Manual example",
+    "crumbs": [
+      "Software & Analysis Methods",
+      "Analysis Methods"
+    ]
+  },
+  {
     "objectID": "content/Hardware.html",
     "href": "content/Hardware.html",
     "title": "Hardware",
@@ -80,195 +435,25 @@
     ]
   },
   {
-    "objectID": "content/SoftwareAnalysis.html",
-    "href": "content/SoftwareAnalysis.html",
-    "title": "Software & Analysis Methods",
+    "objectID": "content/LabManagement.html",
+    "href": "content/LabManagement.html",
+    "title": "Lab Management",
     "section": "",
-    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics).",
-    "crumbs": [
-      "Software & Analysis Methods"
-    ]
+    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory\nHardware"
   },
   {
-    "objectID": "content/Onboarding.html",
-    "href": "content/Onboarding.html",
-    "title": "Onboarding",
+    "objectID": "content/Inventory.html",
+    "href": "content/Inventory.html",
+    "title": "Inventory",
     "section": "",
-    "text": "This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example",
-    "crumbs": [
-      "Optional Pages",
-      "Onboarding"
-    ]
+    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example"
   },
   {
-    "objectID": "content/Offboarding.html",
-    "href": "content/Offboarding.html",
-    "title": "Offboarding",
+    "objectID": "content/Safety.html",
+    "href": "content/Safety.html",
+    "title": "Safety",
     "section": "",
-    "text": "This page is optional but can be extremely beneficial when a member of your team is transitioning out of their current position. Things to include here are directions for project documentation, data and code storage/sharing, turning in equipment, etc.\nFaylab example",
-    "crumbs": [
-      "Optional Pages",
-      "Offboarding"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html",
-    "href": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html",
-    "title": "PAM & Stock Assessments",
-    "section": "",
-    "text": "Erin Oleson (PIFSC), Yvonne Barkley (PIFSC)\n\n\n\nAdvancing the accuracy of stock assessments to capture seasonal and long-term changes in distribution using PAM glider datasets.\n\n\n\nThis project would develop the analytical framework necessary to integrate PAM data from profiling gliders into quantitative assessments of population distribution and density. The PAM and UxS SIs are heavily investing in the testing and development of PAM-equipped gliders and this effort would ensure that those developments are more quickly leveraged to improve cetacean assessments. This project would focus on developing a statistical framework for integrating a density model created with PAM glider data with existing visual-based species distribution models (SDM) to achieve more accurate ensemble models with seasonal context. This project may leverage an OPR Climate IRA proposal by Badger & Whitney, if funded.\n\n\n\n\nEvaluate resources required: Evaluate required funding depending on other proposals and staffing.\nConfer with PAM SI Working Group: Working Group determines whether there is substantial interest and priority for continued pursuit of this project. If no-go, determine whether the project may be re-evaluated later based on funds available.\nEvaluate state of the science: Connect with Center for Research into Ecological and Environmental Modelling, Duke, and other colleagues to assess the state of the science.\nIdentify datasets and species: Collect and collate PIFSC, SEFSC, and SWFSC PAM glider data and identify priority species for modeling based on data availability and management needs.\nAssess analytical next steps: Establish a working group to assess suitable modeling frameworks that fit PAM glider data. Additionally, the PAM SI could convene a workshop or series of workshops that assess the state of the science for incorporating PAM data into species distribution model frameworks in support of this project."
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#project-1-incorporating-glider-data-in-a-species-distribution-modeling-framework",
-    "href": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#project-1-incorporating-glider-data-in-a-species-distribution-modeling-framework",
-    "title": "PAM & Stock Assessments",
-    "section": "",
-    "text": "Erin Oleson (PIFSC), Yvonne Barkley (PIFSC)\n\n\n\nAdvancing the accuracy of stock assessments to capture seasonal and long-term changes in distribution using PAM glider datasets.\n\n\n\nThis project would develop the analytical framework necessary to integrate PAM data from profiling gliders into quantitative assessments of population distribution and density. The PAM and UxS SIs are heavily investing in the testing and development of PAM-equipped gliders and this effort would ensure that those developments are more quickly leveraged to improve cetacean assessments. This project would focus on developing a statistical framework for integrating a density model created with PAM glider data with existing visual-based species distribution models (SDM) to achieve more accurate ensemble models with seasonal context. This project may leverage an OPR Climate IRA proposal by Badger & Whitney, if funded.\n\n\n\n\nEvaluate resources required: Evaluate required funding depending on other proposals and staffing.\nConfer with PAM SI Working Group: Working Group determines whether there is substantial interest and priority for continued pursuit of this project. If no-go, determine whether the project may be re-evaluated later based on funds available.\nEvaluate state of the science: Connect with Center for Research into Ecological and Environmental Modelling, Duke, and other colleagues to assess the state of the science.\nIdentify datasets and species: Collect and collate PIFSC, SEFSC, and SWFSC PAM glider data and identify priority species for modeling based on data availability and management needs.\nAssess analytical next steps: Establish a working group to assess suitable modeling frameworks that fit PAM glider data. Additionally, the PAM SI could convene a workshop or series of workshops that assess the state of the science for incorporating PAM data into species distribution model frameworks in support of this project."
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#project-option-2-incorporating-stationary-data-into-a-species-distribution-modeling-framework",
-    "href": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#project-option-2-incorporating-stationary-data-into-a-species-distribution-modeling-framework",
-    "title": "PAM & Stock Assessments",
-    "section": "Project option 2: Incorporating stationary data into a species distribution modeling framework",
-    "text": "Project option 2: Incorporating stationary data into a species distribution modeling framework\n\nTeam leads\nLance Garrison (SEFSC), Melissa Soldevilla (SEFSC), Ann Allen (PIFSC), Genevieve Davis (NEFSC), Manolo Castellote (AFSC), Marla Holt (NWFSC), Jason Gedamke (OST)\n\n\nTarget outcome:\nIntegrating long-term PAM data into species density models to provide seasonal and long-term changes in distribution and density.\n\n\nSummary\nThis project would support the PAM SI objective of advancing data integration by leveraging stationary PAM data and visual data to improve the accuracy of stock assessments by capturing seasonal and long-term changes. This project would focus on developing a statistical framework for integrating a density model created with stationary PAM data with existing visual-based SDMs to achieve more accurate models with seasonal context. This project may leverage LISTEN GoMex funding to develop models for sperm whales and beaked whales.\n\n\nAction items\n\nEstablish collaboration: Meet with Lance Garrison to identify his interest and willingness to convene a working group to support his ongoing effort and work towards broader applicability of the outcomes.\nIdentify resources required: Evaluate whether LISTEN GoMex requires more resources to make these methods broadly applicable.\nConfer with PAM SI Working Group: Working Group determines whether there is substantial interest and priority for continued pursuit of this project. If no-go, determine whether the project may be re-evaluated later based on funds available. Deadline: May 2024. Note: As of May 2024, this project was not selected for funding by the PAM SI Working Group. However, given the synergies between integrating stationary PAM data and mobile PAM data, the SI will leverage any PAM data integration workshops held to assess the state of the science for integrating both data types into species distribution modeling framework. This will advance our analytical readiness to pursue this project at a later time.\nEstablish project team: Establish working group, potentially including colleagues from Duke University, Fisheries and Oceans Canada, etc., to meet periodically with the LISTEN GoMex team to ensure broad regional relevance.\nExpand capacity: If funded, advertise post-doc position to support this effort. Alterntively, the PAM SI could convene a workshop or series of workshops that assess the state of the science for incorporating PAM data into species distribution model frameworks in conjunction with Project 1."
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#project-option-3-improving-sperm-whale-and-beaked-whale-density-estimation-from-towed-arrays",
-    "href": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#project-option-3-improving-sperm-whale-and-beaked-whale-density-estimation-from-towed-arrays",
-    "title": "PAM & Stock Assessments",
-    "section": "Project option 3: Improving sperm whale and beaked whale density estimation from towed arrays",
-    "text": "Project option 3: Improving sperm whale and beaked whale density estimation from towed arrays\n\n\nTeam leads\nYvonne Barkey (PIFSC), Melissa Soldevilla (SEFSC), Annamaria DeAngelis (NEFSC), Jennifer McCullough (PIFSC)\n\n\nTarget Outcome\nExpanding the utility of an existing automated tracking and localization tool to facilitate distance sampling-based density estimation from towed array surveys for sperm and beaked whales.\n\n\nSummary\nTowed hydrophone arrays are a standard part of NMFS line-transect surveys. Oftentimes acoustic detection of species far out-numbers visual detections, such that inclusion of acoustically detected groups could increase the precision and accuracy of density analyses and improve stock assessments. PIFSC has developed an automated multi-target tracking tool for identification, tracking, and localization of false killer whale subgroups that can be adapted for use with other species. Current methods for density estimation using towed array acoustic detections of sperm whales and beaked whales are time-consuming and use of automated tracking and localization tools would increase efficiency and therefore utility of these datasets to improve the stock assessments for these species. This project will improve functionality of the existing multi-target tracking tool that is used by PIFSC to extract perpendicular distance information from data to support density and abundance estimation. Work will include testing, modifying, and validating the tool on sperm whale and beaked whale datasets from multiple regions (NEFSC, SEFSC). The outcome of this project would support the PAM SI objective of data integration to support stock assessments by advancing the technology readiness of PAM inclusion in Stock Assessment Reports in multiple NOAA Fisheries regions.\n\n\nAction Items\n\nIdentify challenges: Yvonne and Jen work with Pina Gruden to understand what modifications to the current code are necessary for use for sperm whales and beaked whales, providing an estimate of the expected investment required to adapt the tool.\nConfer with PAM SI Working Group: Working Group determines whether there is substantial interest and priority for continued pursuit of this project. If no-go, determine whether the project may be re-evaluated later based on funds available. Note: As of May 2024, this project was not selected for funding based on the outcomes of the consultation with the tool developer, Pina Gruden. Specifically, the time and amount of resources required are beyond the scope of the PAM SI.\nPrepare test datasets: Gather test datasets from NE/SE/PI.\nTraining on Multi-target tracking tool: Yvonne and Pina will train others on executing the tool in MATLAB.\nTest cases: Basic assessment of the tool on NE and SE datasets to identify bugs.\nResolve bugs: Pina or others address usability needs of all users.\nAspirational step to improve tool: If time and capacity allows, consider attempting to integrate depth estimation for more accurate horizontal distance estimation for deep divers based on Yvonne/Annamaria’s work."
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#accomplishments",
-    "href": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#accomplishments",
-    "title": "PAM & Stock Assessments",
-    "section": "Accomplishments",
-    "text": "Accomplishments\n\nDevin and Janelle awarded funding from NMFS Science & Technology International Fellowship to travel to Univ. of St. Andrews for 2 weeks with CREEM folks (Len, Danielle, Tiago) to work on statistical methods\nThis analysis team met 2 weeks ago to start the statistical development for integrating acoustic data into SDMs for towed arrays, so initial thinking is underway!\nData collection underway"
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#existing-and-expected-data-sets",
-    "href": "content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.html#existing-and-expected-data-sets",
-    "title": "PAM & Stock Assessments",
-    "section": "Existing and expected data sets",
-    "text": "Existing and expected data sets\n\n\n\nMain Hawaiian Islands Spring 2022 and 2023\n\n\n\n\n\nCalCurCEAS - Oregon - Fall 2024 - 3 gliders + DASBRs"
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/Stock_projects/Project_2.html",
-    "href": "content/SI coord/PAM_priority_projects/Stock_projects/Project_2.html",
-    "title": "Project 2 - Incorporating stationary data into a species distribution modeling framework",
-    "section": "",
-    "text": "Team leads\nLance Garrison (SEFSC), Melissa Soldevilla (SEFSC), Ann Allen (PIFSC), Genevieve Davis (NEFSC), Manolo Castellote (AFSC), Marla Holt (NWFSC), Jason Gedamke (OST)\n\n\nTarget outcome:\nIntegrating long-term PAM data into species density models to provide seasonal and long-term changes in distribution and density.\n\n\nSummary\nThis project would support the PAM SI objective of advancing data integration by leveraging stationary PAM data and visual data to improve the accuracy of stock assessments by capturing seasonal and long-term changes. This project would focus on developing a statistical framework for integrating a density model created with stationary PAM data with existing visual-based SDMs to achieve more accurate models with seasonal context. This project may leverage LISTEN GoMex funding to develop models for sperm whales and beaked whales.\n\n\nAction items\n\nEstablish collaboration: Meet with Lance Garrison to identify his interest and willingness to convene a working group to support his ongoing effort and work towards broader applicability of the outcomes.\nIdentify resources required: Evaluate whether LISTEN GoMex requires more resources to make these methods broadly applicable.\nConfer with PAM SI Working Group: Working Group determines whether there is substantial interest and priority for continued pursuit of this project. If no-go, determine whether the project may be re-evaluated later based on funds available. Deadline: May 2024. Note: As of May 2024, this project was not selected for funding by the PAM SI Working Group. However, given the synergies between integrating stationary PAM data and mobile PAM data, the SI will leverage any PAM data integration workshops held to assess the state of the science for integrating both data types into species distribution modeling framework. This will advance our analytical readiness to pursue this project at a later time.\nEstablish project team: Establish working group, potentially including colleagues from Duke University, Fisheries and Oceans Canada, etc., to meet periodically with the LISTEN GoMex team to ensure broad regional relevance.\nExpand capacity: If funded, advertise post-doc position to support this effort. Alterntively, the PAM SI could convene a workshop or series of workshops that assess the state of the science for incorporating PAM data into species distribution model frameworks in conjunction with Project 1.",
-    "crumbs": [
-      "PAM SI",
-      "PAM Stock Projects",
-      "Stationary tools"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/National Decision Support Tool.html",
-    "href": "content/SI coord/PAM_priority_projects/National Decision Support Tool.html",
-    "title": "NMFS PAM Google Cloud Project",
-    "section": "",
-    "text": "Team Leads (all NEFSC)\nSofie Van Parijs, Genevieve Davis, Jeff Walker\n\n\nGoal\nDevelop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends\n\n\nAccomplishments\n\n1. Migrated existing PACM web application from NEFSC on-prem server to Google Cloud Platform with help from NMFS ACIO\n Passive Acoustic Cetacean Map\n\n\n\n\n\n\n2. Finalized PostgreSQL database schema for storing passive acoustic detection data and associated metadata from multiple organizations\n\n\n\n\n\n\n\n3. Cleaned, transformed, merged all available legacy data from multiple sources into new schema using {targets} R package"
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/Openscience Infosharing.html",
-    "href": "content/SI coord/PAM_priority_projects/Openscience Infosharing.html",
-    "title": "National PAM Coordination and Sharing",
-    "section": "",
-    "text": "Goal: Enhance National PAM collaboration among the regions by facilitating an open science culture and creating the infrastructure for information sharing on GitHub.\nTeam Leads: Becca Van Hoeck (NEFSC), Shannon Rankin (SWFSC)\nOpenscapes show and tell discussion board"
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-Cloud.html",
-    "href": "content/SI coord/PAM_priority_projects/PAM-Cloud.html",
-    "title": "NMFS PAM Operational Cloud Storage and Processing",
-    "section": "",
-    "text": "Team Leads\nSofie Van Parijs (NEFSC), Dan Woodrich (AFSC)\n\n\nGoal\nDemonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS PAM operations and support the protected species mission\n\n\n\nTarget outcome\nDeveloping a National PAM Cloud operational repository for data processing and storage\n\n\n\nProject Resources\n\n\nPAM GCP Technical System Documentation\n\n\nOverview\nSummary of key decisions, technical system set-up, and use expectations for using software applications in the PAM GCP. This document is an initial way to collaborate on developing the documentation and will be transitioned to the National PAM Network GitHub once folks have access.\n\n\nThe acoustics SI and project design philosophy:\nThe ggn-nmfs-pamdata-prod-1 (“pamdata”) GCP project is designed to encompass the requirements of the PAM SI, while best prioritizing the wants and needs of the end-users and use cases, and staying near best admin practices for NMFS OCIO GCP. The relevant objectives of the PAM acoustics SI include acoustic data storage across NMFS, and passive acoustic monitoring applications that generally feed from this data. The primary end-users of the system include data owners and users, and application owners, developers, and users.\n\n\nPermissions structure:\nA principle and role based structure was designed for project capabilities. By defining specific principle groups (project supervisor, application developer, etc) the project is resilient to changes in individual users. Roles are given to these principle groups- for example, the project supervisors principle group is given viewing roles for most of the resources in the project for their visibility.\nFor quick configuration and transparency during the dynamic early stages of the project, principle and role definitions are managed by a central “project admin” principle group via terraform. NMFS OCIO best practice recommends Terraform for more transparent project resource configuration and management, and this allows for simplicity and transparency.\nAlternatives: In the future, we may wish to delegate assignment of users to principle groups in a way that better resembles the true acoustics SI responsible parties (ie, supervisors can assign the project admin(s), data authorities can designate their respective data admin(s), etc). In the short term, this may result in too much unpredictability to the dynamic project.\nBelow are some of the currently defined principles for the project:\n\n\n\n\n\n\n\nPrinciple group name\nDefinition and roles\n\n\n\n\nProject admin\nHighest GCP admin role, controls project terraform (all principle, role, resource definitions)\n\n\nProject supervisors\nHighest SI role, has visibility across project resources, tells project admin what to do\n\n\nData authority\nResponsible party for a particular FMC data storage bucket\n\n\nData admin\nAdministrates the contents (write/delete) of a particular storage bucket\n\n\nApplication developer\nAccess to software development resources\n\n\n\n\n\nResources:\nThe pamdata project is expected to house PAM data from across NMFS, application development resources, and various applications (&lt;30) in various states of development. Sprawl is a serious threat, in particular since many end-users of the system (owners/authorities, supervisors, users) tend to understand the system through use of a web browser as opposed to filterable api calls. In other words, resource sprawl will lead to reduced understandability of the project across the PAM SI end users and is thus carefully considered.\n\n\nData resources:\nEach FMC has a distinct storage bucket for their data. This allows for some flexibility in data naming and easier isolation of permissions between FMCs. Principle groups that are designated here are data authorities (the data owner or responsible party, usually the PI of an FMC acoustics group), and the data admins (the technical users responsible for maintaining the contents of the storage bucket).\nThe browser allows for easy viewing of the storage buckets such that non-technical users can easily interpret the current state of the data across the NMFS FMCs. However, the tool cannot distinguish the FMC buckets from application buckets, and in order to maintain easy interpretability applications will be encouraged to consolidate to fewer buckets as appropriate. Currently, three additional buckets outside of the FMC data buckets exist: the terraform state bucket, an application intermediate bucket, and an application output bucket.\n\n\nDevelopment resources\nThe following resources have been stood up for application development:\nHardened docker image/server:\nBased on NMFS hardened linux container and preloaded with docker. I developed an imagining pipeline for this, meaning it will be easy to keep up to date and we can make as many copies of this as developers need them. Developing on this instead of locally will be a little closer to cloud and streamlines and simplifies some assumptions. Please make sure any developers working on containers understand this option exists and the advantages in doing development here (hardware flexibility, more similar to production, built in permissions w/o key management, etc).\nDocker registry:\nThis is where container images will be placed (whether we build or import them), and it is a key backbone of a variety of GCP container orchestration services.\nApplication storage buckets:\nThere are two new storage buckets, pamdata-app-intermediates and pamdata-app-outputs. Some of the time applications will need their own specific tiering and lifecycle, but I wanted to start with just these two, especially for early development, given that they are visible along with the FMC data buckets and we tend to like to use the console as a browsing tool to keep track of these. Keeping it to two, and dividing permissions by prefix, will keep the bucket display from getting too muddied.\nNetworking:\nCreated networks and subnets - one for application and development machines, which require ssh and NAT internet connectivity, and one for batch processing, which relies on only private google connectivity by default, but other connectivity can be added as a particular app might need.\n\n\n\nDirect Acoustic Data Upload to Cloud\n\n\nResult:\nASFC was able to upload 100TB of acoustic data to our GCP bucket over the internet connection in our science center (in Seattle) in a three week upload window with low operator effort, representing our whole primary acoustic data collection.\n\nHow:\nOur research group committed two computers with normal user permissions in the AFSC data center to upload data from the AFSC LAN to our pamdata bucket. These two computers ran a simple script, which was written in R and wrapped calls to the GCP ‘gsutil’ tool. The script was very simple, about 50 lines. The script instructed the computers to only initiate uploads between the hours of 7pm and 6am on weekdays and constantly on weekends. The R sessions were logged so we could identify any early termination that might have resulted in partial or corrupted uploads. Additional process will be designed to check that the data was uploaded in full.\n\nImpact:\nAFSC IT would have been notified by the NMFS network team if the traffic were considered disruptive. They would have traced the traffic to the machines under my user name, and contacted me to ask questions. This not happening suggests that the traffic was a non-issue. Scheduling traffic within off-hours (nights and weekends) prevents throttling normal user traffic during working hours, and staying within these confines is respectful and normal practice for NMFS IT groups. We did not notify AFSC IT or the NMFS network team as we wanted to test the impact of this traffic empirically, but going forward, especially with multiple FMCs performing uploads concurrently, we advise approving the traffic with FMC & NMFS IT.\n\nContact:\nDan Woodrich daniel.woodrich@noaa.gov if you would like to explore a similar process for your FMC acoustic data.\nR script: \n\nis_weekday = function(x){\n  weekdays = c('Thursday','Friday','Monday','Tuesday','Wednesday')\n  return(weekdays(x) %in% weekdays)\n}\n\nis_after_hours= function(x){\n  return(as.integer(format(x,\"%H\")) &lt; 6 | as.integer(format(x,\"%H\")) &gt; 18)\n}\n\n#cloud data upload. This assumes you are uploading bottom_mounted data , and just uploads the full content of each folder below the 'moorings' folder. Adapt the logic to your needs but note renaming / reorganizing is more complex. \n\nmy_fmc_bucket_name = 'afsc-1'\nmy_top_level_data_path = \"//161.55.120.117/NMML_AcousticsData/Audio_Data/Waves\"\nmoorings = dir(my_top_level_data_path) #gets each subfolder of top level data path. \n\n#log the job\nsink(paste(\"//akc0ss-n086/NMML_CAEP_Acoustics/Detector/pam_si/upload_log_\",Sys.info()['nodename'],\".csv\",sep=\"\"), append=TRUE, split=TRUE)\n\nwork = list(1:200,201:length(moorings)) #in my case we had 435 moorings. \nnames(work) = c(\"computer1-name\",\"computer2-name\") #needs to match Sys.info()['nodename'] for computers you are using\nmoorings = moorings[work[[Sys.info()['nodename']]]]\n\nfor(mooring in moorings){\n  \n  #detect if it's a weekday during work hours, don't start a job. \n  while(is_weekday(Sys.time()) & !is_after_hours(Sys.time())){\n    cat(paste('waiting...',Sys.time(),\"\\n\"))\n    Sys.sleep(600) #wait 10 minutes until trying again. \n  }\n  \n  #gsutil needs to be installed on the system through Google Cloud SDK. If you can open up a command line and run 'gsutil help' and recieve a response, the below line will work.  \n  string = paste(\"gsutil -m cp -r \",my_top_level_data_path,mooring,\" gs://\",my_fmc_bucket_name,\"/bottom_mounted/\",mooring,sep=\"\")\n  cat(paste(\"started\",mooring,\"at\",Sys.time(),\"\\n\"))\n  system(string,intern=TRUE) \n  cat(paste(\"ended\",mooring,\"at\",Sys.time(),\"\\n\"))\n}\n\n\n\n\nGoogle Transfer Appliance Set Up Checklist\n\n\n\nEnable APIs - this has been completed that the console/project level and the checklist item can simply be marked as complete.\nAuthorize Service Acounts: Email Dan Woodrich daniel.woodrich@noaa.gov the link to the checklist so he can complete that step on your behalf\n\n\n\n\nPAMDATA Windows Workstation User Guide\n\n\n\n\nProvision\nAsk Sofie/Becca/Dan for an instance.\n\n\nConfigure gcloud\nAll steps in this section only needs to be done once for each computer you want to access the pam-ww from.\n\nTo connect to a remote workstation, you have to install software on your primary physical computer. The next steps in this section assume you’re using Windows, alternatives exist for Mac and Linux.\nMake sure you have Google Cloud SDK installed on your primary physical computer. In the section titled “Installing the latest gcloud CLI version”, select your personal computer operating system and follow the steps to configure the client software.\n\n\n\nOpen the terminal (Command Prompt on windows, can use other shells on other OS as long as it works with gcloud) and enter “gcloud auth login”. This will take you to a browser to login with your email password or two-step verification to configure your user credential with gcloud.\nThe authentication will be successful if you can type in a command line ‘gcloud auth list’ and it returns your NOAA email address.\n\nIf asked to pick a cloud project, enter the number associated with ggn-nmfs-pamdata-prod-1\n\nOpen the VM instances list here to identify the name of your personal windows workstation. The default naming convention is “firstname-lastname-pam-ww”.\n\n\n\nConnect\nPrior to connecting, ensure that the workstation is in an ‘on’ state. You can navigate to the link here to see the workstation state and turn it on/off in the browser.\n\n\n\nGreen checkmarks means on, circle means state is changing (turning on or off), gray means stopped. The three dots on the right are called the ‘hamburger’ menu where you can turn change the on/off state.\n\n\nFind the instance containing your name, click on the hamburger menu on the right of the row representing that instance, and select ‘on’. This is also how you turn it off.\n\n\n\n\n\n\nNote\n\n\n\nPlease keep the instance off when not in use, for instance at the end of your workday if you are actively using it. Leaving it on for long periods unnecessarily incurs unneeded cost.\n\n\n\nRemote Desktop Connection\nBuilt-in windows RDP client, usually preinstalled\n\nOpen up the Windows Command Prompt if on windows.\nEnter the below line of code into the command line to log in as a user. The pattern is [firstname]-[lastname]-pam-ww. It will match the name of the workstation, which you can reference in the link to the pam-ww management page. For example, for user “rebecca.vanhoeck@noaa.gov”, you would enter in cmd:\n\n\nstart gcloud compute start-iap-tunnel rebecca-vanhoeck-pam-ww 3389 --local-host-port=localhost:3390 --zone=us-east4-c --project=ggn-nmfs-pamdata-prod-1 && timeout 5 && mstsc /v:localhost:3390\n\nChange the above code to match your username.\nEnter the code. When prompted, enter pam_user for user, do not supply a password, and hit enter. Accept any warnings that look reasonable. Remote desktop connection will supply the correct username on subsequent logins\n\n\n\n\n\n\nNote\n\n\n\nSome users report issues associated with connecting with the above command. If you have similar issues, try running in cmd with:\ngcloud compute start-iap-tunnel rebecca-vanhoeck-pam-ww 3389 –local-host-port=localhost:3390 –zone=us-east4-c –project=ggn-nmfs-pamdata-prod-1\nLike above, change the above code to match your username. Then, leaving the terminal window running, navigate to “remote desktop connection” application, and enter in localhost:3390. Like with above, supply the username as pam_user and no password.\nFor even quicker logins, you can copy the code into a text file, rename to make it have a .bat extension instead of .txt extension (if your primary physical computer is Windows), and then double click it. The code will run in the cmd line when you double click it, so you don’t have to open cmd prompt and copy paste the code in each time.\n\n\n\n\n\nUpgrade\nThe pam-ww template image is upgraded in a versioned manner to fix bugs and add new features and software. Currently the default support model is just to replace pam-ww when upgrades are needed. Be aware that upgrading will wipe out your local files on the instance as well as any customized software you or admins have installed on your particular instance.If you’d like a newer build of the pam-ww, request an upgrade from daniel.woodrich@noaa.gov. You can, and it is in fact preferred, to delete your own pam-ww in advance prior to requesting an upgrade to the latest version.\nIf there are specific software you’d like installed on your workstation, ask daniel.woodrich@noaa.gov to remote into your instance and install the software on your behalf. In some cases software needs admin privileges as well as personal license credentials with the service (such as MATLAB), in these cases we will set up a shared session to install together.\nSometimes it is not clear if you need an update, since you may be unsure which version you are on and what features or changes have been made in successive versions. The next steps are to check your current image and determine which features have been added which can help you decide if you’d like an update.\n\n\nCheck your current image\nYou can see the current version of your pam-ww by going to the homepage, clicking on the name of your pam-ww (with the name of your pam-ww)\n\nThe text under the ‘image’ field indicates the current version of your pam-ww. The pam-ww image name is between the text “pww-disa” and “hardened…”, in this case, “beta-3”. You can cross reference this with the following documents that track the changes. Both are organized in consecutive order where the last entry represents the most recent available version.\n\nPAM-ww template change tracking\nPAM-ww versioned build steps\n\n\n\n\n\n\n\nNote\n\n\n\nWe are currently working on github based process to formalize provisioning and updating processes and hope to make this aspect of the pam-ww increasingly streamlined.\n\n\n\n\n\n\n\nReport bug/issue in PAM windows workstation\n\nReport a bug\nBug Tracking",
-    "crumbs": [
-      "PAM SI",
-      "PAM-Cloud"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-Glider.html#pam-glider-national-roadmap",
-    "href": "content/SI coord/PAM_priority_projects/PAM-Glider.html#pam-glider-national-roadmap",
-    "title": "Accelerating Pacific-wide PAM-glider operations",
-    "section": "PAM-Glider National Roadmap",
-    "text": "PAM-Glider National Roadmap\n\n1. Identify & Test Technology\n\nBuild Capacity\n\nAccomplishments\n\nPIFSC: 2 @ Seagliders, Glider Lab\nSWFSC: 2 @ Slocum, 2 @ Hefring Ocean Scout\nExpand DMON (expected by end of FY26)\n\nNext steps\n\nTest!\n\n\n\n\nGlider Rodeo\n\nAccomplishments\n\nAlseamar Contract Awarded (data as a service for Glider Rodeo)\nPresentations at UG2 (Underwater Glider User Group, Erik Norris)\nGlider Reseo Repo/Website\n\nNext steps\n\nStandardized Metrics for Comparison\nSchedule/Plan Survey (Fall 2025 West Coast, Feb 2026 Hawaii)\n\n\n\n\n\n2. Concurrent Glider/Ship Surveys\n\nUS West Coast CalCurCEAS\n\nAccomplishments\n\nPartner with OSU: 3 Seagliders off Oregon\nAccess to real time maps/metadata\n\nNext steps\n\nSurvey data to Stock Assessment Team\nHawaii Survey (Feb 2026)\n\n\n\n\n\n3. Advanced Data Analysis\nLink our data with other teams (in process)\n\n\n4. Field Test Ecosystem Studies (UxS funded “Plankton to Whales”)\nPostponed until SWFSC has PAM-Gliders\n\n\n5. Transition to Operations Plan –&gt; National Roadmap\n\nPAM-Glider Github Organization\nRepositories\n\nGlider Rodeo\nGlider-CalCurCEAS\nPAM-UxS\n\nOpenscapes: Create Repo/Foundation for Reports",
-    "crumbs": [
-      "PAM SI",
-      "PAM-Glider"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/Openscapes.html",
-    "href": "content/SI coord/Openscapes.html",
-    "title": "Openscapes",
-    "section": "",
-    "text": "Shannon Rankin (SWFSC), Kourtney Burger (SWFSC), Bella Garfield (NEFSC), Becca Van Hoeck (NEFSC)"
-  },
-  {
-    "objectID": "content/SI coord/Openscapes.html#team-leads",
-    "href": "content/SI coord/Openscapes.html#team-leads",
-    "title": "Openscapes",
-    "section": "",
-    "text": "Shannon Rankin (SWFSC), Kourtney Burger (SWFSC), Bella Garfield (NEFSC), Becca Van Hoeck (NEFSC)"
-  },
-  {
-    "objectID": "content/SI coord/Openscapes.html#goals",
-    "href": "content/SI coord/Openscapes.html#goals",
-    "title": "Openscapes",
-    "section": "Goals",
-    "text": "Goals\nOpenscapes is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort.\nOur goals include developing the NMFS PAM sharing structure in real time (national and regional lab manuals), building foundational open science knowledge, and sharing the lessons learned with our broader science center PAM groups"
-  },
-  {
-    "objectID": "content/SI coord/Openscapes.html#notes",
-    "href": "content/SI coord/Openscapes.html#notes",
-    "title": "Openscapes",
-    "section": "Notes",
-    "text": "Notes\nAll meeting notes and Openscapes related documents will be accessible in the PAM SI Openscapes Google Drive Folder\nOpenscience discussions are hosted on SAEL’s Openscience Github repository. Access the discussion board here"
-  },
-  {
-    "objectID": "content/Reporting.html",
-    "href": "content/Reporting.html",
-    "title": "Reporting",
-    "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
-    "crumbs": [
-      "Reporting"
-    ]
-  },
-  {
-    "objectID": "content/Reporting.html#templates",
-    "href": "content/Reporting.html#templates",
-    "title": "Reporting",
-    "section": "",
-    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
-    "crumbs": [
-      "Reporting"
-    ]
-  },
-  {
-    "objectID": "content/Reporting.html#permits",
-    "href": "content/Reporting.html#permits",
-    "title": "Reporting",
-    "section": "Permits",
-    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example",
-    "crumbs": [
-      "Reporting"
-    ]
-  },
-  {
-    "objectID": "content/SharedValues.html",
-    "href": "content/SharedValues.html",
-    "title": "Shared Values",
-    "section": "",
-    "text": "A shared values / lab culture page is optional but is highly recommended. Establishing these values as a team can help create a positive and inclusive environment, foster a shared vision, promote collaboration, and build team cohesion while supporting individual growth.\nSAEL example\nFaylab example",
-    "crumbs": [
-      "Optional Pages",
-      "Shared Values"
-    ]
+    "text": "Include the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual"
   },
   {
     "objectID": "content/DataManagement.html",
@@ -279,69 +464,6 @@
     "crumbs": [
       "Data Management"
     ]
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html",
-    "href": "content/NMFS_OpenSciDirections/publishing.html",
-    "title": "Publishing",
-    "section": "",
-    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
-    "href": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
-    "title": "Publishing",
-    "section": "Turn on GitHub Pages for your repo",
-    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings &gt; Actions &gt; General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
-    "href": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
-    "title": "Publishing",
-    "section": "Do your first publish to gh-pages",
-    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
-    "href": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
-    "title": "Publishing",
-    "section": "Don’t like using gh-pages?",
-    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html",
-    "href": "content/NMFS_OpenSciDirections/rendering.html",
-    "title": "Rendering",
-    "section": "",
-    "text": "The repo includes a GitHub Action that will render (build) the website automatically when you make changes to the files. It will be pushed to the gh-pages branch.\nBut when you are developing your content, you will want to render it locally."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
-    "href": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
-    "title": "Rendering",
-    "section": "Step 1. Make sure you have a recent RStudio",
-    "text": "Step 1. Make sure you have a recent RStudio\nHave you updated RStudio since about August 2022? No? Then update to a newer version of RStudio. In general, you want to keep RStudio updated and it is required to have a recent version to use Quarto."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "href": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "title": "Rendering",
-    "section": "Step 2. Clone and create RStudio project",
-    "text": "Step 2. Clone and create RStudio project\nFirst, clone the repo onto your local computer. How? You can click File &gt; New Project and then select “Version Control”. Paste in the url of the repository. That will clone the repo on to your local computer. When you make changes, you will need to push those up."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
-    "href": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
-    "title": "Rendering",
-    "section": "Step 3. Render within RStudio",
-    "text": "Step 3. Render within RStudio\nRStudio will recognize that this is a Quarto project by the presence of the _quarto.yml file and will see the “Build” tab. Click the “Render website” button to render to the _site folder.\nPreviewing: You can either click index.html in the _site folder and specify “preview in browser” or set up RStudio to preview to the viewer panel. To do the latter, go to Tools &gt; Global Options &gt; R Markdown. Then select “Show output preview in: Viewer panel”."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/acknowledgements.html",
-    "href": "content/NMFS_OpenSciDirections/acknowledgements.html",
-    "title": "Acknowledgments",
-    "section": "",
-    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
   },
   {
     "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html",
@@ -365,79 +487,18 @@
     "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
   },
   {
-    "objectID": "content/LabManagement.html",
-    "href": "content/LabManagement.html",
-    "title": "Lab Management",
+    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html",
+    "href": "content/NMFS_OpenSciDirections/Getting-Started.html",
+    "title": "Getting Started",
     "section": "",
-    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory\nHardware"
+    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
   },
   {
-    "objectID": "content/FieldMethods.html",
-    "href": "content/FieldMethods.html",
-    "title": "Field Methods",
+    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
+    "href": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
+    "title": "Getting Started",
     "section": "",
-    "text": "A field methods section is highly recommended to help your team keep track of all current and past fieldwork documentation. Things to include here can include hardware specifications, checklists for fieldwork prep, deployment and recovery methods, etc.\nYou can make this a section with subpages or link directly to a separate repository that includes more detailed methods.\nADRIFT example",
-    "crumbs": [
-      "Field Methods"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Lab Manual - National Passive Acoustic Monitoring Network",
-    "section": "",
-    "text": "NOAA Fisheries’ PAM programs collect underwater sound recordings of the marine environment. Identification of the sounds produced by protected marine mammal species, fishes, humans, or the environment allows for an understanding of marine soundscapes and provides information on changes in species distribution, behavior and/or density. The technological revolution in PAM over the past decade has allowed both acoustic recorders and analytical approaches to increasingly become an integral part of NOAA Fisheries core science mission. PAM’s capacity for creating long term time series makes it an ideal approach for evaluating changes in species stocks, ecosystem interactions, and climate change.\nThere are seven NOAA Fisheries PAM programs including each regional Science Center and the Office of Science & Technology’s Ocean Acoustic Program. This repository serves to enhance National PAM collaboration within NOAA Fisheries and our partners through a common GitHub structure. Each of the regional science centers is in the process of establishing a region specific landing page that mimics the structure of this National page.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#regional-national-marine-fisheries-locations",
-    "href": "index.html#regional-national-marine-fisheries-locations",
-    "title": "Lab Manual - National Passive Acoustic Monitoring Network",
-    "section": "Regional National Marine Fisheries locations",
-    "text": "Regional National Marine Fisheries locations\nMap of Regional Fishery Science Center Labs. Regions are designated by color (see legend) with each region’s primary science center indicated by square symbols.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#regional-national-marine-fisheries-lab-manuals",
-    "href": "index.html#regional-national-marine-fisheries-lab-manuals",
-    "title": "Lab Manual - National Passive Acoustic Monitoring Network",
-    "section": "Regional National Marine Fisheries Lab Manuals",
-    "text": "Regional National Marine Fisheries Lab Manuals\n\nPIFSC: Pacific Islands Fisheries\nSWFSC: Southwest Fisheries\nNWFSC: Northwest Fisheries\nAFSC: Alaska Fisheries\nSEFSC: Southeast Fisheries\nNEFSC: Northeast Fisheries",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "content/Safety.html",
-    "href": "content/Safety.html",
-    "title": "Safety",
-    "section": "",
-    "text": "Include the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/code.html",
-    "href": "content/NMFS_OpenSciDirections/code.html",
-    "title": "Rendering with Code",
-    "section": "",
-    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nx &lt;- c(5, 15, 25, 35, 45, 55)\ny &lt;- c(5, 20, 14, 32, 22, 38)\nlm(x ~ y)\n\n\nCall:\nlm(formula = x ~ y)\n\nCoefficients:\n(Intercept)            y  \n      1.056        1.326"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
-    "href": "content/NMFS_OpenSciDirections/code.html#modify-the-github-action",
-    "title": "Rendering with Code",
-    "section": "Modify the GitHub Action",
-    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "href": "content/NMFS_OpenSciDirections/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "title": "Rendering with Code",
-    "section": "Render locally and publish to gh-pages branch",
-    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages"
+    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
   },
   {
     "objectID": "content/NMFS_OpenSciDirections/add-content.html",
@@ -475,27 +536,6 @@
     "text": "Resources\n\nQuarto documentation."
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/organize.html",
-    "href": "content/NMFS_OpenSciDirections/organize.html",
-    "title": "Organize with Yaml",
-    "section": "",
-    "text": "Quarto Books are combinations of multiple documents (chapters) into a single manuscript in one or more formats (HTML, PDF, Word Doc, etc). Our example below is based on the PAM_template_lab_manual:\nindex.qmd- the index.qmd file is in the root director for your project, and serves as the Home Page for a website. This file is mandatory.\n_quarto.yml- the _quarto.yml is the configuration file for your project, and is also located in the root directory. The _quarto.yml provides information regarding overall formatting and structure of pages within the larger document.\nREADME.md- Markdown file that serves as the readme for the github repository.\ncontent folder- This folder contains the individual pages for your document. Alternative names for this folder are sometimes used, but we have found that the term ‘content’ is less confusing that frequently used alternatives. Here we recommend using this for consistency.\n\n\nYAML is a human-readable data serialization language commonly used for configuration files. YAML works with multiple programming languages, and also allows users to add comments to their data (useful for documentation). YAML does require very specific indentation, mapping, etc. It is helpful to use a yaml checker to be sure your yaml does not have errors.\nQuarto books/websites contain a _quarto.yml file, which is the website’s configuration file. It is essentially metadata for the website that includes the order that the pages/chapters will be in. This is where you organize your site. Here is a side-by-side example:\n\nLearn more, here."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/organize.html#how-to-organize-your-quarto-book",
-    "href": "content/NMFS_OpenSciDirections/organize.html#how-to-organize-your-quarto-book",
-    "title": "Organize with Yaml",
-    "section": "",
-    "text": "Quarto Books are combinations of multiple documents (chapters) into a single manuscript in one or more formats (HTML, PDF, Word Doc, etc). Our example below is based on the PAM_template_lab_manual:\nindex.qmd- the index.qmd file is in the root director for your project, and serves as the Home Page for a website. This file is mandatory.\n_quarto.yml- the _quarto.yml is the configuration file for your project, and is also located in the root directory. The _quarto.yml provides information regarding overall formatting and structure of pages within the larger document.\nREADME.md- Markdown file that serves as the readme for the github repository.\ncontent folder- This folder contains the individual pages for your document. Alternative names for this folder are sometimes used, but we have found that the term ‘content’ is less confusing that frequently used alternatives. Here we recommend using this for consistency.\n\n\nYAML is a human-readable data serialization language commonly used for configuration files. YAML works with multiple programming languages, and also allows users to add comments to their data (useful for documentation). YAML does require very specific indentation, mapping, etc. It is helpful to use a yaml checker to be sure your yaml does not have errors.\nQuarto books/websites contain a _quarto.yml file, which is the website’s configuration file. It is essentially metadata for the website that includes the order that the pages/chapters will be in. This is where you organize your site. Here is a side-by-side example:\n\nLearn more, here."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/organize.html#resources",
-    "href": "content/NMFS_OpenSciDirections/organize.html#resources",
-    "title": "Organize with Yaml",
-    "section": "Resources",
-    "text": "Resources\n\nYaml Checker\nQuarto Yaml Options (HTML)\nQuarto Book Structure"
-  },
-  {
     "objectID": "content/NMFS_OpenSciDirections/Intro.html",
     "href": "content/NMFS_OpenSciDirections/Intro.html",
     "title": "NOAA quarto simple with R",
@@ -524,27 +564,6 @@
     "text": "The most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change."
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html",
-    "href": "content/NMFS_OpenSciDirections/Getting-Started.html",
-    "title": "Getting Started",
-    "section": "",
-    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
-    "href": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
-    "title": "Getting Started",
-    "section": "",
-    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
-  },
-  {
-    "objectID": "content/Inventory.html",
-    "href": "content/Inventory.html",
-    "title": "Inventory",
-    "section": "",
-    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example"
-  },
-  {
     "objectID": "content/Resources.html",
     "href": "content/Resources.html",
     "title": "Resources",
@@ -556,14 +575,94 @@
     ]
   },
   {
-    "objectID": "content/PublicationsPresentations.html",
-    "href": "content/PublicationsPresentations.html",
-    "title": "Publications and Presentations",
+    "objectID": "content/Reporting.html",
+    "href": "content/Reporting.html",
+    "title": "Reporting",
     "section": "",
-    "text": "This is an optional page but is a great opportunity to highlight some of your publications and presentations.\nSAEL example (add once this page is corrected)",
+    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
     "crumbs": [
-      "Optional Pages",
-      "Publications and Presentations"
+      "Reporting"
+    ]
+  },
+  {
+    "objectID": "content/Reporting.html#templates",
+    "href": "content/Reporting.html#templates",
+    "title": "Reporting",
+    "section": "",
+    "text": "his is a required page and should include any templates you have created for reporting within NOAA or to other agencies.\nExamples include NEFSC PAM data reporting templates and standard report formats for a few different agencies/species (right whales, Australian Marine Parks).",
+    "crumbs": [
+      "Reporting"
+    ]
+  },
+  {
+    "objectID": "content/Reporting.html#permits",
+    "href": "content/Reporting.html#permits",
+    "title": "Reporting",
+    "section": "Permits",
+    "text": "Permits\nYou should also include any permit reporting guidelines here\n\nPermits and Permit Reporting Guidelines\n\nInclude permit numbers and links to your centers/groups permits\nInclude directions for permit reporting (Protected species, National Marine Sanctuaries, Navy, Fish and Wildlife, etc)\nYou can include links to past permit reports (these can be private google drive folders if needed)\nSAEL example",
+    "crumbs": [
+      "Reporting"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/Openscapes.html",
+    "href": "content/SI coord/Openscapes.html",
+    "title": "Openscapes",
+    "section": "",
+    "text": "Shannon Rankin (SWFSC), Kourtney Burger (SWFSC), Bella Garfield (NEFSC), Becca Van Hoeck (NEFSC)"
+  },
+  {
+    "objectID": "content/SI coord/Openscapes.html#team-leads",
+    "href": "content/SI coord/Openscapes.html#team-leads",
+    "title": "Openscapes",
+    "section": "",
+    "text": "Shannon Rankin (SWFSC), Kourtney Burger (SWFSC), Bella Garfield (NEFSC), Becca Van Hoeck (NEFSC)"
+  },
+  {
+    "objectID": "content/SI coord/Openscapes.html#goals",
+    "href": "content/SI coord/Openscapes.html#goals",
+    "title": "Openscapes",
+    "section": "Goals",
+    "text": "Goals\nOpenscapes is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort.\nOur goals include developing the NMFS PAM sharing structure in real time (national and regional lab manuals), building foundational open science knowledge, and sharing the lessons learned with our broader science center PAM groups"
+  },
+  {
+    "objectID": "content/SI coord/Openscapes.html#notes",
+    "href": "content/SI coord/Openscapes.html#notes",
+    "title": "Openscapes",
+    "section": "Notes",
+    "text": "Notes\nAll meeting notes and Openscapes related documents will be accessible in the PAM SI Openscapes Google Drive Folder\nOpenscience discussions are hosted on SAEL’s Openscience Github repository. Access the discussion board here"
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-Soundscapes.html",
+    "href": "content/SI coord/PAM_priority_projects/PAM-Soundscapes.html",
+    "title": "Soundscape Analysis, Metrics, and Tools",
+    "section": "",
+    "text": "Samara Haver (PMEL), Megan McKenna (ONMS)\n\n\n\nFacilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generate decision support tools that integrate soundscape visualizations with multiple data types.\n\n\n\nIdentify, archive, and process soundscape metrics for priority SI PAM datasets to build capacity and consistency across programs.\n\n\n\nThis project will add soundscape metrics for priority PAM SI datasets alongside audio files and other metrics to the NCEI Passive Acoustics archive. The soundscape metrics will be used to develop and demonstrate soundscape interpretation and visualization tools being developed as part of the SI. The datasets will also facilitate comparison of data sampled by multiple recording technologies and projects that are unique to select FMCs. A technical guide for processing and archiving PAM data will also be prepared as part of this project. This project will work with PAM SI cloud computing projects to operationalize soundscape metric processing software in the cloud environment. Streamlining and documenting methods to process and archive soundscape metrics supports PAM SI objectives to advance PAM data analysis and integration approaches, and advance archival cloud capabilities.\n\n\n\n\n\nConvene working group: Establish data processing group, Google doc folder, regular check-in schedule.\nIdentify priority datasets: In coordination with Carrie Wall Bell and NCEI Archiving group decide on soundscape priority datasets for each FMC and flag in the overall PAM SI priority dataset table.\nPrepare analyses: For priority soundscape datasets: Prepare metadata, share QA/QC protocol/tools, prepare and submit audio data and soundscape metrics (if already processed locally) to NCEI for archiving.\nTest in pyPAM: Coordinate with PAM SI Cloud team to test pyPAM cloud processing from NCEI GCP on priority NRS audio data sets.\nEstablish software standards: Identify standard software options available for use and test Noise Reference Station (NRS) dataset results from multiple software outputs.\nCompare soundscape software options: Provide soundscape software options available (MANTA, pyPAM, updated Triton toolbox, etc.) with comparison documentation for example datasets (NRS or others if necessary).\nGenerate Hybrid Milli-Decade (HMD) output: FMCs will conduct HMD processing either locally or through the PAM SI Cloud computing and save to NCEI or internal PAM SI cloud environment.\nNCEI archive data products: All HMD outputs will be processed and sent to NCEI archive for level 2-3 data products.\nFacilitate more complex soundscape analyses: All priority soundscape datasets and HMD level 1 products will be cloud archived at NCEI for use in the Soundscape interpretation and visualization project.\nCreate supporting documents: Develop technical reports and tutorial videos for HMD metric processing, minimum QA/QC, and visualization routines developed in coordination with SoundCoop efforts, and PyPAM and PAMscapes software development efforts.\nSupport comparison across platforms: Comparison of soundscape metric results from simultaneously co-deployed platforms; develop tools to support this type of comparison (ie. PAMscapes). The data processing groups will establish methods for comparison, ongoing opportunistic evaluation will occur throughout the SI, and results will be added to the GitHub Soundscape Group and reported with example datasets. For SoundTrap comparisons, SoundTrap models will be specified at the time of comparison.\nSupport comparison across datasets with known differences: Develop a format or tool to support comparison of datasets with known differences, such as perfect timing (MARS), dropped time (SoundTrap), duty cycled (AKFSC, NWFSC), frequency-dependent calibration (NRS, HARP), file format (XWAV).",
+    "crumbs": [
+      "PAM SI",
+      "PAM-Soundscapes"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-Soundscapes.html#project-1-soundscape-metric-processing-and-archiving",
+    "href": "content/SI coord/PAM_priority_projects/PAM-Soundscapes.html#project-1-soundscape-metric-processing-and-archiving",
+    "title": "Soundscape Analysis, Metrics, and Tools",
+    "section": "",
+    "text": "Samara Haver (PMEL), Megan McKenna (ONMS)\n\n\n\nFacilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generate decision support tools that integrate soundscape visualizations with multiple data types.\n\n\n\nIdentify, archive, and process soundscape metrics for priority SI PAM datasets to build capacity and consistency across programs.\n\n\n\nThis project will add soundscape metrics for priority PAM SI datasets alongside audio files and other metrics to the NCEI Passive Acoustics archive. The soundscape metrics will be used to develop and demonstrate soundscape interpretation and visualization tools being developed as part of the SI. The datasets will also facilitate comparison of data sampled by multiple recording technologies and projects that are unique to select FMCs. A technical guide for processing and archiving PAM data will also be prepared as part of this project. This project will work with PAM SI cloud computing projects to operationalize soundscape metric processing software in the cloud environment. Streamlining and documenting methods to process and archive soundscape metrics supports PAM SI objectives to advance PAM data analysis and integration approaches, and advance archival cloud capabilities.\n\n\n\n\n\nConvene working group: Establish data processing group, Google doc folder, regular check-in schedule.\nIdentify priority datasets: In coordination with Carrie Wall Bell and NCEI Archiving group decide on soundscape priority datasets for each FMC and flag in the overall PAM SI priority dataset table.\nPrepare analyses: For priority soundscape datasets: Prepare metadata, share QA/QC protocol/tools, prepare and submit audio data and soundscape metrics (if already processed locally) to NCEI for archiving.\nTest in pyPAM: Coordinate with PAM SI Cloud team to test pyPAM cloud processing from NCEI GCP on priority NRS audio data sets.\nEstablish software standards: Identify standard software options available for use and test Noise Reference Station (NRS) dataset results from multiple software outputs.\nCompare soundscape software options: Provide soundscape software options available (MANTA, pyPAM, updated Triton toolbox, etc.) with comparison documentation for example datasets (NRS or others if necessary).\nGenerate Hybrid Milli-Decade (HMD) output: FMCs will conduct HMD processing either locally or through the PAM SI Cloud computing and save to NCEI or internal PAM SI cloud environment.\nNCEI archive data products: All HMD outputs will be processed and sent to NCEI archive for level 2-3 data products.\nFacilitate more complex soundscape analyses: All priority soundscape datasets and HMD level 1 products will be cloud archived at NCEI for use in the Soundscape interpretation and visualization project.\nCreate supporting documents: Develop technical reports and tutorial videos for HMD metric processing, minimum QA/QC, and visualization routines developed in coordination with SoundCoop efforts, and PyPAM and PAMscapes software development efforts.\nSupport comparison across platforms: Comparison of soundscape metric results from simultaneously co-deployed platforms; develop tools to support this type of comparison (ie. PAMscapes). The data processing groups will establish methods for comparison, ongoing opportunistic evaluation will occur throughout the SI, and results will be added to the GitHub Soundscape Group and reported with example datasets. For SoundTrap comparisons, SoundTrap models will be specified at the time of comparison.\nSupport comparison across datasets with known differences: Develop a format or tool to support comparison of datasets with known differences, such as perfect timing (MARS), dropped time (SoundTrap), duty cycled (AKFSC, NWFSC), frequency-dependent calibration (NRS, HARP), file format (XWAV).",
+    "crumbs": [
+      "PAM SI",
+      "PAM-Soundscapes"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-Soundscapes.html#project-2-soundscape-metric-interpretation-and-visualization",
+    "href": "content/SI coord/PAM_priority_projects/PAM-Soundscapes.html#project-2-soundscape-metric-interpretation-and-visualization",
+    "title": "Soundscape Analysis, Metrics, and Tools",
+    "section": "Project 2: Soundscape metric interpretation and visualization",
+    "text": "Project 2: Soundscape metric interpretation and visualization\n\nTeam leads\nSamara Haver (PMEL), Megan McKenna (ONMS), Becca Van Hoeck (NEFSC), Marla Holt (NWFSC)\n\n\nTarget outcome\nCreate a set of soundscape metric interpretation open-source processing pathways and visualizations for cross-FMCs comparisons and FMCs-specific soundscape priorities.\n\n\nSummary\nThis project will build on existing tools in PAMscapes (R/CRAN) to create and document processing pathways for soundscape metric interpretation. NOAA Noise Reference Station soundscape metrics will be used to build the pathways and evaluate outputs. Additional soundscape metrics from PAM SI priority data sets will be incorporated based on availability from priority project #1 for soundscapes. This priority supports PAM SI objective #2 by creating decision-support tools that are relevant at regional and national scales. It also supports #4 by integrating PAM data with variables to provide context for different soundscapes (environmental data, species-detections, etc).\n\n\nAction items\n\nEstablish working group: Establish working group and create folder in shared Google doc folder.\nIdentify datasets: Decide on priority Noise Reference Station (NRS) datasets for metric development.\nData products to NCEI: NRS Hybrid Milli-Decade (HMD) products to be included in initial comparison sent to NCEI.\nIdentify visualization options: Organize and expand on options for HMD data visualizations as originally prepared for PAMscapes, share with working group via Google doc folder for discussion of level 1 visualization goals. Ideas and inspiration will be organized for project team brainstorming and feedback meeting.\nDevelop workplan: Set-up work plan with Taiki Sakai to evaluate HMD QA/QC with visualizations in PAMscapes including level 1 visualizations such as percentiles, LTSA, and bringing together MANTA and pyPAM default outputs.\nPresent initial results: Updated PAMscapes tool for HMD QA/QC level 1 visualization will be shared with project team for feedback and further development.\nLevel 2 data product planning: In coordination with QA/QC tool development, and informed by ongoing collaboration with SoundCoop partners, the Soundscape group will develop level 2 visualization for HMD output by: integrating environmental data (currents, wind, ice, etc.) and time/frequency bins for quantitative visualization (e.g., SPD). The option to integrate these visualizations as additional PAMscapes functionality or publish as separate code on GitHub will be evaluated.\nLevel 3 data product planning: Plan the development level 3 products from HMD that prioritize and reflect the needs of SI and FMCs including: integration with PACM; noise budgets; sound propagation; automated soundscape analysis; co-variate for species models; categorization from HMD data; repository of labeled HMD data; integration of AIS data.\nCloud processing: Following Cloud Computing project Phase 7 (Software phase II validation), conduct cloud processing for HMD and PAMscapes to apply relevant methods on FMCs priority datasets.\nFacilitate national comparisons: Develop additional products or visualizations for nationwide comparison of FMC priority soundscapes.\nPresent project outcomes: Present tested and functional cloud processing routines for level 1-3 products for all priority data sets for PAM SI reporting and additional science needs.",
+    "crumbs": [
+      "PAM SI",
+      "PAM-Soundscapes"
     ]
   },
   {
@@ -611,65 +710,22 @@
     ]
   },
   {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-Soundscapes.html",
-    "href": "content/SI coord/PAM_priority_projects/PAM-Soundscapes.html",
-    "title": "Soundscape Analysis, Metrics, and Tools",
+    "objectID": "content/SI coord/PAM_priority_projects/Openscience Infosharing.html",
+    "href": "content/SI coord/PAM_priority_projects/Openscience Infosharing.html",
+    "title": "National PAM Coordination and Sharing",
     "section": "",
-    "text": "Samara Haver (PMEL), Megan McKenna (ONMS)\n\n\n\nFacilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generate decision support tools that integrate soundscape visualizations with multiple data types.\n\n\n\nIdentify, archive, and process soundscape metrics for priority SI PAM datasets to build capacity and consistency across programs.\n\n\n\nThis project will add soundscape metrics for priority PAM SI datasets alongside audio files and other metrics to the NCEI Passive Acoustics archive. The soundscape metrics will be used to develop and demonstrate soundscape interpretation and visualization tools being developed as part of the SI. The datasets will also facilitate comparison of data sampled by multiple recording technologies and projects that are unique to select FMCs. A technical guide for processing and archiving PAM data will also be prepared as part of this project. This project will work with PAM SI cloud computing projects to operationalize soundscape metric processing software in the cloud environment. Streamlining and documenting methods to process and archive soundscape metrics supports PAM SI objectives to advance PAM data analysis and integration approaches, and advance archival cloud capabilities.\n\n\n\n\n\nConvene working group: Establish data processing group, Google doc folder, regular check-in schedule.\nIdentify priority datasets: In coordination with Carrie Wall Bell and NCEI Archiving group decide on soundscape priority datasets for each FMC and flag in the overall PAM SI priority dataset table.\nPrepare analyses: For priority soundscape datasets: Prepare metadata, share QA/QC protocol/tools, prepare and submit audio data and soundscape metrics (if already processed locally) to NCEI for archiving.\nTest in pyPAM: Coordinate with PAM SI Cloud team to test pyPAM cloud processing from NCEI GCP on priority NRS audio data sets.\nEstablish software standards: Identify standard software options available for use and test Noise Reference Station (NRS) dataset results from multiple software outputs.\nCompare soundscape software options: Provide soundscape software options available (MANTA, pyPAM, updated Triton toolbox, etc.) with comparison documentation for example datasets (NRS or others if necessary).\nGenerate Hybrid Milli-Decade (HMD) output: FMCs will conduct HMD processing either locally or through the PAM SI Cloud computing and save to NCEI or internal PAM SI cloud environment.\nNCEI archive data products: All HMD outputs will be processed and sent to NCEI archive for level 2-3 data products.\nFacilitate more complex soundscape analyses: All priority soundscape datasets and HMD level 1 products will be cloud archived at NCEI for use in the Soundscape interpretation and visualization project.\nCreate supporting documents: Develop technical reports and tutorial videos for HMD metric processing, minimum QA/QC, and visualization routines developed in coordination with SoundCoop efforts, and PyPAM and PAMscapes software development efforts.\nSupport comparison across platforms: Comparison of soundscape metric results from simultaneously co-deployed platforms; develop tools to support this type of comparison (ie. PAMscapes). The data processing groups will establish methods for comparison, ongoing opportunistic evaluation will occur throughout the SI, and results will be added to the GitHub Soundscape Group and reported with example datasets. For SoundTrap comparisons, SoundTrap models will be specified at the time of comparison.\nSupport comparison across datasets with known differences: Develop a format or tool to support comparison of datasets with known differences, such as perfect timing (MARS), dropped time (SoundTrap), duty cycled (AKFSC, NWFSC), frequency-dependent calibration (NRS, HARP), file format (XWAV).",
-    "crumbs": [
-      "PAM SI",
-      "PAM-Soundscapes"
-    ]
+    "text": "Goal: Enhance National PAM collaboration among the regions by facilitating an open science culture and creating the infrastructure for information sharing on GitHub.\nTeam Leads: Becca Van Hoeck (NEFSC), Shannon Rankin (SWFSC)\nOpenscapes show and tell discussion board"
   },
   {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-Soundscapes.html#project-1-soundscape-metric-processing-and-archiving",
-    "href": "content/SI coord/PAM_priority_projects/PAM-Soundscapes.html#project-1-soundscape-metric-processing-and-archiving",
-    "title": "Soundscape Analysis, Metrics, and Tools",
+    "objectID": "content/SI coord/PAM_priority_projects/Stock_projects/Project_2.html",
+    "href": "content/SI coord/PAM_priority_projects/Stock_projects/Project_2.html",
+    "title": "Project 2 - Incorporating stationary data into a species distribution modeling framework",
     "section": "",
-    "text": "Samara Haver (PMEL), Megan McKenna (ONMS)\n\n\n\nFacilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generate decision support tools that integrate soundscape visualizations with multiple data types.\n\n\n\nIdentify, archive, and process soundscape metrics for priority SI PAM datasets to build capacity and consistency across programs.\n\n\n\nThis project will add soundscape metrics for priority PAM SI datasets alongside audio files and other metrics to the NCEI Passive Acoustics archive. The soundscape metrics will be used to develop and demonstrate soundscape interpretation and visualization tools being developed as part of the SI. The datasets will also facilitate comparison of data sampled by multiple recording technologies and projects that are unique to select FMCs. A technical guide for processing and archiving PAM data will also be prepared as part of this project. This project will work with PAM SI cloud computing projects to operationalize soundscape metric processing software in the cloud environment. Streamlining and documenting methods to process and archive soundscape metrics supports PAM SI objectives to advance PAM data analysis and integration approaches, and advance archival cloud capabilities.\n\n\n\n\n\nConvene working group: Establish data processing group, Google doc folder, regular check-in schedule.\nIdentify priority datasets: In coordination with Carrie Wall Bell and NCEI Archiving group decide on soundscape priority datasets for each FMC and flag in the overall PAM SI priority dataset table.\nPrepare analyses: For priority soundscape datasets: Prepare metadata, share QA/QC protocol/tools, prepare and submit audio data and soundscape metrics (if already processed locally) to NCEI for archiving.\nTest in pyPAM: Coordinate with PAM SI Cloud team to test pyPAM cloud processing from NCEI GCP on priority NRS audio data sets.\nEstablish software standards: Identify standard software options available for use and test Noise Reference Station (NRS) dataset results from multiple software outputs.\nCompare soundscape software options: Provide soundscape software options available (MANTA, pyPAM, updated Triton toolbox, etc.) with comparison documentation for example datasets (NRS or others if necessary).\nGenerate Hybrid Milli-Decade (HMD) output: FMCs will conduct HMD processing either locally or through the PAM SI Cloud computing and save to NCEI or internal PAM SI cloud environment.\nNCEI archive data products: All HMD outputs will be processed and sent to NCEI archive for level 2-3 data products.\nFacilitate more complex soundscape analyses: All priority soundscape datasets and HMD level 1 products will be cloud archived at NCEI for use in the Soundscape interpretation and visualization project.\nCreate supporting documents: Develop technical reports and tutorial videos for HMD metric processing, minimum QA/QC, and visualization routines developed in coordination with SoundCoop efforts, and PyPAM and PAMscapes software development efforts.\nSupport comparison across platforms: Comparison of soundscape metric results from simultaneously co-deployed platforms; develop tools to support this type of comparison (ie. PAMscapes). The data processing groups will establish methods for comparison, ongoing opportunistic evaluation will occur throughout the SI, and results will be added to the GitHub Soundscape Group and reported with example datasets. For SoundTrap comparisons, SoundTrap models will be specified at the time of comparison.\nSupport comparison across datasets with known differences: Develop a format or tool to support comparison of datasets with known differences, such as perfect timing (MARS), dropped time (SoundTrap), duty cycled (AKFSC, NWFSC), frequency-dependent calibration (NRS, HARP), file format (XWAV).",
+    "text": "Team leads\nLance Garrison (SEFSC), Melissa Soldevilla (SEFSC), Ann Allen (PIFSC), Genevieve Davis (NEFSC), Manolo Castellote (AFSC), Marla Holt (NWFSC), Jason Gedamke (OST)\n\n\nTarget outcome:\nIntegrating long-term PAM data into species density models to provide seasonal and long-term changes in distribution and density.\n\n\nSummary\nThis project would support the PAM SI objective of advancing data integration by leveraging stationary PAM data and visual data to improve the accuracy of stock assessments by capturing seasonal and long-term changes. This project would focus on developing a statistical framework for integrating a density model created with stationary PAM data with existing visual-based SDMs to achieve more accurate models with seasonal context. This project may leverage LISTEN GoMex funding to develop models for sperm whales and beaked whales.\n\n\nAction items\n\nEstablish collaboration: Meet with Lance Garrison to identify his interest and willingness to convene a working group to support his ongoing effort and work towards broader applicability of the outcomes.\nIdentify resources required: Evaluate whether LISTEN GoMex requires more resources to make these methods broadly applicable.\nConfer with PAM SI Working Group: Working Group determines whether there is substantial interest and priority for continued pursuit of this project. If no-go, determine whether the project may be re-evaluated later based on funds available. Deadline: May 2024. Note: As of May 2024, this project was not selected for funding by the PAM SI Working Group. However, given the synergies between integrating stationary PAM data and mobile PAM data, the SI will leverage any PAM data integration workshops held to assess the state of the science for integrating both data types into species distribution modeling framework. This will advance our analytical readiness to pursue this project at a later time.\nEstablish project team: Establish working group, potentially including colleagues from Duke University, Fisheries and Oceans Canada, etc., to meet periodically with the LISTEN GoMex team to ensure broad regional relevance.\nExpand capacity: If funded, advertise post-doc position to support this effort. Alterntively, the PAM SI could convene a workshop or series of workshops that assess the state of the science for incorporating PAM data into species distribution model frameworks in conjunction with Project 1.",
     "crumbs": [
       "PAM SI",
-      "PAM-Soundscapes"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-Soundscapes.html#project-2-soundscape-metric-interpretation-and-visualization",
-    "href": "content/SI coord/PAM_priority_projects/PAM-Soundscapes.html#project-2-soundscape-metric-interpretation-and-visualization",
-    "title": "Soundscape Analysis, Metrics, and Tools",
-    "section": "Project 2: Soundscape metric interpretation and visualization",
-    "text": "Project 2: Soundscape metric interpretation and visualization\n\nTeam leads\nSamara Haver (PMEL), Megan McKenna (ONMS), Becca Van Hoeck (NEFSC), Marla Holt (NWFSC)\n\n\nTarget outcome\nCreate a set of soundscape metric interpretation open-source processing pathways and visualizations for cross-FMCs comparisons and FMCs-specific soundscape priorities.\n\n\nSummary\nThis project will build on existing tools in PAMscapes (R/CRAN) to create and document processing pathways for soundscape metric interpretation. NOAA Noise Reference Station soundscape metrics will be used to build the pathways and evaluate outputs. Additional soundscape metrics from PAM SI priority data sets will be incorporated based on availability from priority project #1 for soundscapes. This priority supports PAM SI objective #2 by creating decision-support tools that are relevant at regional and national scales. It also supports #4 by integrating PAM data with variables to provide context for different soundscapes (environmental data, species-detections, etc).\n\n\nAction items\n\nEstablish working group: Establish working group and create folder in shared Google doc folder.\nIdentify datasets: Decide on priority Noise Reference Station (NRS) datasets for metric development.\nData products to NCEI: NRS Hybrid Milli-Decade (HMD) products to be included in initial comparison sent to NCEI.\nIdentify visualization options: Organize and expand on options for HMD data visualizations as originally prepared for PAMscapes, share with working group via Google doc folder for discussion of level 1 visualization goals. Ideas and inspiration will be organized for project team brainstorming and feedback meeting.\nDevelop workplan: Set-up work plan with Taiki Sakai to evaluate HMD QA/QC with visualizations in PAMscapes including level 1 visualizations such as percentiles, LTSA, and bringing together MANTA and pyPAM default outputs.\nPresent initial results: Updated PAMscapes tool for HMD QA/QC level 1 visualization will be shared with project team for feedback and further development.\nLevel 2 data product planning: In coordination with QA/QC tool development, and informed by ongoing collaboration with SoundCoop partners, the Soundscape group will develop level 2 visualization for HMD output by: integrating environmental data (currents, wind, ice, etc.) and time/frequency bins for quantitative visualization (e.g., SPD). The option to integrate these visualizations as additional PAMscapes functionality or publish as separate code on GitHub will be evaluated.\nLevel 3 data product planning: Plan the development level 3 products from HMD that prioritize and reflect the needs of SI and FMCs including: integration with PACM; noise budgets; sound propagation; automated soundscape analysis; co-variate for species models; categorization from HMD data; repository of labeled HMD data; integration of AIS data.\nCloud processing: Following Cloud Computing project Phase 7 (Software phase II validation), conduct cloud processing for HMD and PAMscapes to apply relevant methods on FMCs priority datasets.\nFacilitate national comparisons: Develop additional products or visualizations for nationwide comparison of FMC priority soundscapes.\nPresent project outcomes: Present tested and functional cloud processing routines for level 1-3 products for all priority data sets for PAM SI reporting and additional science needs.",
-    "crumbs": [
-      "PAM SI",
-      "PAM-Soundscapes"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-Trends.html",
-    "href": "content/SI coord/PAM_priority_projects/PAM-Trends.html",
-    "title": "Long-Term Trends and Environmental Variables",
-    "section": "",
-    "text": "Team Leads\nGenevieve Davis (NEFSC), Julia Zeh (NEFSC)\n\n\nGoal\nIntegration of PAM and environmental data to support climate change investigations by developing new tools that can be applied to all regions and species of interest.\n\n\nTarget outcome\nTo advance data integration in support of creating tools for climate change applications with PAM data and to develop new tools for integration of PAM and environmental data to support climate change investigations.\n\n\nSummary\nWe will create a streamlined workflow to integrate PAM data with necessary ancillary datasets to address questions relevant to climate change and long-term species trends. This workflow will include: identifying PAM data to be included; identifying the climatological data to be included; creating tools for accessing, formatting, and integrating a subset of these data streams; and using these tools and approaches broadly across all regions and species of interest.\nThe first goal of this project is to compare humpback whale occurrence trends nationwide. All regions will submit and format their humpback detection data into the Passive Acoustic Cetacean Map database.\nThe second goal will be to identify and create tools to access and apply relevant climate data on the humpback whale dataset.\nThis workflow will allow for a national comparison of one species to be able to identify and compare changes (or lack thereof) within and across regions. Once this structure has been established, these standardized data formats, tools, and environmental data streams can be applied across the range of project goals and regional needs, including regional-specific high-profile species. This project directly supports the PAM SI objective to advance PAM data analysis and integration approaches with an emphasis on addressing long-term trends.\n\n\nAction items\n\nData Identification: Identify existing humpback detection data sets to be included.\nEnvironmental data identification: Identify environmental data (i.e. parameters, spatio-temporal range, source) to integrate with daily PACM output.\nFormat data to PACM: Get humpback detection data formatted and submitted into PACM, on an hourly or daily scale. This phase includes meetings, as-needed tutorials, consultation with Jeff Walker, as well as identifying and developing the tools needed. Deadline:\nAccess and aggregate detection data from PACM: Pull humpback detection data from PACM in standardized format aggregated at daily scale. This phase includes meetings, tutorials, identifying and developing tools as needed.\nDevelop and refine workflow: Develop and refine processing workflow that extracts identified environmental data from various sources and integrates with daily PACM outputs. Includes creating open-source / github hosted repo that is tested and implemented across FMCs (Taiki).\nIdentify additional data: Identify which additional data (regional-specific or other species-specific data) we’d want tools for to help predict movements and move towards addressing climate-related questions.\nOutput products: Identify and draft collaborative questions, papers, products to compare across FMC’s and regions.\nAspirational next steps: Explore methods for incorporating additional PAM data into workflow from other platforms (mobile or drifting data) or from AI tools for species detection, as available.\n\n\n\nAccomplishments\nSpreadsheet of available humpback data",
-    "crumbs": [
-      "PAM SI",
-      "PAM-Trends"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM GCP Technical System Documentation.html",
-    "href": "content/SI coord/PAM_priority_projects/PAM GCP Technical System Documentation.html",
-    "title": "NOAA quarto simple",
-    "section": "",
-    "text": "PAM GCP Technical System Documentation\nOverview: Summary of key decisions, technical system set-up, and use expectations for using software applications in the PAM GCP. This document is an initial way to collaborate on developing the documentation and will be transitioned to the National PAM Network GitHub once folks have access.\nThe acoustics SI and project design philosophy:\nThe ggn-nmfs-pamdata-prod-1 (“pamdata”) GCP project is designed to encompass the requirements of the PAM SI, while best prioritizing the wants and needs of the end-users and use cases, and staying near best admin practices for NMFS OCIO GCP. The relevant objectives of the PAM acoustics SI include acoustic data storage across NMFS, and passive acoustic monitoring applications that generally feed from this data. The primary end-users of the system include data owners and users, and application owners, developers, and users.\nPermissions structure:\nA principle and role based structure was designed for project capabilities. By defining specific principle groups (project supervisor, application developer, etc) the project is resilient to changes in individual users. Roles are given to these principle groups- for example, the project supervisors principle group is given viewing roles for most of the resources in the project for their visibility.\nFor quick configuration and transparency during the dynamic early stages of the project, principle and role definitions are managed by a central “project admin” principle group via terraform. NMFS OCIO best practice recommends Terraform for more transparent project resource configuration and management, and this allows for simplicity and transparency.\nAlternatives: In the future, we may wish to delegate assignment of users to principle groups in a way that better resembles the true acoustics SI responsible parties (ie, supervisors can assign the project admin(s), data authorities can designate their respective data admin(s), etc). In the short term, this may result in too much unpredictability to the dynamic project.\nBelow are some of the currently defined principles for the project:\n\n\n\n\n\n\n\nPrinciple group name\nDefinition and roles\n\n\n\n\nProject admin\nHighest GCP admin role, controls project terraform (all principle, role, resource definitions)\n\n\nProject supervisors\nHighest SI role, has visibility across project resources, tells project admin what to do\n\n\nData authority\nResponsible party for a particular FMC data storage bucket\n\n\nData admin\nAdministrates the contents (write/delete) of a particular storage bucket\n\n\nApplication developer\nAccess to software development resources\n\n\n\nResources:\nThe pamdata project is expected to house PAM data from across NMFS, application development resources, and various applications (&lt;30) in various states of development. Sprawl is a serious threat, in particular since many end-users of the system (owners/authorities, supervisors, users) tend to understand the system through use of a web browser as opposed to filterable api calls. In other words, resource sprawl will lead to reduced understandability of the project across the PAM SI end users and is thus carefully considered.\nData resources:\nEach FMC has a distinct storage bucket for their data. This allows for some flexibility in data naming and easier isolation of permissions between FMCs. Principle groups that are designated here are data authorities (the data owner or responsible party, usually the PI of an FMC acoustics group), and the data admins (the technical users responsible for maintaining the contents of the storage bucket).\nThe browser allows for easy viewing of the storage buckets such that non-technical users can easily interpret the current state of the data across the NMFS FMCs. However, the tool cannot distinguish the FMC buckets from application buckets, and in order to maintain easy interpretability applications will be encouraged to consolidate to fewer buckets as appropriate. Currently, three additional buckets outside of the FMC data buckets exist: the terraform state bucket, an application intermediate bucket, and an application output bucket.\nDevelopment resources:\nThe following resources have been stood up for application development:\nHardened docker image/server: Based on NMFS hardened linux container and preloaded with docker. I developed an imagining pipeline for this, meaning it will be easy to keep up to date and we can make as many copies of this as developers need them. Developing on this instead of locally will be a little closer to cloud and streamlines and simplifies some assumptions. Please make sure any developers working on containers understand this option exists and the advantages in doing development here (hardware flexibility, more similar to production, built in permissions w/o key management, etc).\nDocker registry: This is where container images will be placed (whether we build or import them), and it is a key backbone of a variety of GCP container orchestration services.\nApplication storage buckets: There are two new storage buckets, pamdata-app-intermediates and pamdata-app-outputs. Some of the time applications will need their own specific tiering and lifecycle, but I wanted to start with just these two, especially for early development, given that they are visible along with the FMC data buckets and we tend to like to use the console as a browsing tool to keep track of these. Keeping it to two, and dividing permissions by prefix, will keep the bucket display from getting too muddied.\nNetworking: Created networks and subnets - one for application and development machines, which require ssh and NAT internet connectivity, and one for batch processing, which relies on only private google connectivity by default, but other connectivity can be added as a particular app might need."
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-OpenScience.html",
-    "href": "content/SI coord/PAM_priority_projects/PAM-OpenScience.html",
-    "title": "Open Science",
-    "section": "",
-    "text": "Team leads\nShannon Rankin (SWFSC), Kourtney Burger (SWFSC), Bella Garfield (NEFSC), Becca Van Hoeck (NEFSC)\n\n\nGoals\nThe overarching goal of the Open Science team is to facilitate adoption of Open Science Methods into our day to day research activities.\n\n\nAction Items\n\nOpenscapes PAM Team Cohort: Openscapes is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort. This cohort will serve as the backbone of our Open Science effort, and methods developed during the Openscapes project will be detailed in our stand-along Open Science repository.\nLab Manual: Development of a National Lab Manual and a Lab Manual for each Science Center. This will be initiated during the Openscapes program, and will serve as a landing page for all information related to the activities of each lab. This will lead to increased transparency and will facilitate information sharing between NOAA Science Centers, outside partners, and the public.\nPAM-SI Team Organization : Cross-center collaborations will be organized by teams, with landing pages for each PAM-SI team. This will allow for increased coordination, transparency and information sharing within and outside of these teams.\nResearch Compendiums: A research compendium is a comprehensive collection of all the digital components related to a research project, including data, code, and text (protocols, reports, metadata, etc). We will develop a set of best practices and a compendium template to encourage standardization of NMFS PAM Research Compendiums.\n\n\n\nNotes\nAll meeting notes and Openscapes related documents will be accessible in the PAM SI Openscapes Google Drive Folder\nOpenscience discussions are hosted on SAEL’s Openscience Github repository. Access the discussion board here",
-    "crumbs": [
-      "PAM SI",
-      "PAM-OpenScience"
+      "PAM Stock Projects",
+      "Stationary tools"
     ]
   },
   {
@@ -685,66 +741,10 @@
     ]
   },
   {
-    "objectID": "content/SI coord/SI_Coordination.html#overview",
-    "href": "content/SI coord/SI_Coordination.html#overview",
-    "title": "IRA PAM Strategic Initiative Coordination",
-    "section": "Overview",
-    "text": "Overview\nThis page serves as a landing page to coordinate progress towards the Passive Acoustic Monitoring Strategic Initiative (PAM SI). Included below are important links to identify open action items, review priority project descriptions and working group meeting notes, as well as track progress and issues through GitHub projects.\nThe PAM SI Team has identified eight priority projects that combined work towards two overarching goals: (1) National Data & Analysis Integration and (2) Infrastructure Development & Efficiency. Progress towards these goals will implement transformational activities that will significantly change the way in which we collect, analyze, and make PAM data accessible for answering mission critical questions.",
-    "crumbs": [
-      "PAM SI"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/SI_Coordination.html#pam-si-workflow",
-    "href": "content/SI coord/SI_Coordination.html#pam-si-workflow",
-    "title": "IRA PAM Strategic Initiative Coordination",
-    "section": "PAM SI Workflow",
-    "text": "PAM SI Workflow",
-    "crumbs": [
-      "PAM SI"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/SI_Coordination.html#important-links",
-    "href": "content/SI coord/SI_Coordination.html#important-links",
-    "title": "IRA PAM Strategic Initiative Coordination",
-    "section": "Important Links",
-    "text": "Important Links\n\nPAM SI Active Action Items tracker\nMarch 2024 Workshop Report\nPAM SI Progress Dashboard\nGitHub Projects (* More details to come - this link will only work once you become a member of the NMFS OST GitHub Organization)\nPAM SI Projects Google Folder\nNotes from Bi-weekly SI Team Meetings",
-    "crumbs": [
-      "PAM SI"
-    ]
-  },
-  {
-    "objectID": "content/AnalysisMethods.html",
-    "href": "content/AnalysisMethods.html",
-    "title": "Analysis Methods",
+    "objectID": "content/SI coord/PAM_priority_projects/National Decision Support Tool.html",
+    "href": "content/SI coord/PAM_priority_projects/National Decision Support Tool.html",
+    "title": "NMFS PAM Google Cloud Project",
     "section": "",
-    "text": "An analysis methods section is required and should include the following information;\n\nData Prep and Archive\n\nData prep (decompressing, creating LTSAs, decimating, etc.)\n\nSAEL example\n\nData quality checks (QAQC scripts)\n\nSAEL example\n\nData upload steps\n\nIf you have a internal storage include directions here on where data should be stored and in what format\nYou can also include a data managment structure with standardized naming and storage/folder structures\nSAEL example\n\n\nAnalysis methods for each species, group, or sound source\n\nYou can break this down by baleen and toothed whales, soundscapes, etc.\nEach section should include detailed and reproducible methods that anybody can recreate\n\n\nYou can also link to a separate hardware repository if needed (SAEL example)\nGlider Lab Manual example",
-    "crumbs": [
-      "Software & Analysis Methods",
-      "Analysis Methods"
-    ]
-  },
-  {
-    "objectID": "content/OpenScience.html",
-    "href": "content/OpenScience.html",
-    "title": "Open Science",
-    "section": "",
-    "text": "NOAA Fisheries PAM Teams are adopting and Open Science approach to research. We have created a stand-alone repository for Open Science Methods, and we encourage our colleagues to join us on this journey.",
-    "crumbs": [
-      "Optional Pages",
-      "Open Science"
-    ]
-  },
-  {
-    "objectID": "content/Software.html",
-    "href": "content/Software.html",
-    "title": "Software",
-    "section": "",
-    "text": "A software section is required and should include the following information;\n\nList of software you use and their applications (R, Matlab/Triton, Python, PAMGuard, Raven, etc.)\nSoftware packages or tools your team has built (PAMPal, PAMmisc, Banter, PAMscapes, Driftwatch, etc.)\n\nSAEL example",
-    "crumbs": [
-      "Software & Analysis Methods",
-      "Software"
-    ]
+    "text": "Team Leads (all NEFSC)\nSofie Van Parijs, Genevieve Davis, Jeff Walker\n\n\nGoal\nDevelop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends\n\n\nAccomplishments\n\n1. Migrated existing PACM web application from NEFSC on-prem server to Google Cloud Platform with help from NMFS ACIO\n Passive Acoustic Cetacean Map\n\n\n\n\n\n\n2. Finalized PostgreSQL database schema for storing passive acoustic detection data and associated metadata from multiple organizations\n\n\n\n\n\n\n\n3. Cleaned, transformed, merged all available legacy data from multiple sources into new schema using {targets} R package"
   }
 ]
