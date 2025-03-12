@@ -13,6 +13,9 @@ Demonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS
 ### Target outcome
 Developing a National PAM Cloud operational repository for data processing and storage
 
+### Detailed Cloud Documentation and Updates
+For a full description of out National PAM Cloud Developments visit the [PAM Cloud Github repository](https://nmfs-ost.github.io/PAM-Cloud/)
+
 ![](/content/images/Priority_project_graphics/Cloud/flowchart.PNG)
 
 ### Report bug/issue in PAM windows workstation
@@ -20,4 +23,4 @@ Developing a National PAM Cloud operational repository for data processing and s
 * [Bug Tracking](https://app.smartsheetgov.com/b/home?dlp=%2Fsheets%2FcQ7v4XMHJVWMPf938jpgCF46695VP7Fc8J2p6HH1&dlq=view%3Dcard%26cardLevel%3D0%26cardViewByColumnId%3D5253881597847428)
 
 
-[PAM Cloud Github repository](https://nmfs-ost.github.io/PAM-Cloud/)
+
