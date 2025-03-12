@@ -90,7 +90,7 @@
     "href": "content/SI coord/PAM_priority_projects/PAM-Cloud.html",
     "title": "NMFS PAM Operational Cloud Storage and Processing",
     "section": "",
-    "text": "Team Leads\nSofie Van Parijs (NEFSC), Dan Woodrich (AFSC)\n\n\nGoal\nDemonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS PAM operations and support the protected species mission\n\n\n\nTarget outcome\nDeveloping a National PAM Cloud operational repository for data processing and storage\n\n\n\nReport bug/issue in PAM windows workstation\n\nReport a bug\nBug Tracking\n\nPAM Cloud Github repository",
+    "text": "Team Leads\nSofie Van Parijs (NEFSC), Dan Woodrich (AFSC)\n\n\nGoal\nDemonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS PAM operations and support the protected species mission\n\n\n\nTarget outcome\nDeveloping a National PAM Cloud operational repository for data processing and storage\n\n\nDetailed Cloud Documentation and Updates\nFor a full description of out National PAM Cloud Developments visit the PAM Cloud Github repository\n\n\n\nReport bug/issue in PAM windows workstation\n\nReport a bug\nBug Tracking",
     "crumbs": [
       "PAM SI",
       "PAM-Cloud"
