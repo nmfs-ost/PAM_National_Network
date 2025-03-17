@@ -11,7 +11,7 @@ Erin Oleson (PIFSC), Yvonne Barkley (PIFSC)
 Advancing the accuracy of stock assessments to capture seasonal and long-term changes in distribution using PAM glider datasets.
 
 ### Summary
-This project would develop the analytical framework necessary to integrate PAM data from profiling gliders into quantitative assessments of population distribution and density. The PAM and UxS SIs are heavily investing in the testing and development of PAM-equipped gliders and this effort would ensure that those developments are more quickly leveraged to improve cetacean assessments. This project would focus on developing a statistical framework for integrating a density model created with PAM glider data with existing visual-based species distribution models (SDM) to achieve more accurate ensemble models with seasonal context. This project may leverage an OPR Climate IRA proposal by Badger & Whitney, if funded.
+This project would develop the analytical framework necessary to integrate PAM data from slow-moving passive acoustic recorders, including underwater gliders and drifting acoustic recorders into quantitative assessments of population distribution and density. The PAM and UxS SIs are heavily investing in the testing and development of PAM-equipped gliders and this effort would ensure that those developments are more quickly leveraged to improve cetacean assessments. This project would focus on developing a statistical framework that integrates PAM data from underwater gliders and drifters with existing visual-based species distribution models (SDM) to achieve more accurate ensemble models with seasonal context.
 
 ### Action Items
 1. **Evaluate resources required:** Evaluate required funding depending on other proposals and staffing. 
