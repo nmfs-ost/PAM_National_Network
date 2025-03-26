@@ -90,7 +90,7 @@
     "href": "content/SI coord/PAM_priority_projects/PAM-Cloud.html",
     "title": "NMFS PAM Operational Cloud Storage and Processing",
     "section": "",
-    "text": "Team Leads\nSofie Van Parijs (NEFSC), Dan Woodrich (AFSC)\n\n\nGoal\nDemonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS PAM operations and support the protected species mission\n\n\n\nTarget outcome\nDeveloping a National PAM Cloud operational repository for data processing and storage\n\n\nDetailed Cloud Documentation and Updates\nFor a full description of out National PAM Cloud Developments visit the PAM Cloud Github repository\n\n\n\nTechnical Processing Advice\n\n\nReport bug/issue in PAM windows workstation\n\nReport a bug\nBug Tracking",
+    "text": "Team Leads\nSofie Van Parijs (NEFSC), Dan Woodrich (AFSC), Becca VanHoeck (NEFSC)\n\n\nGoal\nDemonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS PAM operations and support the protected species mission\n\n\n\nTarget outcome\nDeveloping a National PAM Cloud operational repository for data processing and storage\n\n\nDetailed Cloud Documentation and Updates\nFor a full description of out National PAM Cloud Developments visit the PAM Cloud Github repository\n\n\n\nTechnical Processing Advice\n\n\nReport bug/issue in PAM windows workstation\n\nReport a bug\nBug Tracking",
     "crumbs": [
       "PAM SI",
       "PAM-Cloud"
@@ -106,7 +106,7 @@
   {
     "objectID": "content/SI coord/SI_Coordination.html#overview",
     "href": "content/SI coord/SI_Coordination.html#overview",
-    "title": "IRA PAM Strategic Initiative Coordination",
+    "title": "PAM Strategic Initiative Coordination",
     "section": "Overview",
     "text": "Overview\nThis page serves as a landing page to coordinate progress towards the Passive Acoustic Monitoring Strategic Initiative (PAM SI). Included below are important links to identify open action items, review priority project descriptions and working group meeting notes, as well as track progress and issues through GitHub projects.\nThe PAM SI Team has identified eight priority projects that combined work towards two overarching goals: (1) National Data & Analysis Integration and (2) Infrastructure Development & Efficiency. Progress towards these goals will implement transformational activities that will significantly change the way in which we collect, analyze, and make PAM data accessible for answering mission critical questions.",
     "crumbs": [
@@ -116,7 +116,7 @@
   {
     "objectID": "content/SI coord/SI_Coordination.html#pam-si-workflow",
     "href": "content/SI coord/SI_Coordination.html#pam-si-workflow",
-    "title": "IRA PAM Strategic Initiative Coordination",
+    "title": "PAM Strategic Initiative Coordination",
     "section": "PAM SI Workflow",
     "text": "PAM SI Workflow",
     "crumbs": [
@@ -126,7 +126,7 @@
   {
     "objectID": "content/SI coord/SI_Coordination.html#important-links",
     "href": "content/SI coord/SI_Coordination.html#important-links",
-    "title": "IRA PAM Strategic Initiative Coordination",
+    "title": "PAM Strategic Initiative Coordination",
     "section": "Important Links",
     "text": "Important Links\n\nPAM SI Active Action Items tracker\nMarch 2024 Workshop Report\nPAM SI Progress Dashboard\nGitHub Projects (* More details to come - this link will only work once you become a member of the NMFS OST GitHub Organization)\nPAM SI Projects Google Folder\nNotes from Bi-weekly SI Team Meetings",
     "crumbs": [
