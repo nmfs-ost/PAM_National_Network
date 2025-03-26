@@ -1,5 +1,5 @@
 ---
-title: IRA PAM Strategic Initiative Coordination
+title: PAM Strategic Initiative Coordination
 ---
 
 ![](/content/images/PA_SI_Graphic.png){fig-align="center" width="398"}

@@ -5,7 +5,7 @@ title: NMFS PAM Operational Cloud Storage and Processing
 ![](/content/images/Priority_project_graphics/Cloud/Direct-upload-cloud.png){width=25%}
 
 ### Team Leads 
-Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC)
+Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC), Becca VanHoeck (NEFSC)
 
 ### Goal 
 Demonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS PAM operations and support the protected species mission\
