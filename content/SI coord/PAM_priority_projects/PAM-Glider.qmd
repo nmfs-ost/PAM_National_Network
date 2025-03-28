@@ -1,62 +1,49 @@
 ---
 title: Accelerating Pacific-wide PAM-glider operations
 ---
-![](/content/images/Priority_project_graphics/Glider/Glider.1.png){width=20%}![](/content/images/Priority_project_graphics/Glider/Glider.2.png){width=20%}![](/content/images/Priority_project_graphics/Glider/Glider.3.png){width=20%}![](/content/images/Priority_project_graphics/Glider/Glider.4.png){width=20%}
 
-### Team Leads 
+![](/content/images/PAMplatforms_gliders.png){width="365"}
+
+### Team Leads
+
 Erin Oleson (PIFSC), Shannon Rankin (SWFSC)
 
 ### Goal
-Develop R2O plan intended to serve all regions to integrate PAM gliders into assessment missions, reducing shiptime needs.
+
+Develop a Research to Operations plan intended to serve all regions to integrate PAM gliders into assessment missions, reducing ship-time needs.
 
 ## PAM-Glider National Roadmap
 
-
 ### 1. Identify & Test Technology
 
-#### Build Capacity
+#### *Build Capacity*
 
-* Accomplishments
-  + PIFSC: 2 @ Seagliders, Glider Lab
-  + SWFSC: 2 @ Slocum, 2 @ Hefring Ocean Scout
-  + Expand DMON (expected by end of FY26)
+Develop and expand PAM-Glider capacity at SWFSC and PIFSC including diversification of platforms and acoustic processors for diversification, to reduce risk, and to encourage competitive technological advancement.
 
-* Next steps
-  + Test!
-  
-#### Glider Rodeo
+#### *Testing*
 
-* Accomplishments
-  + Alseamar Contract Awarded (data as a service for Glider Rodeo)
-  + Presentations at UG2 (Underwater Glider User Group, Erik Norris)
-  + [Glider Reseo Repo/Website](https://nmfs-pam-glider.github.io/GliderRodeo/)
-  
-* Next steps
-  + [Standardized Metrics for Comparison](https://nmfs-pam-glider.github.io/GliderRodeo/content/contactUs.html)
-  + Schedule/Plan Survey (Fall 2025 West Coast, Feb 2026 Hawaii)
+Field testing is occurring as new PAM-gliders are procured ([updates](https://nmfs-ost.github.io/PAM-Glider/content/gliderRodeo.html)). A multi-platform comparative sea trial is tentatively planned for FY26 and will provide a means of comparing the utility of various platforms to address different research questions and environmental conditions.
 
 ### 2. Concurrent Glider/Ship Surveys
 
-#### US West Coast CalCurCEAS
+#### *US West Coast CalCurCEAS*
 
-* Accomplishments
-  + Partner with OSU: 3 Seagliders off Oregon
-  + [Access to real time maps/metadata](https://noaaosu.seaglider.pub/)
+PAM-Gliders may provide cost effective alternatives to seasonal shipboard surveys. We collaborated with Oregon State University to deploy three PAM-gliders off the coast of Oregon. This survey coincided with the periodic CalCurCEAS surveys (conducted once every 5 years) and will provide data to develop downstream methods to assess marine mammal stocks (see [PAM-SI Stock Assessment Projects](https://nmfs-ost.github.io/PAM_National_Network/content/SI%20coord/PAM_priority_projects/Stock_projects/Project_1.html)).
 
-* Next steps
-  + Survey data to Stock Assessment Team
-  + Hawaii Survey (Feb 2026)
-  
+#### *Hawaii HICEAS*
+
+A similar survey will be conducted in early 2026, concurrent with the HICEAS survey in Hawaiian waters. This will serve as a proof of concept and provide critical comparative data for developing stock assessment models.
+
 ### 3. Advanced Data Analysis
-Link our data with other teams (in process)
+
+Data collected during the US West Coast surveys will be used by the PAM-SI Stock Assessment team to develop methods for using PAM Glider data for stock assessment models.
 
 ### 4. Field Test Ecosystem Studies (UxS funded "Plankton to Whales")
-Postponed until SWFSC has PAM-Gliders
 
-### 5. Transition to Operations Plan --> National Roadmap
-* [PAM-Glider Github Organization](https://github.com/NMFS-PAM-Glider)
-* Repositories 
-  + [Glider Rodeo](https://nmfs-ost.github.io/PAM-GliderRodeo/)
-  + [Glider-CalCurCEAS](https://github.com/NMFS-PAM-Glider/glider-CalCurCEAS)
-  + [PAM-UxS](https://nmfs-pam-glider.github.io/PAM-UxS/)
-* Openscapes: Create Repo/Foundation for Reports
+The "Plankton to Whales" (P2W) project is a collaborative project between the PAM-SI and the UxS (uncrewed systems) and Optics Strategic Initiatives. The P2W project transitions PAM-equipped gliders and Shadowgraph-equipped gliders to operational ecological surveys. P2W surveys will begin when after testing of these systems (as soon as summer 2025).
+
+### 5. Transition to Operations Plan --\> National Roadmap
+
+We are updating developments through our [PAM-Glider site](https://nmfs-ost.github.io/PAM-Glider/) and the results of each of these components will result in a [Transition to Operations](https://nmfs-ost.github.io/PAM-Glider/content/transitionPlan.html) plan. In addition to serving as a research to operations plan for the US West Coast and Hawaii, it will serve as a National Strategy RoadMap for PAM-Glider operations.
+
+***More Information** can be found on our [PAM-Glider site](https://nmfs-ost.github.io/PAM-Glider/content/transitionPlan.html).*

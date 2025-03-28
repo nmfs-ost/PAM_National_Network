@@ -2,6 +2,6 @@
 title: Open Science
 ---
 
-NOAA Fisheries PAM Teams are adopting and Open Science approach to research. We have created a stand-alone repository for [Open Science Methods](https://sael-swfsc.github.io/OpenScience/), and we encourage our colleagues to join us on this journey.
+NOAA Fisheries PAM Teams are adopting and Open Science approach to research. We have created a stand-alone repository for [Open Science Methods](https://nmfs-ost.github.io/PAM-OpenScience/), and we encourage our colleagues to join us on this journey.
 
 ![](images/openScience.png)
