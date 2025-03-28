@@ -38,8 +38,6 @@ website:
         contents:
           - href: content/SI coord/PAM_priority_projects/PAM-Trends.qmd
             text: PAM-Trends
-          - href: content/SI coord/PAM_priority_projects/PAM-Soundscapes.qmd
-            text: PAM-Soundscapes
           - href: content/SI coord/PAM_priority_projects/PAM-OpenScience.qmd
             text: PAM-OpenScience
           - href: content/SI coord/PAM_priority_projects/PAM-Cloud.qmd
@@ -50,6 +48,12 @@ website:
             text: PAM-Glider
           - href: content/SI coord/PAM_priority_projects/PAM-NCEI.qmd
             text: PAM-NCEI
+          - section: PAM Soundscape Projects
+            contents:
+             - href: content/SI coord/PAM_priority_projects/Soundscape_projects/Soundscape-Processing.qmd
+               text: Processing and Archiving
+             - href: content/SI coord/PAM_priority_projects/Soundscape_projects/Soundscape-Interpretation.qmd
+               text: Interpretation and Visualization
           - section: PAM Stock Projects
             contents:
              - href: content/SI coord/PAM_priority_projects/Stock_projects/Project_1.qmd
