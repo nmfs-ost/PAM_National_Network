@@ -351,6 +351,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p><img src="../../../content/images/githubTeamLogo.jpg" class="img-fluid" width="202"></p>
 <section id="team-leads" class="level3">
 <h3 class="anchored" data-anchor-id="team-leads">Team leads</h3>
 <p>Shannon Rankin (SWFSC), Kourtney Burger (SWFSC), Bella Garfield (NEFSC), Becca Van Hoeck (NEFSC)</p>
@@ -362,14 +363,15 @@ ul.task-list li input[type="checkbox"] {
 <section id="action-items" class="level3">
 <h3 class="anchored" data-anchor-id="action-items">Action Items</h3>
 <ol type="1">
-<li><p><a href="https://openscapes.org/" target="_blank"><strong>Openscapes</strong></a> <strong>PAM Team Cohort:</strong> Openscapes is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort. This cohort will serve as the backbone of our Open Science effort, and methods developed during the Openscapes project will be detailed in our stand-along <a href="https://sael-swfsc.github.io/OpenScience/" target="_blank">Open Science repository</a>.</p></li>
-<li><p><strong>Lab Manual:</strong> Development of a National Lab Manual and a Lab Manual for each Science Center. This will be initiated during the Openscapes program, and will serve as a landing page for all information related to the activities of each lab. This will lead to increased transparency and will facilitate information sharing between NOAA Science Centers, outside partners, and the public.</p></li>
-<li><p><strong>PAM-SI Team Organization :</strong> Cross-center collaborations will be organized by teams, with landing pages for each PAM-SI team. This will allow for increased coordination, transparency and information sharing within and outside of these teams.</p></li>
-<li><p><strong>Research Compendiums:</strong> A research compendium is a comprehensive collection of all the digital components related to a research project, including data, code, and text (protocols, reports, metadata, etc). We will develop a set of best practices and a compendium template to encourage standardization of NMFS PAM Research Compendiums.</p></li>
+<li><p><a href="https://openscapes.org/" target="_blank"><strong>Openscapes</strong></a> <strong>PAM Team Cohort:</strong> Openscapes is an initiative focused on promoting open and reproducible science, while fostering collaboration, transparency, and accessibility among reseachers. The PAM SI Team will have representatives from every fisheries center participating in the Openscapes Fall 2024 cohort. This cohort will serve as the backbone of our Open Science effort, and methods developed during the Openscapes project will be detailed in our stand-along <a href="https://nmfs-ost.github.io/PAM-OpenScience/" target="_blank">Open Science repository</a>. <em><strong>Update:</strong> Fall cohort complete, successful development of Lab Manuals (see below).</em></p></li>
+<li><p><strong>Lab Manual:</strong> Development of a <a href="https://nmfs-ost.github.io/PAM_National_Network/">National Lab Manual</a> and a Lab Manual for each Science Center (<a href="https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/">PIFSC</a>, <a href="https://nefsc.github.io/NEFSC_PAB_lab_manual/">NEFSC</a>, <a href="https://sefsc.github.io/SEFSC-PAM-Lab-Manual/">SEFSC</a>, <a href="https://sael-swfsc.github.io/SAEL-lab-manual/">SWFSC</a>, <a href="https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/">NWFSC</a>, <a href="https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/">AFSC</a>). This was be initiated during the Openscapes program, and these serve as a landing page for all information related to the activities of each lab. This will lead to increased transparency and will facilitate information sharing between NOAA Science Centers, outside partners, and the public. <em><strong>Update:</strong> All sites created, updates ongoing as of March 2025, expected completion by end of FY26.</em></p></li>
+<li><p><strong>PAM-SI Team Organization :</strong> Cross-center collaborations will be organized by teams, with landing pages for each <a href="https://nmfs-ost.github.io/PAM_National_Network/content/SI%20coord/SI_Coordination.html">PAM-SI team</a>. This will allow for increased coordination, transparency and information sharing within and outside of these teams. <em><strong>Update:</strong> ongoing as of March 2025, expected completion by end of FY26.</em></p></li>
+<li><p><strong>Research Compendiums:</strong> A research compendium is a comprehensive collection of all the digital components related to a research project, including data, code, and text (protocols, reports, metadata, etc). We have developed a <a href="https://sael-swfsc.github.io/PAM_template_ResearchCompendium/">research compendium template</a> with set of <a href="https://nmfs-ost.github.io/PAM-OpenScience/content/researchCompendium.html">best practices</a> to encourage standardization of NMFS PAM Research Compendiums. <em><strong>Update:</strong> Compendium and best practices completed.</em></p></li>
 </ol>
 </section>
 <section id="notes" class="level3">
 <h3 class="anchored" data-anchor-id="notes">Notes</h3>
+<p><a href="https://nmfs-ost.github.io/PAM-OpenScience/">Open Science for NOAA Fisheries PAM</a></p>
 <p>All meeting notes and Openscapes related documents will be accessible in the <a href="https://drive.google.com/drive/folders/1HPBhA0jRF1XqKL_6RhoGASPFOO7pi40c?usp=drive_link" target="_blank">PAM SI Openscapes Google Drive Folder</a></p>
 <p>Openscience discussions are hosted on SAEL’s Openscience Github repository. Access the <a href="https://github.com/SAEL-SWFSC/OpenScience/discussions" target="_blank">discussion board here</a></p>
 
@@ -625,11 +627,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
-          // target, if specified
-          link.setAttribute("target", "_blank");
-          if (link.getAttribute("rel") === null) {
-            link.setAttribute("rel", "noopener");
-          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
