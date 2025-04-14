@@ -5,6 +5,26 @@ page-layout: full
 ---
 
 
+## Project 1: Soundscape Metric Processing and Archiving
+
+### Goal and Target Outcome
+
+We will facilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generating decision support tools that integrate soundscape visualizations with multiple data types. This will allow for systematic identification, archival, and processing of soundscape metrics for priority PAM-SI datasets to build capacity and consistency across programs.
+
+### Summary
+
+::: columns
+::: {.column width="40%"}
+This project will add soundscape metrics for priority PAM SI datasets alongside audio files and other metrics to the NCEI Passive Acoustics archive. The soundscape metrics will be used to develop and demonstrate soundscape interpretation and visualization tools being developed as part of the SI. The datasets will also facilitate comparison of data sampled by multiple recording technologies and projects that are unique to select FMCs. A technical guide for processing and archiving PAM data will also be prepared as part of this project. This project will work with PAM SI cloud computing projects to operationalize soundscape metric processing software in the cloud environment. Streamlining and documenting methods to process and archive soundscape metrics supports PAM SI objectives to advance PAM data analysis and integration approaches, and advance archival cloud capabilities.
+:::
+
+::: {.column width="60%"}
+
+
+![](/content/images/Priority_project_graphics/Soundscapes/Soundscape-notext.resized.png)
+:::
+:::
+
 ## Project 2: Soundscape Metric Interpretation and Visualization
 
 ### Goal and Target Outcome
