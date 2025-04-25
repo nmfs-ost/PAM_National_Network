@@ -87,7 +87,7 @@ mainland4 <- tm_shape(us_states, bbox = bbox_new) +
   tm_shape(geocode.Montlake) +
   tm_polygons(legend.show = F) +
   tm_squares(col = "grey", fill = "Type", size = .5, alpha = 1) +
-  tm_text("NWFSC (Montlake) and AFSC (Sandy Point)", size = 0.7, ymod = 0, xmod = 8.8, col = "black") +
+  tm_text("NWFSC (Montlake) and AFSC (Sand Point)", size = 0.7, ymod = 0, xmod = 8.8, col = "black") +
   tm_shape(geocode.NWFSC) +
   tm_polygons(legend.show = F) +
   tm_bubbles(col = "darkred", fill = "Type", size = .5, alpha = 1) +
