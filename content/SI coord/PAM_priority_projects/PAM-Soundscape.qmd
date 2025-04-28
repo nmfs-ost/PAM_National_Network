@@ -34,3 +34,5 @@ We will create a set of soundscape metric interpretation open-source processing 
 ### Summary
 
 This project will build on existing tools in PAMscapes (R/CRAN) to create and document processing pathways for soundscape metric interpretation. NOAA Noise Reference Station soundscape metrics will be used to build the pathways and evaluate outputs. Additional soundscape metrics from PAM SI priority data sets will be incorporated based on availability from Soundscape Priority #1 Projects (above). We will create decision-support tools that are relevant at regional and national scales and integrate PAM data with variables to provide context for different soundscapes (environmental data, species-detections, etc).
+
+***More Information** can be found on our [PAM-Soundscapes site](https://nmfs-ost.github.io/PAM-Soundscapes/).*

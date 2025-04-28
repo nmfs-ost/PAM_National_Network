@@ -38,4 +38,4 @@ data streams can be applied across the range of project goals and regional needs
 ### Accomplishments
 [Spreadsheet of available humpback data](https://docs.google.com/spreadsheets/u/0/d/128jZhAl3YAP3QF2Ww7e04CSRxMch5IIFebsX2NqFFpU/edit)
 
-
+***More Information** can be found on our [PAM-Trends site](https://nmfs-ost.github.io/PAM-Trends/).*

@@ -50,14 +50,8 @@ website:
             text: PAM-NCEI
           - href: content/SI coord/PAM_priority_projects/PAM-Soundscape.qmd
             text: PAM-Soundscape
-          - section: PAM Stock Projects
-            contents:
-             - href: content/SI coord/PAM_priority_projects/Stock_projects/Project_1.qmd
-               text: Glider tools
-             - href: content/SI coord/PAM_priority_projects/Stock_projects/Project_2.qmd
-               text: Stationary tools
-             # - href: content/SI coord/PAM_priority_projects/Stock_projects/Project_3.qmd
-             #   text: Towed array tools
+          - href: content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.qmd
+            text: PAM-Stocks
       - href: content/FieldMethods.qmd
         text: "Field Methods"
       - href: content/DataManagement.qmd
