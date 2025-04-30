@@ -46,7 +46,7 @@ beaked whales.
 
 4. **Establish project team:** Establish working group, potentially including colleagues from Duke University, Fisheries and Oceans Canada, etc., to meet periodically with the LISTEN GoMex team to ensure broad regional relevance. 
 
-5. **Expand capacity:** If funded, advertise post-doc position to support this effort. Alterntively, the PAM SI could convene a workshop or series of workshops that assess the state of the science for incorporating PAM data into species distribution model frameworks in conjunction with Project 1. 
+5. **Expand capacity:** If funded, advertise post-doc positions to support this effort. Alternatively, the PAM SI could convene a workshop or series of workshops that assess the state of the science for incorporating PAM data into species distribution model frameworks in conjunction with Project 1. 
 
 
 ***More Information** can be found on our [PAM-Stocks site](https://nmfs-ost.github.io/PAM-Stocks/).*
