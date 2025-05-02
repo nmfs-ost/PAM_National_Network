@@ -8,22 +8,45 @@ NOAA Fisheries’ PAM programs collect underwater sound recordings of the marine
 
 There are seven NOAA Fisheries PAM programs including each regional Science Center and the Office of Science & Technology's Ocean Acoustic Program. This repository serves to enhance National PAM collaboration within NOAA Fisheries and our partners through a common GitHub structure. Each of the regional science centers is in the process of establishing a region specific landing page that mimics the structure of this National page.
 
+
+## Regional National Marine Fisheries Lab Manuals
+
+:::::::::::::: {.columns}
+::: {.column width="50%"}
+
+-   [NWFSC: Northwest Fisheries](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/)
+
+![](/content/images/NWFSC_location.png){width=80%}
+
+-   [SWFSC: Southwest Fisheries](https://sael-swfsc.github.io/SAEL-lab-manual/)
+
+![](/content/images/SWFSC_location.png){width=80%}
+
+-   [PIFSC: Pacific Islands Fisheries](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/)
+
+![](/content/images/PIFSC_location.png){width=80%}
+
+:::
+::: {.column width="50%"}
+
+-   [NEFSC: Northeast Fisheries](https://nefsc.github.io/NEFSC_PAB_lab_manual/)
+
+![](/content/images/NEFSC_location.png){width=50%}
+
+
+-   [SEFSC: Southeast Fisheries](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/)
+
+![](/content/images/SEFSC_location.png){width=70%}
+
+-   [AFSC: Alaska Fisheries](https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/)
+
+![](/content/images/AFSC_location.jpg){width=80%}
+
+:::
+::::::::::::::
+
 ## Regional National Marine Fisheries locations
 Map of Regional Fishery Science Center Labs. Regions are designated by color (see legend) with each region's primary science center indicated by square symbols. 
 
 ![](/content/code/output/Mainland.4.png){width=100%}
 ![](/content/code/output/Alaska.png){width=39%}![](/content/code/output/Hawaii.2.png){width=37%}![](/content/code/output/Legend.png){width=23%}
-
-## Regional National Marine Fisheries Lab Manuals
-
--   [PIFSC: Pacific Islands Fisheries](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/)
-
--   [SWFSC: Southwest Fisheries](https://sael-swfsc.github.io/SAEL-lab-manual/)
-
--   [NWFSC: Northwest Fisheries](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/)
-
--   [AFSC: Alaska Fisheries](https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/)
-
--   [SEFSC: Southeast Fisheries](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/)
-
--   [NEFSC: Northeast Fisheries](https://nefsc.github.io/NEFSC_PAB_lab_manual/)
