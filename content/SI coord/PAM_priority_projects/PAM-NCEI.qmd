@@ -13,18 +13,15 @@ Build efficient workflows to archive large volumes of NMFS PAM data and meet the
 ### Summary
 The NCEI Passive Acoustic Data (PAD) Archive team will work collaboratively with each NMFS FMC to develop configurable tools that will facilitate FMCs to prepare numerous datasets in a more automated way for archiving at NCEI. This will allow this collective group to meet the PAM SI goal of archiving 900 TB of data in three years (Objective 3) and make significant progress towards meeting NOAA PARR requirements.
 
-### Action items
-1. **Archive Breakdown**: FMCs are asked to update [this spreadsheet](https://docs.google.com/spreadsheets/d/1l-Dfh7DtM11FfrXrn1Ub9dqPl3uSQEd3yRSWiaK_eF0/edit?usp=sharing) with revised information based on the original table of datasets to archive found in PAM [SI proposal](https://docs.google.com/document/d/1BPkv6vRO97T9Vitud8Ng5ws7tudbtD-IF2NwzX4oRmU/edit?usp=sharing) / [slide 12](https://docs.google.com/presentation/d/1TewDhV21FjX2ANAzedxMR5s_q94eciiu-iTafjJRUVM/edit#slide=id.g2c4705a5e9b_0_35). The request is to provide more details on prioritized datasets, target month(s) for data submission, identify POCs to work with the archive team, and describe how metadata are stored (e.g., spreadsheet, Oracle database). 
+### Accomplishments
+1. Successfully archived 22TB of passive acoustic data. This volume will continue to rise as the team continues to ingest the packaged data. 
 
-2. **FLAC Check**: Confirm FLAC conversion doesn’t alter audio values with Peter Dugan. 
 
-3. **Kourtney’s Kode**: Kourtney will share her [Passive Packer process](https://sael-swfsc.github.io/SAEL-lab-manual/content/Data-Archive.html#ncei-data-archive) - using [semi automated code](https://sael-swfsc.github.io/adrift-analysis-methods/content/DataArchive/NCEI.html#passive-packer-resources) to convert [deployment metadata spreadsheet](https://docs.google.com/spreadsheets/d/1iyNaKKLbqSHK-iWLADO-YQMNaq4XVsIqYbaeHD2Z_AU/edit?usp=sharing) to Passive Packer ready database. 
+2. Developed a solid ingest process to handle mobile marine platforms. 
 
-4. **Metadata Madness**: Meeting with NCEI PAD team, Kourtney, Jeff Walker, and Genevieve Davis to review metadata fields and ensure alignment between NCEI Passive Packer / Kourtney’s code /PACM. 
+3. Released a new PAM data packaging software, PACE, to support efficient data archiving of large datasets.
 
-5. **Bracing for the Data Tsunami**: NCEI PAD team assesses data prioritization and metadata information provided by the FMCs (Action 1) and outlines a plan for building the necessary capabilities into Passive Packer and the archive pipeline. 
-
-6. **Call Me Maybe**: Establish bimonthly meetings with NCEI PAD team and POCs to ensure regular communication regarding progress of archive development tasks and FMC dataset preparation.
+4. Initiated the development of a cloud pipeline to efficiently ingest data and associated metadata from the PAM GCP to the NCEI Passive Acoustic Data Archive. 
 
 ## Project 2: Native to FLAC Conversion
 
@@ -38,11 +35,11 @@ The goal of this effort will be to eliminate the time-consuming step of converti
 
 ### Action Items
 1. **Convert to FLAC**: Develop processing pipeline to save native data formats to FLAC. This will include three sub tasks:
-  * Establish a list of what the native file formats are that we want to evaluate going from native to FLAC.
-  * Determine the level of effort to convert the formats listed in subtask 1 to FLAC and who will complete that work. 
-  * Create processing code to convert identified native file types to FLAC. 
+    * Establish a list of what the native file formats are that we want to evaluate going from native to FLAC.
+    * Determine the level of effort to convert the formats listed in subtask 1 to FLAC and who will complete that work. 
+    * Create processing code to convert identified native file types to FLAC. 
   
 2. **Process FLAC**: Update common analysis software to read FLAC. This will include three sub tasks:
-  * Establish a list of standard software to develop this capacity. 
-  * Determine what is needed to adjust the software list in subtask 1 to input FLAC files. 
-  * Issue contract to complete the work identified in subtask 2. 
+    * Establish a list of standard software to develop this capacity. 
+    * Determine what is needed to adjust the software list in subtask 1 to input FLAC files. 
+    * Issue contract to complete the work identified in subtask 2. 

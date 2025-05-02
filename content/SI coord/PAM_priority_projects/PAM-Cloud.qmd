@@ -4,21 +4,15 @@ title: NMFS PAM Operational Cloud Storage and Processing
 
 ![](/content/images/Priority_project_graphics/Cloud/Direct-upload-cloud.png){width=25%}
 
+More Information and detailed documentation for cloud access can be found on our [PAM Cloud site](https://nmfs-ost.github.io/PAM-Cloud/)
+
 ### Team Leads 
 Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC), Becca VanHoeck (NEFSC)
 
 ### Goal 
-Demonstrate a scalable and cost-effective cloud-based workflow to modernize NMFS PAM operations and support the protected species mission\
-
-### Target outcome
-Developing a National PAM Cloud operational repository for data processing and storage
-
-### Detailed Cloud Documentation and Updates
-For a full description of out National PAM Cloud Developments visit the [PAM Cloud Github repository](https://nmfs-ost.github.io/PAM-Cloud/)
+Demonstrate a scalable and cost-effective cloud-based workflow - including data storage, processing, and archiving - to modernize PAM operations and support the NOAA Fisheries mission
 
 ![](/content/images/Priority_project_graphics/Cloud/flowchart.PNG)
-
-### Technical Processing Advice
 
 ### Report bug/issue in PAM windows workstation
 * [Report a bug](https://app.smartsheetgov.com/b/form/cb361c4cdbd7416c90bb5905020174a6)

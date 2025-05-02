@@ -50,7 +50,7 @@ website:
             text: PAM-NCEI
           - href: content/SI coord/PAM_priority_projects/PAM-Soundscape.qmd
             text: PAM-Soundscape
-          - href: content/SI coord/PAM_priority_projects/Stock_projects/PAM-Stocks.qmd
+          - href: content/SI coord/PAM_priority_projects/PAM-Stocks.qmd
             text: PAM-Stocks
       - href: content/FieldMethods.qmd
         text: "Field Methods"

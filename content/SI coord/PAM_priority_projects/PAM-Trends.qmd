@@ -4,6 +4,8 @@ title: Long-Term Trends and Environmental Variables
 
 ![](/content/images/Priority_project_graphics/Climate_trends/humpback_whale.png){width=20%}
 
+*More Information can be found on our [PAM-Trends site](https://nmfs-ost.github.io/PAM-Trends/).*
+
 ### Team Leads
 Genevieve Davis (NEFSC), Julia Zeh (NEFSC)
 
@@ -18,24 +20,5 @@ The primary goal of this project is to compare humpback whale occurrence trends 
 This workflow will allow for a national comparison of one species to be able to identify and compare changes (or lack thereof) within and across regions. Once this structure has been established, these standardized data formats, tools, and environmental
 data streams can be applied across the range of project goals and regional needs, including regional-specific high-profile species. This project directly supports the PAM SI objective to advance PAM data analysis and integration approaches with an emphasis on addressing long-term trends.
 
-### Action items
-1. **Data Identification:** Identify existing humpback detection data sets to be included. 
-
-2. **Environmental data identification:** Identify environmental data (i.e. parameters, spatio-temporal range, source) to integrate with daily PACM output. 
-
-3. **Format data to PACM:** Get humpback detection data formatted and submitted into PACM, on an hourly or daily scale. This phase includes meetings, as-needed tutorials, consultation with Jeff Walker, as well as identifying and developing the tools needed. 
-
-4. **Access and aggregate detection data from PACM:** Pull humpback detection data from PACM in standardized format aggregated at daily scale. This phase includes meetings, tutorials, identifying and developing tools as needed. 
-
-5. **Develop and refine workflow:** Develop and refine processing workflow that extracts identified environmental data from various sources and integrates with daily PACM outputs. Includes creating open-source / github hosted repo that is tested and implemented across FMCs (Taiki). 
-
-6. **Identify additional data:** Identify which additional data (regional-specific or other species-specific data) we would want tools for to help predict species' movement. 
-
-7. **Output products:** Identify and draft collaborative questions, papers, products to compare across FMC’s and regions. 
-
-8. **Aspirational next steps:** Explore methods for incorporating additional PAM data into workflow from other platforms (mobile or drifting data) or from AI tools for species detection, as available.
-
 ### Accomplishments
 [Spreadsheet of available humpback data](https://docs.google.com/spreadsheets/u/0/d/128jZhAl3YAP3QF2Ww7e04CSRxMch5IIFebsX2NqFFpU/edit)
-
-***More Information** can be found on our [PAM-Trends site](https://nmfs-ost.github.io/PAM-Trends/).*

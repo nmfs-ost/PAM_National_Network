@@ -4,6 +4,8 @@ title: Accelerating Pacific-wide PAM-glider operations
 
 ![](/content/images/PAMplatforms_gliders.png){width="365"}
 
+*More Information can be found on our [PAM-Glider site](https://nmfs-ost.github.io/PAM-Glider/content/transitionPlan.html).*
+
 ### Team Leads
 
 Erin Oleson (PIFSC), Shannon Rankin (SWFSC)
@@ -46,4 +48,3 @@ The "Plankton to Whales" (P2W) project is a collaborative project between the PA
 
 We are updating developments through our [PAM-Glider site](https://nmfs-ost.github.io/PAM-Glider/) and the results of each of these components will result in a [Transition to Operations](https://nmfs-ost.github.io/PAM-Glider/content/transitionPlan.html) plan. In addition to serving as a research to operations plan for the US West Coast and Hawaii, it will serve as a National Strategy RoadMap for PAM-Glider operations.
 
-***More Information** can be found on our [PAM-Glider site](https://nmfs-ost.github.io/PAM-Glider/content/transitionPlan.html).*
