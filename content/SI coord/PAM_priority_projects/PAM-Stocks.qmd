@@ -28,6 +28,6 @@ Integrating long-term PAM data into species density models to provide seasonal a
 This project would support the PAM SI objective of advancing data integration by leveraging stationary PAM data and visual data to improve the accuracy of stock assessments by capturing seasonal and long-term changes. This project would focus on developing a statistical framework for integrating a density model created with stationary PAM data with existing visual-based SDMs to achieve more accurate models with seasonal context. This project may leverage LISTEN GoMex funding to develop models for sperm whales and
 beaked whales.
 
-## Project 3: Density Estimation using mobile DSBRs
+## Project 3: Density Estimation using mobile DASBRs
 
 This project aims to advance the applications of the mobile passive acoustic monitoring platforms for stock assessment of cryptic, deep-diving marine mammals in difficult to monitor areas. Building on the developments of the West Coast and Pacific Island Regions, DASBRs, or Drifting Acoustic Recording Buoys, will be deployed in strategic areas off the continental shelf of the East Coast. The DASBRs will provide additional remote data collection to complement the shipboard efforts conducted by the NEFSC. Specifically, DASBRs will extend survey periods into poor weather months where there is little temporal effort (e.g. fall, spring). From this project, we anticipate being able to provide density estimates of goose-beaked, Blainville’s, True’s, and Sowerby’s beaked whales for the NMFS stock assessment reports.
