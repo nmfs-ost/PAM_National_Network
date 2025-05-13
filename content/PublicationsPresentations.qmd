@@ -2,6 +2,14 @@
 title: Publications and Presentations
 ---
 
-This is an optional page but is a great opportunity to highlight some of your publications and presentations.
+See below for information on publications by regional PAM group.
 
-SAEL example (add once this page is corrected)
+* [SWFSC](https://sael-swfsc.github.io/SAEL-lab-manual/content/publications.html)
+\
+* [NWFSC](https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/PublicationsPresentations.html)
+\
+* [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/PublicationsPresentations.html)
+\
+* [NEFSC](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Publications/PublicationsPresentations.html)
+\
+* [PIFSC](https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/PublicationsPresentations.html)

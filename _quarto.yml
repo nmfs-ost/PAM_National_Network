@@ -65,15 +65,9 @@ website:
           - content/AnalysisMethods.qmd
       - href: content/Reporting.qmd
         text: Reporting
-      - section: "Optional Pages"
-        contents: 
-          - content/SharedValues.qmd
-          - content/Onboarding.qmd
-          - content/Offboarding.qmd
-          - content/FieldMethods.qmd
-          - content/OpenScience.qmd
-          - content/PublicationsPresentations.qmd
-          - content/Resources.qmd
+      - href: content/PublicationsPresentations.qmd
+        text: Publications
+     
       # - section: "NMFS Open Science Directions"  #Removed but did not yet delete
       #   contents:
       #     - content/NMFS_OpenSciDirections/Getting-Started.qmd

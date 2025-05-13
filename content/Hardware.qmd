@@ -81,19 +81,14 @@ Moored Recording devices record continuous acoustic data in a stationary locatio
 - [SEFSC](https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html#seafloor-moored-acoustic-recorders)
 
 :::
-::: {.column width="13%"}
+::: {.column width="19%"}
 
 ![Soundtrap](/content/images/Hardware/SOUNDTRAP.png){width=45%}
 
 :::
-::: {.column width="13%"}
+::: {.column width="19%"}
 
 ![Moored-Buoy](/content/images/Hardware/MOORED-BUOY.png){width=32%}
-
-:::
-::: {.column width="13%"}
-
-![HARP](/content/images/Hardware/HARP.png){width=93%}
 
 :::
 ::::::::::::::
@@ -161,14 +156,6 @@ Handheld hydrophones consist of a simple tethered acoustic recording device hand
 #### Science Centers using Handheld Hydrophones
 - [NEFSC](https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html)
 - [SWFSC](https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_Handheld-Hydrophone.html)
-
-:::
-::: {.column width="40%"}
-
-![](/content/images/Hardware/HYDROPHONE.png){width=100%}
-
-:::
-::::::::::::::
 
 
 ## Biologging Recorders
