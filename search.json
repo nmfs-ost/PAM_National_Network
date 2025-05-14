@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "content/Software.html",
-    "href": "content/Software.html",
-    "title": "Software",
+    "objectID": "content/Offboarding.html",
+    "href": "content/Offboarding.html",
+    "title": "Offboarding",
     "section": "",
-    "text": "See below for our regional software information.\n\nSWFSC\n\nNWFSC\n\nSEFSC\n\nNEFSC\n\nPIFSC",
-    "crumbs": [
-      "Software & Analysis Methods",
-      "Software"
-    ]
-  },
-  {
-    "objectID": "content/Reporting.html",
-    "href": "content/Reporting.html",
-    "title": "Reporting",
-    "section": "",
-    "text": "See below for information on each regional PAM group’s reporting both within NOAA and to other agencies.\n\nAFSC\n\nSWFSC\n\nNWFSC\n\nSEFSC\n\nNEFSC\n\nPIFSC",
-    "crumbs": [
-      "Reporting"
-    ]
+    "text": "This page is optional but can be extremely beneficial when a member of your team is transitioning out of their current position. Things to include here are directions for project documentation, data and code storage/sharing, turning in equipment, etc.\nFaylab example"
   },
   {
     "objectID": "content/AnalysisMethods.html",
@@ -32,31 +18,46 @@
     ]
   },
   {
-    "objectID": "content/SharedValues.html",
-    "href": "content/SharedValues.html",
-    "title": "Shared Values",
+    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html",
+    "href": "content/NMFS_OpenSciDirections/Getting-Started.html",
+    "title": "Getting Started",
     "section": "",
-    "text": "A shared values / lab culture page is optional but is highly recommended. Establishing these values as a team can help create a positive and inclusive environment, foster a shared vision, promote collaboration, and build team cohesion while supporting individual growth.\nSAEL example\nFaylab example"
+    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
   },
   {
-    "objectID": "content/SoftwareAnalysis.html",
-    "href": "content/SoftwareAnalysis.html",
-    "title": "Software & Analysis Methods",
+    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
+    "href": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
+    "title": "Getting Started",
     "section": "",
-    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics).",
-    "crumbs": [
-      "Software & Analysis Methods"
-    ]
+    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
   },
   {
-    "objectID": "content/PublicationsPresentations.html",
-    "href": "content/PublicationsPresentations.html",
-    "title": "Publications and Presentations",
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html",
+    "href": "content/NMFS_OpenSciDirections/Intro.html",
+    "title": "NOAA quarto simple with R",
     "section": "",
-    "text": "See below for information on publications by regional PAM group.\n\nSWFSC\n\nNWFSC\n\nSEFSC\n\nNEFSC\n\nPIFSC",
-    "crumbs": [
-      "Publications"
-    ]
+    "text": "This is a template for a simple Quarto website (type: website). It looks like a html book (type: book) but unlike the book type it only has html format and you will not have the download options. type: website is a common format for documentation.\nThe repo includes a GitHub Action that will build the website automatically when you make changes to the files. The webpage will use the gh-pages branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch.\nWarning: Check that the settings will allow the GitHub Action to run. See the instructions below under “GitHub Set-up”. Scroll down to the troubleshooting section if the website is not built by the GitHub Action.\nNote: The GitHub Action installs R so you can render qmd files with R code. You will need to edit to install Python or Julia if your qmd uses those instead. If you have substantial computations, you don’t want to be re-running all the computations for files that didn’t change. Read about the freeze option for this situation. R users with complex reports with dependencies (so qmd B depends on qmd A or data file A) should be aware of the {targets} package which will help you keep track of files that need to be re-rendered due to changes in dependencies.\n\n\n\nClick the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website\n\n\n\n\n\nEdit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml\n\n\n\n\nThe most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
+    "href": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
+    "title": "NOAA quarto simple with R",
+    "section": "",
+    "text": "Click the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html#customize",
+    "href": "content/NMFS_OpenSciDirections/Intro.html#customize",
+    "title": "NOAA quarto simple with R",
+    "section": "",
+    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
+    "href": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
+    "title": "NOAA quarto simple with R",
+    "section": "",
+    "text": "The most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change."
   },
   {
     "objectID": "content/NMFS_OpenSciDirections/code.html",
@@ -101,60 +102,189 @@
     "text": "Resources\n\nYaml Checker\nQuarto Yaml Options (HTML)\nQuarto Book Structure"
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html",
-    "href": "content/NMFS_OpenSciDirections/rmarkdown.html",
-    "title": "R Markdown",
+    "objectID": "content/NMFS_OpenSciDirections/acknowledgements.html",
+    "href": "content/NMFS_OpenSciDirections/acknowledgements.html",
+    "title": "Acknowledgments",
     "section": "",
-    "text": "You can include R Markdown files in your project."
+    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
-    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
-    "title": "R Markdown",
-    "section": "R Markdown",
-    "text": "R Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
-    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
-    "title": "R Markdown",
-    "section": "Including Plots",
-    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html",
-    "href": "content/NMFS_OpenSciDirections/add-content.html",
-    "title": "Customize Content",
+    "objectID": "content/Onboarding.html",
+    "href": "content/Onboarding.html",
+    "title": "Onboarding",
     "section": "",
-    "text": "You can customize your content by (1) Modifying existing content, or (2) creating your own content. For examples, we will assume a folder structure such as that in the PAM Template Lab Manual."
+    "text": "This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example"
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html#modify-existing-content",
-    "href": "content/NMFS_OpenSciDirections/add-content.html#modify-existing-content",
-    "title": "Customize Content",
-    "section": "Modify Existing Content",
-    "text": "Modify Existing Content\nHere are basic instructions for modifying existing content, such as the example pages provided in the PAM Template Lab Manual: 1) Ensure that you have cloned the Github Repository using Github Desktop, and that you have created an RStudio project, following directions outlined here.\n\nOpen your RStudio project (here we will assume it is a clone of the PAM Template Lab Manual), and navigate to the ‘content’ folder (lower right hand side of RStudio, Files Tab). As an example, we will change the “/content/Hardware.qmd” file. First, read the information in the page to understand the intended content. To start, we will organize different subheadings within this page.\nIdentify Sub-Headings. In this example, we will want to identify different types of Hardware used by our particular lab. In this example, we will want the following categories: “PAM Gliders”, “Drifting Recorders”, “Towed Arrays”, and “Handheld Hydrophones”.\n\nUsing the Source editor, use # to indicate Heading 1 style, ## for Heading 2 Style, etc.\nUsing the Visual editor, use the dropdown menu to select the Heading Style\n\nAdd Content. Most content will consist of text, with some images, hyperlinks, and occasional tables. To start, we recommend identifying the content you would like to put in there, and identify the Point of Contact (POC). As an example, we may put the following text:\nPOC: Jane Doe. General description of Hardware, links to online content (vendor specification page, relevant online content), instructions for build or maintain hardware (or links to that information), links to inventory, etc.\nOnce your outline is developed, fill in the content. IF someone else will collate the content– they can create it in a separate document to be copied/pasted here, or they can directly modify this page.\nIf you find you need separate pages for each sub-heading (instead of one long subheading), then create New Content, and link the new content to the _quarto.yml.\nWhen you are finished modifying your document and Project, push changes to Github using Github Desktop (see instructions here)."
+    "objectID": "content/OpenScience.html",
+    "href": "content/OpenScience.html",
+    "title": "Open Science",
+    "section": "",
+    "text": "NOAA Fisheries PAM Teams are adopting and Open Science approach to research. We have created a stand-alone repository for Open Science Methods, and we encourage our colleagues to join us on this journey."
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html#create-new-content",
-    "href": "content/NMFS_OpenSciDirections/add-content.html#create-new-content",
-    "title": "Customize Content",
-    "section": "Create New Content",
-    "text": "Create New Content\nAgain, assuming you have an RStudio project for your Github Repository, such as the example provided in the PAM Template Lab Manual: 1) Ensure that you have cloned the Github Repository using Github Desktop, and that you have created an RStudio project, following directions outlined here.\n\nOpen your RStudio project (here we will assume it is a clone of the PAM Template Lab Manual), and navigate to the ‘content’ folder (lower right hand side of RStudio, Files Tab). Select New Blank File, and in the drop-down, select Quarto Document. Then give your file a logical and descriptive name.\n\nUsing the Source editor, create a title header with the text you would like as your primary Header for this page (will appear as Header 1).\n\nAdd content below the header section, using either the Source or Visual editor in RStudio.\nAdd your new content to the _quarto.yml\nWhen you are finished modifying your document and Project, push changes to Github using Github Desktop (see instructions here)."
+    "objectID": "content/Software.html",
+    "href": "content/Software.html",
+    "title": "Software",
+    "section": "",
+    "text": "See below for our regional software information.\n\nSWFSC\n\nNWFSC\n\nSEFSC\n\nNEFSC\n\nPIFSC",
+    "crumbs": [
+      "Software & Analysis Methods",
+      "Software"
+    ]
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html#examples",
-    "href": "content/NMFS_OpenSciDirections/add-content.html#examples",
-    "title": "Customize Content",
-    "section": "Examples",
-    "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFaye lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory."
+    "objectID": "content/SI coord/SI_Coordination.html#overview",
+    "href": "content/SI coord/SI_Coordination.html#overview",
+    "title": "PAM Strategic Initiative Coordination",
+    "section": "Overview",
+    "text": "Overview\nThis page serves as a landing page to coordinate progress towards the Passive Acoustic Monitoring Strategic Initiative (PAM SI). Included below are important links to identify open action items, review priority project descriptions and working group meeting notes, as well as track progress and issues through GitHub projects.\nThe PAM SI Team has identified eight priority projects that combined work towards two overarching goals: (1) National Data & Analysis Integration and (2) Infrastructure Development & Efficiency. Progress towards these goals will implement transformational activities that will significantly change the way in which we collect, analyze, and make PAM data accessible for answering mission critical questions.",
+    "crumbs": [
+      "PAM SI"
+    ]
   },
   {
-    "objectID": "content/NMFS_OpenSciDirections/add-content.html#resources",
-    "href": "content/NMFS_OpenSciDirections/add-content.html#resources",
-    "title": "Customize Content",
-    "section": "Resources",
-    "text": "Resources\n\nQuarto documentation."
+    "objectID": "content/SI coord/SI_Coordination.html#pam-si-workflow",
+    "href": "content/SI coord/SI_Coordination.html#pam-si-workflow",
+    "title": "PAM Strategic Initiative Coordination",
+    "section": "PAM SI Workflow",
+    "text": "PAM SI Workflow",
+    "crumbs": [
+      "PAM SI"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/SI_Coordination.html#important-links",
+    "href": "content/SI coord/SI_Coordination.html#important-links",
+    "title": "PAM Strategic Initiative Coordination",
+    "section": "Important Links",
+    "text": "Important Links\n\nPAM SI Active Action Items tracker\nMarch 2024 Workshop Report\nPAM SI Progress Dashboard\nGitHub Projects (* More details to come - this link will only work once you become a member of the NMFS OST GitHub Organization)\nPAM SI Projects Google Folder\nNotes from Bi-weekly SI Team Meetings",
+    "crumbs": [
+      "PAM SI"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/Openscience Infosharing.html",
+    "href": "content/SI coord/PAM_priority_projects/Openscience Infosharing.html",
+    "title": "National PAM Coordination and Sharing",
+    "section": "",
+    "text": "Goal: Enhance National PAM collaboration among the regions by facilitating an open science culture and creating the infrastructure for information sharing on GitHub.\nTeam Leads: Becca Van Hoeck (NEFSC), Shannon Rankin (SWFSC)\nOpenscapes show and tell discussion board"
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-Glider.html",
+    "href": "content/SI coord/PAM_priority_projects/PAM-Glider.html",
+    "title": "Accelerating Pacific-wide PAM-glider operations",
+    "section": "",
+    "text": "More Information can be found on our PAM-Glider site.",
+    "crumbs": [
+      "PAM SI",
+      "PAM-Glider"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-Glider.html#pam-glider-national-roadmap",
+    "href": "content/SI coord/PAM_priority_projects/PAM-Glider.html#pam-glider-national-roadmap",
+    "title": "Accelerating Pacific-wide PAM-glider operations",
+    "section": "PAM-Glider National Roadmap",
+    "text": "PAM-Glider National Roadmap\n\n1. Identify & Test Technology\n\nBuild Capacity\nDevelop and expand PAM-Glider capacity at SWFSC and PIFSC including diversification of platforms and acoustic processors for diversification, to reduce risk, and to encourage competitive technological advancement.\n\n\nTesting\nField testing is occurring as new PAM-gliders are procured (updates). A multi-platform comparative sea trial is tentatively planned for FY26 and will provide a means of comparing the utility of various platforms to address different research questions and environmental conditions.\n\n\n\n2. Concurrent Glider/Ship Surveys\n\nUS West Coast CalCurCEAS\nPAM-Gliders may provide cost effective alternatives to seasonal shipboard surveys. We collaborated with Oregon State University to deploy three PAM-gliders off the coast of Oregon. This survey coincided with the periodic CalCurCEAS surveys (conducted once every 5 years) and will provide data to develop downstream methods to assess marine mammal stocks (see PAM-SI Stock Assessment Projects).\n\n\nHawaii HICEAS\nA similar survey will be conducted in early 2026, concurrent with the HICEAS survey in Hawaiian waters. This will serve as a proof of concept and provide critical comparative data for developing stock assessment models.\n\n\n\n3. Advanced Data Analysis\nData collected during the US West Coast surveys will be used by the PAM-SI Stock Assessment team to develop methods for using PAM Glider data for stock assessment models.\n\n\n4. Field Test Ecosystem Studies (UxS funded “Plankton to Whales”)\nThe “Plankton to Whales” (P2W) project is a collaborative project between the PAM-SI and the UxS (uncrewed systems) and Optics Strategic Initiatives. The P2W project transitions PAM-equipped gliders and Shadowgraph-equipped gliders to operational ecological surveys. P2W surveys will begin when after testing of these systems (as soon as summer 2025).\n\n\n5. Transition to Operations Plan –&gt; National Roadmap\nWe are updating developments through our PAM-Glider site and the results of each of these components will result in a Transition to Operations plan. In addition to serving as a research to operations plan for the US West Coast and Hawaii, it will serve as a National Strategy RoadMap for PAM-Glider operations.",
+    "crumbs": [
+      "PAM SI",
+      "PAM-Glider"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-Cloud-PACM.html",
+    "href": "content/SI coord/PAM_priority_projects/PAM-Cloud-PACM.html",
+    "title": "MAKARA Database & National PACM Decision Support Tool",
+    "section": "",
+    "text": "Team Leads (all NEFSC)\nSofie Van Parijs, Genevieve Davis, Jeff Walker\n\n\nGoal\nDevelop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends\n\n\nAccomplishments\n\n1. Migrated existing PACM web application from NEFSC on-prem server to Google Cloud Platform with help from NMFS ACIO\n Passive Acoustic Cetacean Map\n\n\n\n\n\n\n2. Finalized PostgreSQL database schema for storing passive acoustic detection data and associated metadata from multiple organizations\n\n\n\n\n\n\n\n3. Cleaned, transformed, merged all available legacy data from multiple sources into new schema using {targets} R package",
+    "crumbs": [
+      "PAM SI",
+      "PAM-Cloud-PACM"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-Soundscape.html",
+    "href": "content/SI coord/PAM_priority_projects/PAM-Soundscape.html",
+    "title": "PAM-Soundscapes",
+    "section": "",
+    "text": "More Information can be found on our PAM-Soundscapes site.",
+    "crumbs": [
+      "PAM SI",
+      "PAM-Soundscape"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-Soundscape.html#project-1-soundscape-metric-processing-and-archiving",
+    "href": "content/SI coord/PAM_priority_projects/PAM-Soundscape.html#project-1-soundscape-metric-processing-and-archiving",
+    "title": "PAM-Soundscapes",
+    "section": "Project 1: Soundscape Metric Processing and Archiving",
+    "text": "Project 1: Soundscape Metric Processing and Archiving\n\nGoal and Target Outcome\nWe will facilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generating decision support tools that integrate soundscape visualizations with multiple data types. This will allow for systematic identification, archival, and processing of soundscape metrics for priority PAM-SI datasets to build capacity and consistency across programs.\n\n\nSummary\n\n\nThis project will add soundscape metrics for priority PAM SI datasets alongside audio files and other metrics to the NCEI Passive Acoustics archive. The soundscape metrics will be used to develop and demonstrate soundscape interpretation and visualization tools being developed as part of the SI. The datasets will also facilitate comparison of data sampled by multiple recording technologies and projects that are unique to select FMCs. A technical guide for processing and archiving PAM data will also be prepared as part of this project. This project will work with PAM SI cloud computing projects to operationalize soundscape metric processing software in the cloud environment. Streamlining and documenting methods to process and archive soundscape metrics supports PAM SI objectives to advance PAM data analysis and integration approaches, and advance archival cloud capabilities.",
+    "crumbs": [
+      "PAM SI",
+      "PAM-Soundscape"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-Soundscape.html#project-2-soundscape-metric-interpretation-and-visualization",
+    "href": "content/SI coord/PAM_priority_projects/PAM-Soundscape.html#project-2-soundscape-metric-interpretation-and-visualization",
+    "title": "PAM-Soundscapes",
+    "section": "Project 2: Soundscape Metric Interpretation and Visualization",
+    "text": "Project 2: Soundscape Metric Interpretation and Visualization\n\nGoal and Target Outcome\nWe will create a set of soundscape metric interpretation open-source processing pathways and visualizations for cross-FMCs comparisons and FMCs-specific soundscape priorities.\n\n\nSummary\nThis project will build on existing tools in PAMscapes (R/CRAN) to create and document processing pathways for soundscape metric interpretation. NOAA Noise Reference Station soundscape metrics will be used to build the pathways and evaluate outputs. Additional soundscape metrics from PAM SI priority data sets will be incorporated based on availability from Soundscape Priority #1 Projects (above). We will create decision-support tools that are relevant at regional and national scales and integrate PAM data with variables to provide context for different soundscapes (environmental data, species-detections, etc).",
+    "crumbs": [
+      "PAM SI",
+      "PAM-Soundscape"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-NCEI.html",
+    "href": "content/SI coord/PAM_priority_projects/PAM-NCEI.html",
+    "title": "NCEI Archiving",
+    "section": "",
+    "text": "Carrie Wall Bell (NCEI), Jason Gedamke (OST)\n\n\n\nBuild efficient workflows to archive large volumes of NMFS PAM data and meet the projected data growth needs\n\n\n\nThe NCEI Passive Acoustic Data (PAD) Archive team will work collaboratively with each NMFS FMC to develop configurable tools that will facilitate FMCs to prepare numerous datasets in a more automated way for archiving at NCEI. This will allow this collective group to meet the PAM SI goal of archiving 900 TB of data in three years (Objective 3) and make significant progress towards meeting NOAA PARR requirements.\n\n\n\n\nSuccessfully archived 22TB of passive acoustic data. This volume will continue to rise as the team continues to ingest the packaged data.\nDeveloped a solid ingest process to handle mobile marine platforms.\nReleased a new PAM data packaging software, PACE, to support efficient data archiving of large datasets.\nInitiated the development of a cloud pipeline to efficiently ingest data and associated metadata from the PAM GCP to the NCEI Passive Acoustic Data Archive.",
+    "crumbs": [
+      "PAM SI",
+      "PAM-NCEI"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-NCEI.html#project-1-national-pam-archival-storage-ncei-archiving",
+    "href": "content/SI coord/PAM_priority_projects/PAM-NCEI.html#project-1-national-pam-archival-storage-ncei-archiving",
+    "title": "NCEI Archiving",
+    "section": "",
+    "text": "Carrie Wall Bell (NCEI), Jason Gedamke (OST)\n\n\n\nBuild efficient workflows to archive large volumes of NMFS PAM data and meet the projected data growth needs\n\n\n\nThe NCEI Passive Acoustic Data (PAD) Archive team will work collaboratively with each NMFS FMC to develop configurable tools that will facilitate FMCs to prepare numerous datasets in a more automated way for archiving at NCEI. This will allow this collective group to meet the PAM SI goal of archiving 900 TB of data in three years (Objective 3) and make significant progress towards meeting NOAA PARR requirements.\n\n\n\n\nSuccessfully archived 22TB of passive acoustic data. This volume will continue to rise as the team continues to ingest the packaged data.\nDeveloped a solid ingest process to handle mobile marine platforms.\nReleased a new PAM data packaging software, PACE, to support efficient data archiving of large datasets.\nInitiated the development of a cloud pipeline to efficiently ingest data and associated metadata from the PAM GCP to the NCEI Passive Acoustic Data Archive.",
+    "crumbs": [
+      "PAM SI",
+      "PAM-NCEI"
+    ]
+  },
+  {
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-NCEI.html#project-2-native-to-flac-conversion",
+    "href": "content/SI coord/PAM_priority_projects/PAM-NCEI.html#project-2-native-to-flac-conversion",
+    "title": "NCEI Archiving",
+    "section": "Project 2: Native to FLAC Conversion",
+    "text": "Project 2: Native to FLAC Conversion\nStoring and processing audio data as FLAC files, a lossless compression format for audio data, saves substantial storage space and processing time. Fully integrating FLAC files into the PAM processing and storage workflow would require additional investment beyond the current PAM SI funding to develop software to convert from native to FLAC and ensure that common processing softwares accept FLAC formats. The PAM SI team will leverage existing effort to make progress towards this project as possible, but it is currently unfunded.\n\nTarget outcome\nA more time-efficient workflow that omits steps in the file conversion process prior to archiving\n\n\nSummary\nThe goal of this effort will be to eliminate the time-consuming step of converting native audio files into wav and then into FLAC by creating a workflow that directly converts native files into a FLAC format. It will also make progress on ensuring FLAC files will be accepted inputs from some of the most commonly used processing software.\n\n\nAction Items\n\nConvert to FLAC: Develop processing pipeline to save native data formats to FLAC. This will include three sub tasks:\n\nEstablish a list of what the native file formats are that we want to evaluate going from native to FLAC.\nDetermine the level of effort to convert the formats listed in subtask 1 to FLAC and who will complete that work.\nCreate processing code to convert identified native file types to FLAC.\n\nProcess FLAC: Update common analysis software to read FLAC. This will include three sub tasks:\n\nEstablish a list of standard software to develop this capacity.\nDetermine what is needed to adjust the software list in subtask 1 to input FLAC files.\nIssue contract to complete the work identified in subtask 2.",
+    "crumbs": [
+      "PAM SI",
+      "PAM-NCEI"
+    ]
+  },
+  {
+    "objectID": "content/PublicationsPresentations.html",
+    "href": "content/PublicationsPresentations.html",
+    "title": "Publications and Presentations",
+    "section": "",
+    "text": "See below for information on publications by regional PAM group.\n\nSWFSC\n\nNWFSC\n\nSEFSC\n\nNEFSC\n\nPIFSC",
+    "crumbs": [
+      "Publications"
+    ]
+  },
+  {
+    "objectID": "content/SharedValues.html",
+    "href": "content/SharedValues.html",
+    "title": "Shared Values",
+    "section": "",
+    "text": "A shared values / lab culture page is optional but is highly recommended. Establishing these values as a team can help create a positive and inclusive environment, foster a shared vision, promote collaboration, and build team cohesion while supporting individual growth.\nSAEL example\nFaylab example"
   },
   {
     "objectID": "content/FieldMethods.html",
@@ -165,6 +295,53 @@
     "crumbs": [
       "Field Methods"
     ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lab Manual - National Passive Acoustic Monitoring Network",
+    "section": "",
+    "text": "NOAA Fisheries’ PAM programs collect underwater sound recordings of the marine environment. Identification of the sounds produced by protected marine mammal species, fishes, humans, or the environment allows for an understanding of marine soundscapes and provides information on changes in species distribution, behavior and/or density. The technological revolution in PAM over the past decade has allowed both acoustic recorders and analytical approaches to increasingly become an integral part of NOAA Fisheries core science mission. PAM’s capacity for creating long term time series makes it an ideal approach for evaluating changes in species stocks, ecosystem interactions, and climate change.\nThere are seven NOAA Fisheries PAM programs including each regional Science Center and the Office of Science & Technology’s Ocean Acoustic Program. This repository serves to enhance National PAM collaboration within NOAA Fisheries and our partners through a common GitHub structure. Each of the regional science centers is in the process of establishing a region specific landing page that mimics the structure of this National page.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#regional-national-marine-fisheries-lab-manuals",
+    "href": "index.html#regional-national-marine-fisheries-lab-manuals",
+    "title": "Lab Manual - National Passive Acoustic Monitoring Network",
+    "section": "Regional National Marine Fisheries Lab Manuals",
+    "text": "Regional National Marine Fisheries Lab Manuals\n\nNWFSC: Northwest Fisheries\nSWFSC: Southwest Fisheries\nPIFSC: Pacific Islands Fisheries\nNEFSC: Northeast Fisheries\nSEFSC: Southeast Fisheries\nAFSC: Alaska Fisheries",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#regional-national-marine-fisheries-locations",
+    "href": "index.html#regional-national-marine-fisheries-locations",
+    "title": "Lab Manual - National Passive Acoustic Monitoring Network",
+    "section": "Regional National Marine Fisheries locations",
+    "text": "Regional National Marine Fisheries locations\nMap of Regional Fishery Science Center Labs. Regions are designated by color (see legend) with each region’s primary science center indicated by square symbols.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "content/SoftwareAnalysis.html",
+    "href": "content/SoftwareAnalysis.html",
+    "title": "Software & Analysis Methods",
+    "section": "",
+    "text": "A software and analysis methods section is required and should include subpages for both topics (analysis methods can be a subsection with pages for different anaylsis methods topics).",
+    "crumbs": [
+      "Software & Analysis Methods"
+    ]
+  },
+  {
+    "objectID": "content/LabManagement.html",
+    "href": "content/LabManagement.html",
+    "title": "Lab Management",
+    "section": "",
+    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory\nHardware"
   },
   {
     "objectID": "content/SI coord/Openscapes.html",
@@ -195,22 +372,15 @@
     "text": "Notes\nAll meeting notes and Openscapes related documents will be accessible in the PAM SI Openscapes Google Drive Folder\nOpenscience discussions are hosted on SAEL’s Openscience Github repository. Access the discussion board here"
   },
   {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-Cloud-PACM.html",
-    "href": "content/SI coord/PAM_priority_projects/PAM-Cloud-PACM.html",
-    "title": "MAKARA Database & National PACM Decision Support Tool",
+    "objectID": "content/SI coord/PAM_priority_projects/PAM-Cloud.html",
+    "href": "content/SI coord/PAM_priority_projects/PAM-Cloud.html",
+    "title": "NMFS PAM Operational Cloud Storage and Processing",
     "section": "",
-    "text": "Team Leads (all NEFSC)\nSofie Van Parijs, Genevieve Davis, Jeff Walker\n\n\nGoal\nDevelop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends\n\n\nAccomplishments\n\n1. Migrated existing PACM web application from NEFSC on-prem server to Google Cloud Platform with help from NMFS ACIO\n Passive Acoustic Cetacean Map\n\n\n\n\n\n\n2. Finalized PostgreSQL database schema for storing passive acoustic detection data and associated metadata from multiple organizations\n\n\n\n\n\n\n\n3. Cleaned, transformed, merged all available legacy data from multiple sources into new schema using {targets} R package",
+    "text": "More Information and detailed documentation for cloud access can be found on our PAM Cloud site\n\nTeam Leads\nSofie Van Parijs (NEFSC), Dan Woodrich (AFSC), Becca VanHoeck (NEFSC)\n\n\nGoal\nDemonstrate a scalable and cost-effective cloud-based workflow - including data storage, processing, and archiving - to modernize PAM operations and support the NOAA Fisheries mission\n\n\n\nReport bug/issue in PAM windows workstation\n\nReport a bug\nBug Tracking",
     "crumbs": [
       "PAM SI",
-      "PAM-Cloud-PACM"
+      "PAM-Cloud"
     ]
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/Openscience Infosharing.html",
-    "href": "content/SI coord/PAM_priority_projects/Openscience Infosharing.html",
-    "title": "National PAM Coordination and Sharing",
-    "section": "",
-    "text": "Goal: Enhance National PAM collaboration among the regions by facilitating an open science culture and creating the infrastructure for information sharing on GitHub.\nTeam Leads: Becca Van Hoeck (NEFSC), Shannon Rankin (SWFSC)\nOpenscapes show and tell discussion board"
   },
   {
     "objectID": "content/SI coord/PAM_priority_projects/PAM-Stocks.html",
@@ -268,141 +438,6 @@
     ]
   },
   {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-Soundscape.html",
-    "href": "content/SI coord/PAM_priority_projects/PAM-Soundscape.html",
-    "title": "PAM-Soundscapes",
-    "section": "",
-    "text": "More Information can be found on our PAM-Soundscapes site.",
-    "crumbs": [
-      "PAM SI",
-      "PAM-Soundscape"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-Soundscape.html#project-1-soundscape-metric-processing-and-archiving",
-    "href": "content/SI coord/PAM_priority_projects/PAM-Soundscape.html#project-1-soundscape-metric-processing-and-archiving",
-    "title": "PAM-Soundscapes",
-    "section": "Project 1: Soundscape Metric Processing and Archiving",
-    "text": "Project 1: Soundscape Metric Processing and Archiving\n\nGoal and Target Outcome\nWe will facilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generating decision support tools that integrate soundscape visualizations with multiple data types. This will allow for systematic identification, archival, and processing of soundscape metrics for priority PAM-SI datasets to build capacity and consistency across programs.\n\n\nSummary\n\n\nThis project will add soundscape metrics for priority PAM SI datasets alongside audio files and other metrics to the NCEI Passive Acoustics archive. The soundscape metrics will be used to develop and demonstrate soundscape interpretation and visualization tools being developed as part of the SI. The datasets will also facilitate comparison of data sampled by multiple recording technologies and projects that are unique to select FMCs. A technical guide for processing and archiving PAM data will also be prepared as part of this project. This project will work with PAM SI cloud computing projects to operationalize soundscape metric processing software in the cloud environment. Streamlining and documenting methods to process and archive soundscape metrics supports PAM SI objectives to advance PAM data analysis and integration approaches, and advance archival cloud capabilities.",
-    "crumbs": [
-      "PAM SI",
-      "PAM-Soundscape"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-Soundscape.html#project-2-soundscape-metric-interpretation-and-visualization",
-    "href": "content/SI coord/PAM_priority_projects/PAM-Soundscape.html#project-2-soundscape-metric-interpretation-and-visualization",
-    "title": "PAM-Soundscapes",
-    "section": "Project 2: Soundscape Metric Interpretation and Visualization",
-    "text": "Project 2: Soundscape Metric Interpretation and Visualization\n\nGoal and Target Outcome\nWe will create a set of soundscape metric interpretation open-source processing pathways and visualizations for cross-FMCs comparisons and FMCs-specific soundscape priorities.\n\n\nSummary\nThis project will build on existing tools in PAMscapes (R/CRAN) to create and document processing pathways for soundscape metric interpretation. NOAA Noise Reference Station soundscape metrics will be used to build the pathways and evaluate outputs. Additional soundscape metrics from PAM SI priority data sets will be incorporated based on availability from Soundscape Priority #1 Projects (above). We will create decision-support tools that are relevant at regional and national scales and integrate PAM data with variables to provide context for different soundscapes (environmental data, species-detections, etc).",
-    "crumbs": [
-      "PAM SI",
-      "PAM-Soundscape"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/National Decision Support Tool.html",
-    "href": "content/SI coord/PAM_priority_projects/National Decision Support Tool.html",
-    "title": "NMFS PAM Google Cloud Project",
-    "section": "",
-    "text": "Team Leads (all NEFSC)\nSofie Van Parijs, Genevieve Davis, Jeff Walker\n\n\nGoal\nDevelop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends\n\n\nAccomplishments\n\n1. Migrated existing PACM web application from NEFSC on-prem server to Google Cloud Platform with help from NMFS ACIO\n Passive Acoustic Cetacean Map\n\n\n\n\n\n\n2. Finalized PostgreSQL database schema for storing passive acoustic detection data and associated metadata from multiple organizations\n\n\n\n\n\n\n\n3. Cleaned, transformed, merged all available legacy data from multiple sources into new schema using {targets} R package"
-  },
-  {
-    "objectID": "content/DataManagement.html",
-    "href": "content/DataManagement.html",
-    "title": "Data Management",
-    "section": "",
-    "text": "See below for our regional data management information.\n\nAFSC\n\nSWFSC\n\nNWFSC\n\nSEFSC\n\nNEFSC\n\nPIFSC",
-    "crumbs": [
-      "Data Management"
-    ]
-  },
-  {
-    "objectID": "content/Safety.html",
-    "href": "content/Safety.html",
-    "title": "Safety",
-    "section": "",
-    "text": "Include the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Lab Manual - National Passive Acoustic Monitoring Network",
-    "section": "",
-    "text": "NOAA Fisheries’ PAM programs collect underwater sound recordings of the marine environment. Identification of the sounds produced by protected marine mammal species, fishes, humans, or the environment allows for an understanding of marine soundscapes and provides information on changes in species distribution, behavior and/or density. The technological revolution in PAM over the past decade has allowed both acoustic recorders and analytical approaches to increasingly become an integral part of NOAA Fisheries core science mission. PAM’s capacity for creating long term time series makes it an ideal approach for evaluating changes in species stocks, ecosystem interactions, and climate change.\nThere are seven NOAA Fisheries PAM programs including each regional Science Center and the Office of Science & Technology’s Ocean Acoustic Program. This repository serves to enhance National PAM collaboration within NOAA Fisheries and our partners through a common GitHub structure. Each of the regional science centers is in the process of establishing a region specific landing page that mimics the structure of this National page.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#regional-national-marine-fisheries-lab-manuals",
-    "href": "index.html#regional-national-marine-fisheries-lab-manuals",
-    "title": "Lab Manual - National Passive Acoustic Monitoring Network",
-    "section": "Regional National Marine Fisheries Lab Manuals",
-    "text": "Regional National Marine Fisheries Lab Manuals\n\nNWFSC: Northwest Fisheries\nSWFSC: Southwest Fisheries\nPIFSC: Pacific Islands Fisheries\nNEFSC: Northeast Fisheries\nSEFSC: Southeast Fisheries\nAFSC: Alaska Fisheries",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#regional-national-marine-fisheries-locations",
-    "href": "index.html#regional-national-marine-fisheries-locations",
-    "title": "Lab Manual - National Passive Acoustic Monitoring Network",
-    "section": "Regional National Marine Fisheries locations",
-    "text": "Regional National Marine Fisheries locations\nMap of Regional Fishery Science Center Labs. Regions are designated by color (see legend) with each region’s primary science center indicated by square symbols.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "content/OpenScience.html",
-    "href": "content/OpenScience.html",
-    "title": "Open Science",
-    "section": "",
-    "text": "NOAA Fisheries PAM Teams are adopting and Open Science approach to research. We have created a stand-alone repository for Open Science Methods, and we encourage our colleagues to join us on this journey."
-  },
-  {
-    "objectID": "content/SI coord/SI_Coordination.html#overview",
-    "href": "content/SI coord/SI_Coordination.html#overview",
-    "title": "PAM Strategic Initiative Coordination",
-    "section": "Overview",
-    "text": "Overview\nThis page serves as a landing page to coordinate progress towards the Passive Acoustic Monitoring Strategic Initiative (PAM SI). Included below are important links to identify open action items, review priority project descriptions and working group meeting notes, as well as track progress and issues through GitHub projects.\nThe PAM SI Team has identified eight priority projects that combined work towards two overarching goals: (1) National Data & Analysis Integration and (2) Infrastructure Development & Efficiency. Progress towards these goals will implement transformational activities that will significantly change the way in which we collect, analyze, and make PAM data accessible for answering mission critical questions.",
-    "crumbs": [
-      "PAM SI"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/SI_Coordination.html#pam-si-workflow",
-    "href": "content/SI coord/SI_Coordination.html#pam-si-workflow",
-    "title": "PAM Strategic Initiative Coordination",
-    "section": "PAM SI Workflow",
-    "text": "PAM SI Workflow",
-    "crumbs": [
-      "PAM SI"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/SI_Coordination.html#important-links",
-    "href": "content/SI coord/SI_Coordination.html#important-links",
-    "title": "PAM Strategic Initiative Coordination",
-    "section": "Important Links",
-    "text": "Important Links\n\nPAM SI Active Action Items tracker\nMarch 2024 Workshop Report\nPAM SI Progress Dashboard\nGitHub Projects (* More details to come - this link will only work once you become a member of the NMFS OST GitHub Organization)\nPAM SI Projects Google Folder\nNotes from Bi-weekly SI Team Meetings",
-    "crumbs": [
-      "PAM SI"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-Cloud.html",
-    "href": "content/SI coord/PAM_priority_projects/PAM-Cloud.html",
-    "title": "NMFS PAM Operational Cloud Storage and Processing",
-    "section": "",
-    "text": "More Information and detailed documentation for cloud access can be found on our PAM Cloud site\n\nTeam Leads\nSofie Van Parijs (NEFSC), Dan Woodrich (AFSC), Becca VanHoeck (NEFSC)\n\n\nGoal\nDemonstrate a scalable and cost-effective cloud-based workflow - including data storage, processing, and archiving - to modernize PAM operations and support the NOAA Fisheries mission\n\n\n\nReport bug/issue in PAM windows workstation\n\nReport a bug\nBug Tracking",
-    "crumbs": [
-      "PAM SI",
-      "PAM-Cloud"
-    ]
-  },
-  {
     "objectID": "content/SI coord/PAM_priority_projects/PAM-OpenScience.html",
     "href": "content/SI coord/PAM_priority_projects/PAM-OpenScience.html",
     "title": "Open Science",
@@ -414,28 +449,6 @@
     ]
   },
   {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-Glider.html",
-    "href": "content/SI coord/PAM_priority_projects/PAM-Glider.html",
-    "title": "Accelerating Pacific-wide PAM-glider operations",
-    "section": "",
-    "text": "More Information can be found on our PAM-Glider site.",
-    "crumbs": [
-      "PAM SI",
-      "PAM-Glider"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-Glider.html#pam-glider-national-roadmap",
-    "href": "content/SI coord/PAM_priority_projects/PAM-Glider.html#pam-glider-national-roadmap",
-    "title": "Accelerating Pacific-wide PAM-glider operations",
-    "section": "PAM-Glider National Roadmap",
-    "text": "PAM-Glider National Roadmap\n\n1. Identify & Test Technology\n\nBuild Capacity\nDevelop and expand PAM-Glider capacity at SWFSC and PIFSC including diversification of platforms and acoustic processors for diversification, to reduce risk, and to encourage competitive technological advancement.\n\n\nTesting\nField testing is occurring as new PAM-gliders are procured (updates). A multi-platform comparative sea trial is tentatively planned for FY26 and will provide a means of comparing the utility of various platforms to address different research questions and environmental conditions.\n\n\n\n2. Concurrent Glider/Ship Surveys\n\nUS West Coast CalCurCEAS\nPAM-Gliders may provide cost effective alternatives to seasonal shipboard surveys. We collaborated with Oregon State University to deploy three PAM-gliders off the coast of Oregon. This survey coincided with the periodic CalCurCEAS surveys (conducted once every 5 years) and will provide data to develop downstream methods to assess marine mammal stocks (see PAM-SI Stock Assessment Projects).\n\n\nHawaii HICEAS\nA similar survey will be conducted in early 2026, concurrent with the HICEAS survey in Hawaiian waters. This will serve as a proof of concept and provide critical comparative data for developing stock assessment models.\n\n\n\n3. Advanced Data Analysis\nData collected during the US West Coast surveys will be used by the PAM-SI Stock Assessment team to develop methods for using PAM Glider data for stock assessment models.\n\n\n4. Field Test Ecosystem Studies (UxS funded “Plankton to Whales”)\nThe “Plankton to Whales” (P2W) project is a collaborative project between the PAM-SI and the UxS (uncrewed systems) and Optics Strategic Initiatives. The P2W project transitions PAM-equipped gliders and Shadowgraph-equipped gliders to operational ecological surveys. P2W surveys will begin when after testing of these systems (as soon as summer 2025).\n\n\n5. Transition to Operations Plan –&gt; National Roadmap\nWe are updating developments through our PAM-Glider site and the results of each of these components will result in a Transition to Operations plan. In addition to serving as a research to operations plan for the US West Coast and Hawaii, it will serve as a National Strategy RoadMap for PAM-Glider operations.",
-    "crumbs": [
-      "PAM SI",
-      "PAM-Glider"
-    ]
-  },
-  {
     "objectID": "content/SI coord/PAM_priority_projects/PAM GCP Technical System Documentation.html",
     "href": "content/SI coord/PAM_priority_projects/PAM GCP Technical System Documentation.html",
     "title": "NOAA quarto simple",
@@ -443,170 +456,11 @@
     "text": "PAM GCP Technical System Documentation\nOverview: Summary of key decisions, technical system set-up, and use expectations for using software applications in the PAM GCP. This document is an initial way to collaborate on developing the documentation and will be transitioned to the National PAM Network GitHub once folks have access.\nThe acoustics SI and project design philosophy:\nThe ggn-nmfs-pamdata-prod-1 (“pamdata”) GCP project is designed to encompass the requirements of the PAM SI, while best prioritizing the wants and needs of the end-users and use cases, and staying near best admin practices for NMFS OCIO GCP. The relevant objectives of the PAM acoustics SI include acoustic data storage across NMFS, and passive acoustic monitoring applications that generally feed from this data. The primary end-users of the system include data owners and users, and application owners, developers, and users.\nPermissions structure:\nA principle and role based structure was designed for project capabilities. By defining specific principle groups (project supervisor, application developer, etc) the project is resilient to changes in individual users. Roles are given to these principle groups- for example, the project supervisors principle group is given viewing roles for most of the resources in the project for their visibility.\nFor quick configuration and transparency during the dynamic early stages of the project, principle and role definitions are managed by a central “project admin” principle group via terraform. NMFS OCIO best practice recommends Terraform for more transparent project resource configuration and management, and this allows for simplicity and transparency.\nAlternatives: In the future, we may wish to delegate assignment of users to principle groups in a way that better resembles the true acoustics SI responsible parties (ie, supervisors can assign the project admin(s), data authorities can designate their respective data admin(s), etc). In the short term, this may result in too much unpredictability to the dynamic project.\nBelow are some of the currently defined principles for the project:\n\n\n\n\n\n\n\nPrinciple group name\nDefinition and roles\n\n\n\n\nProject admin\nHighest GCP admin role, controls project terraform (all principle, role, resource definitions)\n\n\nProject supervisors\nHighest SI role, has visibility across project resources, tells project admin what to do\n\n\nData authority\nResponsible party for a particular FMC data storage bucket\n\n\nData admin\nAdministrates the contents (write/delete) of a particular storage bucket\n\n\nApplication developer\nAccess to software development resources\n\n\n\nResources:\nThe pamdata project is expected to house PAM data from across NMFS, application development resources, and various applications (&lt;30) in various states of development. Sprawl is a serious threat, in particular since many end-users of the system (owners/authorities, supervisors, users) tend to understand the system through use of a web browser as opposed to filterable api calls. In other words, resource sprawl will lead to reduced understandability of the project across the PAM SI end users and is thus carefully considered.\nData resources:\nEach FMC has a distinct storage bucket for their data. This allows for some flexibility in data naming and easier isolation of permissions between FMCs. Principle groups that are designated here are data authorities (the data owner or responsible party, usually the PI of an FMC acoustics group), and the data admins (the technical users responsible for maintaining the contents of the storage bucket).\nThe browser allows for easy viewing of the storage buckets such that non-technical users can easily interpret the current state of the data across the NMFS FMCs. However, the tool cannot distinguish the FMC buckets from application buckets, and in order to maintain easy interpretability applications will be encouraged to consolidate to fewer buckets as appropriate. Currently, three additional buckets outside of the FMC data buckets exist: the terraform state bucket, an application intermediate bucket, and an application output bucket.\nDevelopment resources:\nThe following resources have been stood up for application development:\nHardened docker image/server: Based on NMFS hardened linux container and preloaded with docker. I developed an imagining pipeline for this, meaning it will be easy to keep up to date and we can make as many copies of this as developers need them. Developing on this instead of locally will be a little closer to cloud and streamlines and simplifies some assumptions. Please make sure any developers working on containers understand this option exists and the advantages in doing development here (hardware flexibility, more similar to production, built in permissions w/o key management, etc).\nDocker registry: This is where container images will be placed (whether we build or import them), and it is a key backbone of a variety of GCP container orchestration services.\nApplication storage buckets: There are two new storage buckets, pamdata-app-intermediates and pamdata-app-outputs. Some of the time applications will need their own specific tiering and lifecycle, but I wanted to start with just these two, especially for early development, given that they are visible along with the FMC data buckets and we tend to like to use the console as a browsing tool to keep track of these. Keeping it to two, and dividing permissions by prefix, will keep the bucket display from getting too muddied.\nNetworking: Created networks and subnets - one for application and development machines, which require ssh and NAT internet connectivity, and one for batch processing, which relies on only private google connectivity by default, but other connectivity can be added as a particular app might need."
   },
   {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-NCEI.html",
-    "href": "content/SI coord/PAM_priority_projects/PAM-NCEI.html",
-    "title": "NCEI Archiving",
+    "objectID": "content/SI coord/PAM_priority_projects/National Decision Support Tool.html",
+    "href": "content/SI coord/PAM_priority_projects/National Decision Support Tool.html",
+    "title": "NMFS PAM Google Cloud Project",
     "section": "",
-    "text": "Carrie Wall Bell (NCEI), Jason Gedamke (OST)\n\n\n\nBuild efficient workflows to archive large volumes of NMFS PAM data and meet the projected data growth needs\n\n\n\nThe NCEI Passive Acoustic Data (PAD) Archive team will work collaboratively with each NMFS FMC to develop configurable tools that will facilitate FMCs to prepare numerous datasets in a more automated way for archiving at NCEI. This will allow this collective group to meet the PAM SI goal of archiving 900 TB of data in three years (Objective 3) and make significant progress towards meeting NOAA PARR requirements.\n\n\n\n\nSuccessfully archived 22TB of passive acoustic data. This volume will continue to rise as the team continues to ingest the packaged data.\nDeveloped a solid ingest process to handle mobile marine platforms.\nReleased a new PAM data packaging software, PACE, to support efficient data archiving of large datasets.\nInitiated the development of a cloud pipeline to efficiently ingest data and associated metadata from the PAM GCP to the NCEI Passive Acoustic Data Archive.",
-    "crumbs": [
-      "PAM SI",
-      "PAM-NCEI"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-NCEI.html#project-1-national-pam-archival-storage-ncei-archiving",
-    "href": "content/SI coord/PAM_priority_projects/PAM-NCEI.html#project-1-national-pam-archival-storage-ncei-archiving",
-    "title": "NCEI Archiving",
-    "section": "",
-    "text": "Carrie Wall Bell (NCEI), Jason Gedamke (OST)\n\n\n\nBuild efficient workflows to archive large volumes of NMFS PAM data and meet the projected data growth needs\n\n\n\nThe NCEI Passive Acoustic Data (PAD) Archive team will work collaboratively with each NMFS FMC to develop configurable tools that will facilitate FMCs to prepare numerous datasets in a more automated way for archiving at NCEI. This will allow this collective group to meet the PAM SI goal of archiving 900 TB of data in three years (Objective 3) and make significant progress towards meeting NOAA PARR requirements.\n\n\n\n\nSuccessfully archived 22TB of passive acoustic data. This volume will continue to rise as the team continues to ingest the packaged data.\nDeveloped a solid ingest process to handle mobile marine platforms.\nReleased a new PAM data packaging software, PACE, to support efficient data archiving of large datasets.\nInitiated the development of a cloud pipeline to efficiently ingest data and associated metadata from the PAM GCP to the NCEI Passive Acoustic Data Archive.",
-    "crumbs": [
-      "PAM SI",
-      "PAM-NCEI"
-    ]
-  },
-  {
-    "objectID": "content/SI coord/PAM_priority_projects/PAM-NCEI.html#project-2-native-to-flac-conversion",
-    "href": "content/SI coord/PAM_priority_projects/PAM-NCEI.html#project-2-native-to-flac-conversion",
-    "title": "NCEI Archiving",
-    "section": "Project 2: Native to FLAC Conversion",
-    "text": "Project 2: Native to FLAC Conversion\nStoring and processing audio data as FLAC files, a lossless compression format for audio data, saves substantial storage space and processing time. Fully integrating FLAC files into the PAM processing and storage workflow would require additional investment beyond the current PAM SI funding to develop software to convert from native to FLAC and ensure that common processing softwares accept FLAC formats. The PAM SI team will leverage existing effort to make progress towards this project as possible, but it is currently unfunded.\n\nTarget outcome\nA more time-efficient workflow that omits steps in the file conversion process prior to archiving\n\n\nSummary\nThe goal of this effort will be to eliminate the time-consuming step of converting native audio files into wav and then into FLAC by creating a workflow that directly converts native files into a FLAC format. It will also make progress on ensuring FLAC files will be accepted inputs from some of the most commonly used processing software.\n\n\nAction Items\n\nConvert to FLAC: Develop processing pipeline to save native data formats to FLAC. This will include three sub tasks:\n\nEstablish a list of what the native file formats are that we want to evaluate going from native to FLAC.\nDetermine the level of effort to convert the formats listed in subtask 1 to FLAC and who will complete that work.\nCreate processing code to convert identified native file types to FLAC.\n\nProcess FLAC: Update common analysis software to read FLAC. This will include three sub tasks:\n\nEstablish a list of standard software to develop this capacity.\nDetermine what is needed to adjust the software list in subtask 1 to input FLAC files.\nIssue contract to complete the work identified in subtask 2.",
-    "crumbs": [
-      "PAM SI",
-      "PAM-NCEI"
-    ]
-  },
-  {
-    "objectID": "content/LabManagement.html",
-    "href": "content/LabManagement.html",
-    "title": "Lab Management",
-    "section": "",
-    "text": "A lab management section is required and should include the following information;\n\nSafety\nInventory\nHardware"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html",
-    "href": "content/NMFS_OpenSciDirections/Intro.html",
-    "title": "NOAA quarto simple with R",
-    "section": "",
-    "text": "This is a template for a simple Quarto website (type: website). It looks like a html book (type: book) but unlike the book type it only has html format and you will not have the download options. type: website is a common format for documentation.\nThe repo includes a GitHub Action that will build the website automatically when you make changes to the files. The webpage will use the gh-pages branch. Serving the website files from this branch is a common way to keep all the website files from cluttering your main branch.\nWarning: Check that the settings will allow the GitHub Action to run. See the instructions below under “GitHub Set-up”. Scroll down to the troubleshooting section if the website is not built by the GitHub Action.\nNote: The GitHub Action installs R so you can render qmd files with R code. You will need to edit to install Python or Julia if your qmd uses those instead. If you have substantial computations, you don’t want to be re-running all the computations for files that didn’t change. Read about the freeze option for this situation. R users with complex reports with dependencies (so qmd B depends on qmd A or data file A) should be aware of the {targets} package which will help you keep track of files that need to be re-rendered due to changes in dependencies.\n\n\n\nClick the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website\n\n\n\n\n\nEdit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml\n\n\n\n\nThe most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
-    "href": "content/NMFS_OpenSciDirections/Intro.html#github-set-up",
-    "title": "NOAA quarto simple with R",
-    "section": "",
-    "text": "Click the green “Use This Template” button to make a repository with this content. Make sure to make your repo public (since GitHub Pages doesn’t work on private repos unless you have a paid account) and check box to include all the branches (so that you get the gh-pages branch). \nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and root directory. \nAllow GitHub Actions under Settings &gt; Actions &gt; General \nAllow GitHub Actions to write to the gh-pages branch. Scroll to the bottom under Settings &gt; Actions &gt; General, and make sure “Read and Write” is selected. \nEdit the repo description and Readme to add a link to the webpage. When you edit the description, you will see the link url in the url box or you can click on the Actions tab or the Settings &gt; Pages page to find the url to the Quarto website"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html#customize",
-    "href": "content/NMFS_OpenSciDirections/Intro.html#customize",
-    "title": "NOAA quarto simple with R",
-    "section": "",
-    "text": "Edit the qmd or md files in the content folder. qmd files can include code (R, Python, Julia) and lots of Quarto markdown bells and whistles (like call-outs, cross-references, auto-citations and much more).\nAdd the files to _quarto.yml"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
-    "href": "content/NMFS_OpenSciDirections/Intro.html#troubleshooting-builds",
-    "title": "NOAA quarto simple with R",
-    "section": "",
-    "text": "The most common trouble users run into is that the book is not rendering. Check the following:\n\nThe gh-pages branch does not exist. If you forgot to check the check box to include all the branches when you created the repo from the template then it won’t exist. The Action will fail if the gh-pages branch does not already exist. You can create the branch and then push a change to main to trigger the Action to run again.\nThe GitHub Pages has not been set. You need to go to Pages under settings, and set Pages to build from the gh-pages branch.\nYou did not allow GitHub Actions to run and/or did not give read/write permission. Go to Settings &gt; Actions &gt; General, and make sure Actions are allowed (top section) and they have read/write permission (bottom section).\nYou did not push a change to the main branch. The Action is triggered by a push to main, so try making an edit to README.md and pushing that change."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html",
-    "href": "content/NMFS_OpenSciDirections/Getting-Started.html",
-    "title": "Getting Started",
-    "section": "",
-    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
-    "href": "content/NMFS_OpenSciDirections/Getting-Started.html#getting-started-in-open-science",
-    "title": "Getting Started",
-    "section": "",
-    "text": "Open Science is a movement to make scientific research (including publications, data, software) transparent and accessible so that knowledge is shared. Here we will provide steps to get started; in future sections we will provide additional details on specific tasks/projects\n\nEmbrace the Open Science Mindset! Learn more about this approach and why it matters at Openscapes.org and the Openscapes Approach Guide.\nAdd Software Tools\n\nGithub Desktop\nRStudio (v2022.07.2 build 576 or later)\nR\nCreate a Github Login\n\nCreate a Repository using one of the following examples:\n\nCreate a Repository from a Template\n\nPAM Lab Manual Template- scroll down & follow directions ‘How to use this template’\nConsider one of Eli Holme’s templates\n\nCreate a New (or test) Repository in Github (see help here)\n\nClone your Test Repository to your local computer using Github Desktop:\n\nFile -&gt; Clone Repository -&gt; URL\nCopy URL of your Test Repository on Github and save to your Documents -&gt; Github folder using the defaults. See Introduction to Git/Github tutorial for more help.\n\nOpen project in RStudio. In the upper right hand corner of RStudio, select ‘New Project’ in the drop-down menu to add a new R Project from an Existing Project. Browse to find the appropriate folder in Documents-&gt; Github. In the lower right section of RStudio, select ‘Files’ and you will see the README.md file, which appears on the home page on your Github repository site.\nModify the README.md file. Open this file and add text and possibly a link to this document. Save the file. If you are using the latest version of RStudio (with quarto), you can modify your file using the Source Code or the Visual Editor. This is an RMarkdown file, so you can use R markdown language, or, if you prefer, you can use the visual editor which is more user-friendly. If you copy/paste an existing document into the visual editor, much of the existing formatting will be retained.\nCommit & Push to Github. Open your project in Github Desktop; Github desktop will identify the changes you made (refresh if necessary). At the bottom left, describe the modifications you made to the document, and then select ‘commit’. Once the commit goes through– select ‘Push to Origin’ at the top. This will push changes to your Github repository.\nOpen your Github repository and check out the changes on your README at the bottom of the page!\nAdopt this process as your daily habit of working on your projects locally and saving your data to Github.\n\nFor more information, see:\nIntroduction to Git/Github Tutorial (Eli Holmes, NMFS)\nGit for Humans (Alice Bartlett)\nHappy Git with R (Jenny Bryan)"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html",
-    "href": "content/NMFS_OpenSciDirections/publishing.html",
-    "title": "Publishing",
-    "section": "",
-    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
-    "href": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
-    "title": "Publishing",
-    "section": "Turn on GitHub Pages for your repo",
-    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings &gt; Actions &gt; General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up"
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
-    "href": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
-    "title": "Publishing",
-    "section": "Do your first publish to gh-pages",
-    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
-    "href": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
-    "title": "Publishing",
-    "section": "Don’t like using gh-pages?",
-    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/acknowledgements.html",
-    "href": "content/NMFS_OpenSciDirections/acknowledgements.html",
-    "title": "Acknowledgments",
-    "section": "",
-    "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html",
-    "href": "content/NMFS_OpenSciDirections/rendering.html",
-    "title": "Rendering",
-    "section": "",
-    "text": "The repo includes a GitHub Action that will render (build) the website automatically when you make changes to the files. It will be pushed to the gh-pages branch.\nBut when you are developing your content, you will want to render it locally."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
-    "href": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
-    "title": "Rendering",
-    "section": "Step 1. Make sure you have a recent RStudio",
-    "text": "Step 1. Make sure you have a recent RStudio\nHave you updated RStudio since about August 2022? No? Then update to a newer version of RStudio. In general, you want to keep RStudio updated and it is required to have a recent version to use Quarto."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "href": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "title": "Rendering",
-    "section": "Step 2. Clone and create RStudio project",
-    "text": "Step 2. Clone and create RStudio project\nFirst, clone the repo onto your local computer. How? You can click File &gt; New Project and then select “Version Control”. Paste in the url of the repository. That will clone the repo on to your local computer. When you make changes, you will need to push those up."
-  },
-  {
-    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
-    "href": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
-    "title": "Rendering",
-    "section": "Step 3. Render within RStudio",
-    "text": "Step 3. Render within RStudio\nRStudio will recognize that this is a Quarto project by the presence of the _quarto.yml file and will see the “Build” tab. Click the “Render website” button to render to the _site folder.\nPreviewing: You can either click index.html in the _site folder and specify “preview in browser” or set up RStudio to preview to the viewer panel. To do the latter, go to Tools &gt; Global Options &gt; R Markdown. Then select “Show output preview in: Viewer panel”."
-  },
-  {
-    "objectID": "content/Inventory.html",
-    "href": "content/Inventory.html",
-    "title": "Inventory",
-    "section": "",
-    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example"
-  },
-  {
-    "objectID": "content/Resources.html",
-    "href": "content/Resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "This page is optional but can be a good spot for any remaining resources or tools you want easy access to."
-  },
-  {
-    "objectID": "content/Offboarding.html",
-    "href": "content/Offboarding.html",
-    "title": "Offboarding",
-    "section": "",
-    "text": "This page is optional but can be extremely beneficial when a member of your team is transitioning out of their current position. Things to include here are directions for project documentation, data and code storage/sharing, turning in equipment, etc.\nFaylab example"
+    "text": "Team Leads (all NEFSC)\nSofie Van Parijs, Genevieve Davis, Jeff Walker\n\n\nGoal\nDevelop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends\n\n\nAccomplishments\n\n1. Migrated existing PACM web application from NEFSC on-prem server to Google Cloud Platform with help from NMFS ACIO\n Passive Acoustic Cetacean Map\n\n\n\n\n\n\n2. Finalized PostgreSQL database schema for storing passive acoustic detection data and associated metadata from multiple organizations\n\n\n\n\n\n\n\n3. Cleaned, transformed, merged all available legacy data from multiple sources into new schema using {targets} R package"
   },
   {
     "objectID": "content/Hardware.html",
@@ -689,10 +543,156 @@
     ]
   },
   {
-    "objectID": "content/Onboarding.html",
-    "href": "content/Onboarding.html",
-    "title": "Onboarding",
+    "objectID": "content/Reporting.html",
+    "href": "content/Reporting.html",
+    "title": "Reporting",
     "section": "",
-    "text": "This page is optional but can be used as a landing page for new lab members. You can include introductory information, links to must read papers, new hire resources, goal setting information, etc.\nFaylab example"
+    "text": "See below for information on each regional PAM group’s reporting both within NOAA and to other agencies.\n\nAFSC\n\nSWFSC\n\nNWFSC\n\nSEFSC\n\nNEFSC\n\nPIFSC",
+    "crumbs": [
+      "Reporting"
+    ]
+  },
+  {
+    "objectID": "content/DataManagement.html",
+    "href": "content/DataManagement.html",
+    "title": "Data Management",
+    "section": "",
+    "text": "See below for our regional data management information.\n\nAFSC\n\nSWFSC\n\nNWFSC\n\nSEFSC\n\nNEFSC\n\nPIFSC",
+    "crumbs": [
+      "Data Management"
+    ]
+  },
+  {
+    "objectID": "content/Inventory.html",
+    "href": "content/Inventory.html",
+    "title": "Inventory",
+    "section": "",
+    "text": "An inventory page is highly recommended to keep track of equipment, loans, and gear beingin the field. This can be a link to a Google sheet or embedded in the website\n\nSAEL Lab Example"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html",
+    "href": "content/NMFS_OpenSciDirections/rmarkdown.html",
+    "title": "R Markdown",
+    "section": "",
+    "text": "You can include R Markdown files in your project."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
+    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#r-markdown",
+    "title": "R Markdown",
+    "section": "R Markdown",
+    "text": "R Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\nsummary(cars)\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
+    "href": "content/NMFS_OpenSciDirections/rmarkdown.html#including-plots",
+    "title": "R Markdown",
+    "section": "Including Plots",
+    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html",
+    "href": "content/NMFS_OpenSciDirections/publishing.html",
+    "title": "Publishing",
+    "section": "",
+    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
+    "href": "content/NMFS_OpenSciDirections/publishing.html#turn-on-github-pages-for-your-repo",
+    "title": "Publishing",
+    "section": "Turn on GitHub Pages for your repo",
+    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings &gt; Actions &gt; General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up"
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
+    "href": "content/NMFS_OpenSciDirections/publishing.html#do-your-first-publish-to-gh-pages",
+    "title": "Publishing",
+    "section": "Do your first publish to gh-pages",
+    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
+    "href": "content/NMFS_OpenSciDirections/publishing.html#dont-like-using-gh-pages",
+    "title": "Publishing",
+    "section": "Don’t like using gh-pages?",
+    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html",
+    "href": "content/NMFS_OpenSciDirections/rendering.html",
+    "title": "Rendering",
+    "section": "",
+    "text": "The repo includes a GitHub Action that will render (build) the website automatically when you make changes to the files. It will be pushed to the gh-pages branch.\nBut when you are developing your content, you will want to render it locally."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
+    "href": "content/NMFS_OpenSciDirections/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
+    "title": "Rendering",
+    "section": "Step 1. Make sure you have a recent RStudio",
+    "text": "Step 1. Make sure you have a recent RStudio\nHave you updated RStudio since about August 2022? No? Then update to a newer version of RStudio. In general, you want to keep RStudio updated and it is required to have a recent version to use Quarto."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
+    "href": "content/NMFS_OpenSciDirections/rendering.html#step-2.-clone-and-create-rstudio-project",
+    "title": "Rendering",
+    "section": "Step 2. Clone and create RStudio project",
+    "text": "Step 2. Clone and create RStudio project\nFirst, clone the repo onto your local computer. How? You can click File &gt; New Project and then select “Version Control”. Paste in the url of the repository. That will clone the repo on to your local computer. When you make changes, you will need to push those up."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
+    "href": "content/NMFS_OpenSciDirections/rendering.html#step-3.-render-within-rstudio",
+    "title": "Rendering",
+    "section": "Step 3. Render within RStudio",
+    "text": "Step 3. Render within RStudio\nRStudio will recognize that this is a Quarto project by the presence of the _quarto.yml file and will see the “Build” tab. Click the “Render website” button to render to the _site folder.\nPreviewing: You can either click index.html in the _site folder and specify “preview in browser” or set up RStudio to preview to the viewer panel. To do the latter, go to Tools &gt; Global Options &gt; R Markdown. Then select “Show output preview in: Viewer panel”."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html",
+    "href": "content/NMFS_OpenSciDirections/add-content.html",
+    "title": "Customize Content",
+    "section": "",
+    "text": "You can customize your content by (1) Modifying existing content, or (2) creating your own content. For examples, we will assume a folder structure such as that in the PAM Template Lab Manual."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html#modify-existing-content",
+    "href": "content/NMFS_OpenSciDirections/add-content.html#modify-existing-content",
+    "title": "Customize Content",
+    "section": "Modify Existing Content",
+    "text": "Modify Existing Content\nHere are basic instructions for modifying existing content, such as the example pages provided in the PAM Template Lab Manual: 1) Ensure that you have cloned the Github Repository using Github Desktop, and that you have created an RStudio project, following directions outlined here.\n\nOpen your RStudio project (here we will assume it is a clone of the PAM Template Lab Manual), and navigate to the ‘content’ folder (lower right hand side of RStudio, Files Tab). As an example, we will change the “/content/Hardware.qmd” file. First, read the information in the page to understand the intended content. To start, we will organize different subheadings within this page.\nIdentify Sub-Headings. In this example, we will want to identify different types of Hardware used by our particular lab. In this example, we will want the following categories: “PAM Gliders”, “Drifting Recorders”, “Towed Arrays”, and “Handheld Hydrophones”.\n\nUsing the Source editor, use # to indicate Heading 1 style, ## for Heading 2 Style, etc.\nUsing the Visual editor, use the dropdown menu to select the Heading Style\n\nAdd Content. Most content will consist of text, with some images, hyperlinks, and occasional tables. To start, we recommend identifying the content you would like to put in there, and identify the Point of Contact (POC). As an example, we may put the following text:\nPOC: Jane Doe. General description of Hardware, links to online content (vendor specification page, relevant online content), instructions for build or maintain hardware (or links to that information), links to inventory, etc.\nOnce your outline is developed, fill in the content. IF someone else will collate the content– they can create it in a separate document to be copied/pasted here, or they can directly modify this page.\nIf you find you need separate pages for each sub-heading (instead of one long subheading), then create New Content, and link the new content to the _quarto.yml.\nWhen you are finished modifying your document and Project, push changes to Github using Github Desktop (see instructions here)."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html#create-new-content",
+    "href": "content/NMFS_OpenSciDirections/add-content.html#create-new-content",
+    "title": "Customize Content",
+    "section": "Create New Content",
+    "text": "Create New Content\nAgain, assuming you have an RStudio project for your Github Repository, such as the example provided in the PAM Template Lab Manual: 1) Ensure that you have cloned the Github Repository using Github Desktop, and that you have created an RStudio project, following directions outlined here.\n\nOpen your RStudio project (here we will assume it is a clone of the PAM Template Lab Manual), and navigate to the ‘content’ folder (lower right hand side of RStudio, Files Tab). Select New Blank File, and in the drop-down, select Quarto Document. Then give your file a logical and descriptive name.\n\nUsing the Source editor, create a title header with the text you would like as your primary Header for this page (will appear as Header 1).\n\nAdd content below the header section, using either the Source or Visual editor in RStudio.\nAdd your new content to the _quarto.yml\nWhen you are finished modifying your document and Project, push changes to Github using Github Desktop (see instructions here)."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html#examples",
+    "href": "content/NMFS_OpenSciDirections/add-content.html#examples",
+    "title": "Customize Content",
+    "section": "Examples",
+    "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFaye lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory."
+  },
+  {
+    "objectID": "content/NMFS_OpenSciDirections/add-content.html#resources",
+    "href": "content/NMFS_OpenSciDirections/add-content.html#resources",
+    "title": "Customize Content",
+    "section": "Resources",
+    "text": "Resources\n\nQuarto documentation."
+  },
+  {
+    "objectID": "content/Resources.html",
+    "href": "content/Resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This page is optional but can be a good spot for any remaining resources or tools you want easy access to."
+  },
+  {
+    "objectID": "content/Safety.html",
+    "href": "content/Safety.html",
+    "title": "Safety",
+    "section": "",
+    "text": "Include the following information on this page\n\nLab safety\nField safety\nLink to your centers safety website\nIncident reporting directions\nChemical inventory (if applicable)\nLithium battery safety\n\nThis is an essential section to include if your lab uses these. Work with your lab safety manager to develop handling and storage instructions. See SAEL lab manual lithium battery page\n\nSAEL Lab Example & Glider Lab Manual"
   }
 ]
