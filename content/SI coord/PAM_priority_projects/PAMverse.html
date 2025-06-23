@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Accelerating Pacific-wide PAM-glider operations – NOAA quarto simple</title>
+<title>PAMverse – NOAA quarto simple</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,6 +20,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -29,8 +64,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
-<link href="../../../content/SI coord/PAM_priority_projects/PAM-NCEI.html" rel="next">
-<link href="../../../content/SI coord/PAM_priority_projects/PAM-Cloud-PACM.html" rel="prev">
+<link href="../../../content/FieldMethods.html" rel="next">
+<link href="../../../content/SI coord/PAM_priority_projects/PAM-Stocks.html" rel="prev">
 <link href="../../../images/favicon.ico" rel="icon">
 <script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -248,7 +283,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../content/SI coord/SI_Coordination.html">PAM SI</a></li><li class="breadcrumb-item"><a href="../../../content/SI coord/PAM_priority_projects/PAM-Glider.html">PAM-Glider</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../content/SI coord/SI_Coordination.html">PAM SI</a></li><li class="breadcrumb-item"><a href="../../../content/SI coord/PAM_priority_projects/PAMverse.html">PAMverse</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -319,7 +354,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../content/SI coord/PAM_priority_projects/PAM-Glider.html" class="sidebar-item-text sidebar-link active">
+  <a href="../../../content/SI coord/PAM_priority_projects/PAM-Glider.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">PAM-Glider</span></a>
   </div>
 </li>
@@ -343,7 +378,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../../../content/SI coord/PAM_priority_projects/PAMverse.html" class="sidebar-item-text sidebar-link">
+  <a href="../../../content/SI coord/PAM_priority_projects/PAMverse.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">PAMverse</span></a>
   </div>
 </li>
@@ -412,26 +447,19 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#team-leads" id="toc-team-leads" class="nav-link active" data-scroll-target="#team-leads">Team Leads</a></li>
-  <li><a href="#goal" id="toc-goal" class="nav-link" data-scroll-target="#goal">Goal</a></li>
-  <li><a href="#pam-glider-national-roadmap" id="toc-pam-glider-national-roadmap" class="nav-link" data-scroll-target="#pam-glider-national-roadmap">PAM-Glider National Roadmap</a>
-  <ul class="collapse">
-  <li><a href="#identify-test-technology" id="toc-identify-test-technology" class="nav-link" data-scroll-target="#identify-test-technology">1. Identify &amp; Test Technology</a></li>
-  <li><a href="#concurrent-glidership-surveys" id="toc-concurrent-glidership-surveys" class="nav-link" data-scroll-target="#concurrent-glidership-surveys">2. Concurrent Glider/Ship Surveys</a></li>
-  <li><a href="#advanced-data-analysis" id="toc-advanced-data-analysis" class="nav-link" data-scroll-target="#advanced-data-analysis">3. Advanced Data Analysis</a></li>
-  <li><a href="#field-test-ecosystem-studies-uxs-funded-plankton-to-whales" id="toc-field-test-ecosystem-studies-uxs-funded-plankton-to-whales" class="nav-link" data-scroll-target="#field-test-ecosystem-studies-uxs-funded-plankton-to-whales">4. Field Test Ecosystem Studies (UxS funded “Plankton to Whales”)</a></li>
-  <li><a href="#transition-to-operations-plan-national-roadmap" id="toc-transition-to-operations-plan-national-roadmap" class="nav-link" data-scroll-target="#transition-to-operations-plan-national-roadmap">5. Transition to Operations Plan –&gt; National Roadmap</a></li>
-  </ul></li>
+  <li><a href="#integration-with-other-pam-si-developments" id="toc-integration-with-other-pam-si-developments" class="nav-link active" data-scroll-target="#integration-with-other-pam-si-developments">Integration with other PAM SI developments</a></li>
+  <li><a href="#installing-pamverse-packages" id="toc-installing-pamverse-packages" class="nav-link" data-scroll-target="#installing-pamverse-packages">Installing PAMverse packages</a></li>
+  <li><a href="#pamverse-demo" id="toc-pamverse-demo" class="nav-link" data-scroll-target="#pamverse-demo">PAMverse Demo</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/nmfs-ost/PAM_National_Network/edit/main/content/SI coord/PAM_priority_projects/PAM-Glider.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/nmfs-ost/PAM_National_Network/blob/main/content/SI coord/PAM_priority_projects/PAM-Glider.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/nmfs-ost/PAM_National_Network/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/nmfs-ost/PAM_National_Network/edit/main/content/SI coord/PAM_priority_projects/PAMverse.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/nmfs-ost/PAM_National_Network/blob/main/content/SI coord/PAM_priority_projects/PAMverse.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/nmfs-ost/PAM_National_Network/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../content/SI coord/SI_Coordination.html">PAM SI</a></li><li class="breadcrumb-item"><a href="../../../content/SI coord/PAM_priority_projects/PAM-Glider.html">PAM-Glider</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../content/SI coord/SI_Coordination.html">PAM SI</a></li><li class="breadcrumb-item"><a href="../../../content/SI coord/PAM_priority_projects/PAMverse.html">PAMverse</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Accelerating Pacific-wide PAM-glider operations</h1>
+<h1 class="title">PAMverse</h1>
 </div>
 
 
@@ -448,54 +476,49 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><img src="../../../content/images/PAMplatforms_gliders.png" class="img-fluid" width="365"></p>
-<p><em>More information can be found on our <a href="https://nmfs-ost.github.io/PAM-Glider/content/transitionPlan.html">PAM-Glider site</a>.</em></p>
-<section id="team-leads" class="level3">
-<h3 class="anchored" data-anchor-id="team-leads">Team Leads</h3>
-<p>Erin Oleson (PIFSC), Shannon Rankin (SWFSC)</p>
+<p><em>More information can be found on our <a href="https://nmfs-ost.github.io/PAMverse/">PAMverse site</a>.</em></p>
+<p>The PAMverse is a collection of open source R packages developed by Taiki Sakai to facilitate the analysis of passive acoustic data and the creation of standardized data products that summarize large datasets. Focal areas include a QA/QC tool, soundscape visualizations, acoustic detection summaries, and integration of multiple data types. Many of the PAMverse tools use Shiny apps as an easy way to explore possible figures, experiment with different plot settings, access code chunks to seamlessly customize a figure to your needs, or annotate data quality.</p>
+<div class="columns">
+<div class="column" style="width:15%;">
+
+</div><div class="column" style="width:70%;">
+<p><img src="../../../content/images/Priority_project_graphics/PAMverse/PAMverse.triangle.png" class="img-fluid"></p>
+</div><div class="column" style="width:15%;">
+
+</div>
+</div>
+<p>The PAMverse consists of three R packages:</p>
+<ul>
+<li><a href="https://github.com/TaikiSan21/PAMscapes">PAMscapes</a>: Functionality includes the QAQC tools as well as the analytical and visualization functions for soundscapes, acoustic detections, and integrative products. Most of the recent developments from the PAM SI are included here.</li>
+<li><a href="https://github.com/TaikiSan21/PAMmisc">PAMmisc</a>: A collection of helper functions that support the other packages including loading environmental data that aligns with a given dataset.</li>
+<li><a href="https://github.com/TaikiSan21/PAMpal">PAMpal</a>: A collection of functions that work directly with PAMGuard data.</li>
+</ul>
+<section id="integration-with-other-pam-si-developments" class="level1">
+<h1>Integration with other PAM SI developments</h1>
+<p>The overarching goal of the PAM SI is to create a standardized, cloud-based, and open source workflow for the analysis of passive acoustic data. The PAMverse provides the standardized and open source data products that can be used in conservation and management contexts as a decision support tool.</p>
+<p>While PAMverse tools provide as much flexibility to the users as possible, using these tools in tandem with other PAM SI developments provides the most seamless user experience. For example, detection data exported from the Makara database will be automatically formatted in a way to seamlessly use as inputs to PAMverse functions for plot generation. Datasets not exported from Makara are still functional with these tools, but may require some reformatting.</p>
+<p><img src="../../../content/images/Priority_project_graphics/PAMverse/Cloud.analysis.png" class="img-fluid"></p>
 </section>
-<section id="goal" class="level3">
-<h3 class="anchored" data-anchor-id="goal">Goal</h3>
-<p>Develop a Research to Operations plan intended to serve all regions to integrate PAM gliders into assessment missions, reducing ship-time needs.</p>
+<section id="installing-pamverse-packages" class="level1">
+<h1>Installing PAMverse packages</h1>
+<p>All PAMverse packages are available on CRAN, and can be easily installed with <code>install.packages</code>:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"PAMmisc"</span>)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"PAMpal"</span>)</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"PAMscapes"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>However, many are under very active development, so in order to access the most up-to-date version it may be necessary to install them directly from GitHub. This does generally require that you have also installed the appropriate version of <a href="https://cran.r-project.org/bin/windows/Rtools/">Rtools</a> for your version of R, and can be prone to more errors (especially on computers with strict IT regulations). Installation can either be done with <code>devtools::install_github</code> or <code>pak::pkg_install</code>, with the <code>pak</code> option typically being more reliable (this does mean you will have to additionally install <code>pak</code> from CRAN):</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>pak<span class="sc">::</span><span class="fu">pkg_install</span>(<span class="st">"TaikiSan21/PAMmisc"</span>)</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>pak<span class="sc">::</span><span class="fu">pkg_install</span>(<span class="st">"TaikiSan21/PAMpal"</span>)</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>pak<span class="sc">::</span><span class="fu">pkg_install</span>(<span class="st">"TaikiSan21/PAMscapes"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
 </section>
-<section id="pam-glider-national-roadmap" class="level2">
-<h2 class="anchored" data-anchor-id="pam-glider-national-roadmap">PAM-Glider National Roadmap</h2>
-<section id="identify-test-technology" class="level3">
-<h3 class="anchored" data-anchor-id="identify-test-technology">1. Identify &amp; Test Technology</h3>
-<section id="build-capacity" class="level4">
-<h4 class="anchored" data-anchor-id="build-capacity"><em>Build Capacity</em></h4>
-<p>Develop and expand PAM-Glider capacity at SWFSC and PIFSC including diversification of platforms and acoustic processors for diversification, to reduce risk, and to encourage competitive technological advancement.</p>
-</section>
-<section id="testing" class="level4">
-<h4 class="anchored" data-anchor-id="testing"><em>Testing</em></h4>
-<p>Field testing is occurring as new PAM-gliders are procured (<a href="https://nmfs-ost.github.io/PAM-Glider/content/gliderRodeo.html">updates</a>). A multi-platform comparative sea trial is tentatively planned for FY26 and will provide a means of comparing the utility of various platforms to address different research questions and environmental conditions.</p>
-</section>
-</section>
-<section id="concurrent-glidership-surveys" class="level3">
-<h3 class="anchored" data-anchor-id="concurrent-glidership-surveys">2. Concurrent Glider/Ship Surveys</h3>
-<section id="us-west-coast-calcurceas" class="level4">
-<h4 class="anchored" data-anchor-id="us-west-coast-calcurceas"><em>US West Coast CalCurCEAS</em></h4>
-<p>PAM-Gliders may provide cost effective alternatives to seasonal shipboard surveys. We collaborated with Oregon State University to deploy three PAM-gliders off the coast of Oregon. This survey coincided with the periodic CalCurCEAS surveys (conducted once every 5 years) and will provide data to develop downstream methods to assess marine mammal stocks (see <a href="https://nmfs-ost.github.io/PAM_National_Network/content/SI%20coord/PAM_priority_projects/Stock_projects/Project_1.html">PAM-SI Stock Assessment Projects</a>).</p>
-</section>
-<section id="hawaii-hiceas" class="level4">
-<h4 class="anchored" data-anchor-id="hawaii-hiceas"><em>Hawaii HICEAS</em></h4>
-<p>A similar survey will be conducted in early 2026, concurrent with the HICEAS survey in Hawaiian waters. This will serve as a proof of concept and provide critical comparative data for developing stock assessment models.</p>
-</section>
-</section>
-<section id="advanced-data-analysis" class="level3">
-<h3 class="anchored" data-anchor-id="advanced-data-analysis">3. Advanced Data Analysis</h3>
-<p>Data collected during the US West Coast surveys will be used by the PAM-SI Stock Assessment team to develop methods for using PAM Glider data for stock assessment models.</p>
-</section>
-<section id="field-test-ecosystem-studies-uxs-funded-plankton-to-whales" class="level3">
-<h3 class="anchored" data-anchor-id="field-test-ecosystem-studies-uxs-funded-plankton-to-whales">4. Field Test Ecosystem Studies (UxS funded “Plankton to Whales”)</h3>
-<p>The “Plankton to Whales” (P2W) project is a collaborative project between the PAM-SI and the UxS (uncrewed systems) and Optics Strategic Initiatives. The P2W project transitions PAM-equipped gliders and Shadowgraph-equipped gliders to operational ecological surveys. P2W surveys will begin when after testing of these systems (as soon as summer 2025).</p>
-</section>
-<section id="transition-to-operations-plan-national-roadmap" class="level3">
-<h3 class="anchored" data-anchor-id="transition-to-operations-plan-national-roadmap">5. Transition to Operations Plan –&gt; National Roadmap</h3>
-<p>We are updating developments through our <a href="https://nmfs-ost.github.io/PAM-Glider/">PAM-Glider site</a> and the results of each of these components will result in a <a href="https://nmfs-ost.github.io/PAM-Glider/content/transitionPlan.html">Transition to Operations</a> plan. In addition to serving as a research to operations plan for the US West Coast and Hawaii, it will serve as a National Strategy RoadMap for PAM-Glider operations.</p>
+<section id="pamverse-demo" class="level1">
+<h1>PAMverse Demo</h1>
+<p>The most recent PAMverse demo (PAMverse_Demo_20250613) can be found in <a href="https://drive.google.com/drive/folders/13SXdQFlfSZIIAsJyFrEAsOnSrZZ-U0Ra?usp=drive_link">this folder</a>. It covers the basic usage of the current QAQC, Soundscape, Acoustic Detection, and Integration capabilities in the <code>PAMscapes</code> and <code>PAMmisc</code> packages.</p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -913,13 +936,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../../content/SI coord/PAM_priority_projects/PAM-Cloud-PACM.html" class="pagination-link" aria-label="PAM-Cloud-PACM">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">PAM-Cloud-PACM</span>
+      <a href="../../../content/SI coord/PAM_priority_projects/PAM-Stocks.html" class="pagination-link" aria-label="PAM-Stocks">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">PAM-Stocks</span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../../content/SI coord/PAM_priority_projects/PAM-NCEI.html" class="pagination-link" aria-label="PAM-NCEI">
-        <span class="nav-page-text">PAM-NCEI</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../../content/FieldMethods.html" class="pagination-link" aria-label="Field Methods">
+        <span class="nav-page-text">Field Methods</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -931,7 +954,7 @@ ul.task-list li input[type="checkbox"] {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/nmfs-ost/PAM_National_Network/edit/main/content/SI coord/PAM_priority_projects/PAM-Glider.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/nmfs-ost/PAM_National_Network/blob/main/content/SI coord/PAM_priority_projects/PAM-Glider.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/nmfs-ost/PAM_National_Network/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/nmfs-ost/PAM_National_Network/edit/main/content/SI coord/PAM_priority_projects/PAMverse.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/nmfs-ost/PAM_National_Network/blob/main/content/SI coord/PAM_priority_projects/PAMverse.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/nmfs-ost/PAM_National_Network/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
