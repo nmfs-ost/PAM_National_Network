@@ -1,0 +1,51 @@
+---
+title: "PAMverse"
+format: html
+---
+*More information can be found on our [PAMverse site](https://nmfs-ost.github.io/PAMverse/).*
+
+
+The PAMverse is a collection of open source R packages developed by Taiki Sakai to facilitate the analysis of passive acoustic data and the creation of standardized data products that summarize large datasets. Focal areas include a QA/QC tool, soundscape visualizations, acoustic detection summaries, and integration of multiple data types. Many of the PAMverse tools use Shiny apps as an easy way to explore possible figures, experiment with different plot settings, access code chunks to seamlessly customize a figure to your needs, or annotate data quality. 
+
+::::: columns
+::: {.column width="15%"}
+
+:::
+::: {.column width="70%"}
+![](/content/images/Priority_project_graphics/PAMverse/PAMverse.triangle.png)
+:::
+::: {.column width="15%"}
+
+:::
+:::::
+
+
+The PAMverse consists of three R packages: 
+
+  * [PAMscapes](https://github.com/TaikiSan21/PAMscapes): Functionality includes the QAQC tools as well as the analytical and visualization functions for soundscapes, acoustic detections, and integrative products. Most of the recent developments from the PAM SI are included here. 
+  * [PAMmisc](https://github.com/TaikiSan21/PAMmisc): A collection of helper functions that support the other packages including loading environmental data that aligns with a given dataset. 
+  * [PAMpal](https://github.com/TaikiSan21/PAMpal): A collection of functions that work directly with PAMGuard data.
+
+# Integration with other PAM SI developments
+The overarching goal of the PAM SI is to create a standardized, cloud-based, and open source workflow for the analysis of passive acoustic data. The PAMverse provides the standardized and open source data products that can be used in conservation and management contexts as a decision support tool. 
+
+While PAMverse tools provide as much flexibility to the users as possible, using these tools in tandem with other PAM SI developments provides the most seamless user experience. For example, detection data exported from the Makara database will be automatically formatted in a way to seamlessly use as inputs to PAMverse functions for plot generation. Datasets not exported from Makara are still functional with these tools, but may require some reformatting. 
+
+![](/content/images/Priority_project_graphics/PAMverse/Cloud.analysis.png)
+
+# Installing PAMverse packages
+All PAMverse packages are available on CRAN, and can be easily installed with `install.packages`:
+```{r, eval=FALSE}
+install.packages("PAMmisc")
+install.packages("PAMpal")
+install.packages("PAMscapes")
+```
+However, many are under very active development, so in order to access the most up-to-date version it may be necessary to install them directly from GitHub. This does generally require that you have also installed the appropriate version of [Rtools](https://cran.r-project.org/bin/windows/Rtools/) for your version of R, and can be prone to more errors (especially on computers with strict IT regulations). Installation can either be done with `devtools::install_github` or `pak::pkg_install`, with the `pak` option typically being more reliable (this does mean you will have to additionally install `pak` from CRAN):
+```{r, eval=FALSE}
+pak::pkg_install("TaikiSan21/PAMmisc")
+pak::pkg_install("TaikiSan21/PAMpal")
+pak::pkg_install("TaikiSan21/PAMscapes")
+```
+
+# PAMverse Demo
+The most recent PAMverse demo (PAMverse_Demo_20250613) can be found in [this folder](https://drive.google.com/drive/folders/13SXdQFlfSZIIAsJyFrEAsOnSrZZ-U0Ra?usp=drive_link). It covers the basic usage of the current QAQC, Soundscape, Acoustic Detection, and Integration capabilities in the `PAMscapes` and `PAMmisc` packages. 

@@ -4,7 +4,7 @@ title: NMFS PAM Operational Cloud Storage and Processing
 
 ![](/content/images/Priority_project_graphics/Cloud/Direct-upload-cloud.png){width=25%}
 
-More Information and detailed documentation for cloud access can be found on our [PAM Cloud site](https://nmfs-ost.github.io/PAM-Cloud/)
+*More information and detailed documentation for cloud access can be found on our [PAM Cloud site](https://nmfs-ost.github.io/PAM-Cloud/).*
 
 ### Team Leads 
 Sofie Van Parijs (NEFSC), Dan Woodrich (AFSC), Becca VanHoeck (NEFSC)

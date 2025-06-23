@@ -52,6 +52,8 @@ website:
             text: PAM-Soundscape
           - href: content/SI coord/PAM_priority_projects/PAM-Stocks.qmd
             text: PAM-Stocks
+          - href: content/SI coord/PAM_priority_projects/PAMverse.qmd
+            text: PAMverse
       - href: content/FieldMethods.qmd
         text: "Field Methods"
       - href: content/DataManagement.qmd
