@@ -82,6 +82,8 @@ website:
         
 format:
   html:
+    link-external-icon: false
+    link-external-newwindow: true
     theme:
       light: [cosmo, theme.scss] 
       dark: [cosmo, theme-dark.scss]
