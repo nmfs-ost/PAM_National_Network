@@ -2,32 +2,57 @@
 title: MAKARA Database & National PACM Decision Support Tool
 ---
 
-### Team Leads (all NEFSC)
-Sofie Van Parijs, Genevieve Davis, Jeff Walker
+*More information can be found on the [NOAA Fisheries Passive Acoustics](https://passiveacoustics.fisheries.noaa.gov/) site*
 
-### Goal 
-Develop a National PAM Decision Support tool to facilitate informed decision making regarding anthropogenic activity and long term trends
+The Makara database and Passive Acoustic Cetacean Map (PACM) will serve as an integrated data repository and publicly accessible decision support tool for all relevant stakeholders to store, manage, access, and explore passive acoustic monitoring (PAM) detection data collected globally. The information provided from these facilitate cohesive research and help make informed decisions regarding anthropogenic activity and long-term trends in the acoustic presence of marine species, and any changes that may occur.
 
-### Accomplishments
+*Project leads:* Sofie Van Parijs, Genevieve Davis, Jeff Walker (NEFSC)  
 
-#### 1. Migrated existing PACM web application from NEFSC on-prem server to Google Cloud Platform with help from NMFS ACIO
-![](/content/images/Priority_project_graphics/cloud_2/PACM_migration.PNG){width=60%}
-[Passive Acoustic Cetacean Map](https://apps-nefsc.fisheries.noaa.gov/pacm/#/narw)
+![](/content/images/Priority_project_graphics/PACM/image.1.png)
 
-\
-\
-\
+### **Summary**
+
+Formerly an East-coast specific tool, recent efforts through the PAM SI have expanded the Makara database and Passive Acoustic Cetacean Map (PACM) to be a cloud-hosted and nationally integrated data repository and publicly accessible decision support tool for passive acoustic monitoring (PAM) detection data. This system will allow NOAA researchers as well as other stakeholders (academia, industry, government, NGO etc) to contribute their metadata and PAM data products to a centralized database, with the option to make those data publicly available to support marine research on long-term trends and ecosystem interactions for soniferous species, as well as timely management decisions, such as permitting, mitigation and monitoring of potential impacts. 
+
+Anyone producing PAM data products will be invited to contribute their data to the Markara database by submitting deployment metadata and detection data online through the associated data portal. Subject to data owner permission, data stored in the Makara database will be displayed on the PACM web application, and made publicly available for use through the [North Atlantic Right Whale Consortium’s (NARWC) formal data request](https://www.narwc.org/accessing-narwc-data.html). 
+
+![](/content/images/Priority_project_graphics/PACM/image.2.png)
+
+### **Resources**
+
+Full functionality of the Makara data portal and PACM data request features are still in development. Visit the [NOAA Fisheries Passive Acoustics](https://passiveacoustics.fisheries.noaa.gov/) site for more information and to explore the available tools. 
+
+The Makara database is a new relational database schema developed using PostgreSQL. Through collaborations with SDSU and NCEI, the schema was designed to be compatible with the [Tethys database](https://tethys.sdsu.edu/), ANSI standards for PAM data, and the [NCEI PAM schema and data archiving](https://www.ncei.noaa.gov/maps/passive-acoustic-data/) requirements. To learn more about the Makara database schema and how to format your data for batch-submission, check out the [Passive Acoustic Reporting System Templates](https://www.fisheries.noaa.gov/resource/document/passive-acoustic-reporting-system-templates). These standardized templates provide specifications, instructions, and examples for data contributors to format their data for import into the Makara database.
+
+:::::::::::::: {.columns}
+::: {.column width="60%"}
+
+![](/content/images/Priority_project_graphics/PACM/image.3.png)
+
+:::
+::: {.column width="40%"}
+
+![](/content/images/Priority_project_graphics/PACM/image.4.png)
+
+:::
+::::::::::::::
 
 
-#### 2. Finalized PostgreSQL database schema for storing passive acoustic detection data and associated metadata from multiple organizations
+To understand the expectations for accessing and utilizing the Makara database, the database stewards are currently developing a Makara database Data Stewardship statement describing the roles, rights and responsibilities of both data providers (users contributing PAM detection data) and the data stewards (staff responsible for managing and maintaining the Makara database).
 
-![](/content/images/Priority_project_graphics/cloud_2/schema_workflow.PNG){width=50%}
+### **NOAA Cloud Workflow Integrations**
 
-\
-\
-\
+We are leveraging the standardized metadata and detection data format to integrate data exports from the Makara database into streamlined analytical and archiving workflows. These integrations aim to advance the capability to address national-scale research questions, reduce the time to generate informative data products to support management decisions, and streamline the process for making PAM data publicly accessible.
+
+#### Analytical workflow integrations
+
+The [PAMverse](https://nmfs-ost.github.io/PAMverse/) R packages provide open science functions and dashboard tools for reviewing, visualizing, and analyzing their own or requested PAM data directly exported from the Makara database. Additional functionality, in development, includes a cloud-based data warehouse using Google BigQuery that will contain a synchronized replica of the Makara database. This replica will be available to NOAA staff and designed to support data analytics of PAM detection data with integration of other geospatial and environmental datasets. 
+
+![](/content/images/Priority_project_graphics/PACM/image.5.png)
+
+#### Cloud-based archiving pipeline
+
+The [NCEI Passive Acoustic Data Archive](https://www.ncei.noaa.gov/maps/passive-acoustic-data/) serves as the most robust repository of publicly available passive acoustic data. Due to complex metadata and the large data volume associated with passive acoustic data, archiving the raw audio files  can be extremely time consuming. Leveraging the standardized metadata schema provided by the Makara database and integrations with Google cloud storage, NOAA Fisheries and NCEI are collaborating on a cloud-based pipeline to streamline the process for making NOAA PAM data publicly available through NCEI. This effort will allow data owners to easily indicate within the Makara database schema which data is ready to send to the NCEI. 
 
 
-#### 3. Cleaned, transformed, merged all available legacy data from multiple sources into new schema using {targets} R package
-
-![](/content/images/Priority_project_graphics/cloud_2/legacy_data_merge.PNG)
+![](/content/images/Priority_project_graphics/PACM/image.6.png)
