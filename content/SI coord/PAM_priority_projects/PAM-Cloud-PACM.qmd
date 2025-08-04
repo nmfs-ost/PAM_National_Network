@@ -1,5 +1,5 @@
 ---
-title: MAKARA Database & National PACM Decision Support Tool
+title: Makara Database & PACM Decision Support Tool
 ---
 
 *More information can be found on the [NOAA Fisheries Passive Acoustics](https://passiveacoustics.fisheries.noaa.gov/) site*
