@@ -4,7 +4,7 @@ title: Makara Database & PACM Decision Support Tool
 
 *More information can be found on the [NOAA Fisheries Passive Acoustics](https://passiveacoustics.fisheries.noaa.gov/) site*
 
-The Makara database and Passive Acoustic Cetacean Map (PACM) will serve as an integrated data repository and publicly accessible decision support tool for all relevant stakeholders to store, manage, access, and explore passive acoustic monitoring (PAM) detection data collected globally. The information provided from these facilitate cohesive research and help make informed decisions regarding anthropogenic activity and long-term trends in the acoustic presence of marine species, and any changes that may occur.
+The Makara database and Passive Acoustic Cetacean Map (PACM) will serve as an integrated data repository and publicly accessible decision support tool for all relevant stakeholders to store, manage, access, and explore passive acoustic monitoring (PAM) detection data collected globally. The information provided from these facilitate cohesive research and help make informed decisions regarding anthropogenic activity and long-term trends in the acoustic presence of marine species, and any changes that may occur. This page provides an overview of the Makara database and PACM with links to more information. For a closer look at how the Makara database is integrated into the PAM Cloud Data Workflows and how the database schema is structured, check out [this demo recording](https://drive.google.com/file/d/1jhbsKzGonobRuy-UnDHuMI5ntjJEODGE/view?usp=sharing). 
 
 *Project leads:* Sofie Van Parijs, Genevieve Davis, Jeff Walker (NEFSC)  
 
