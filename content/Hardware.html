@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Hardware – NOAA quarto simple</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -38,14 +41,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-bc185b5c5bdbcb35c2eb49d8a876ef70.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-0e600db508c4239cc40ec26fd23e38ba.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-0ab5e8dac5f7392efb949e78d96ea4a1.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-0e600db508c4239cc40ec26fd23e38ba.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-6b48a145863068be497162974aa8701f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-23b60933550663b672481606460f78d3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-6b48a145863068be497162974aa8701f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -263,7 +266,8 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
       <a href="../index.html" class="sidebar-logo-link">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/NOAA_logo.svg" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
     <a href="https://nmfs-ost.github.io/PAM_National_Network/" title="NMFS National Passive Acoustic Monitoring Network" class="quarto-navigation-tool px-1" aria-label="NMFS National Passive Acoustic Monitoring Network"><i class="bi bi-globe"></i></a>
@@ -462,16 +466,9 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="what-are-towed-arrays">What are Towed Arrays?</h4>
 <p>Towed arrays consist of an array of hydrophones connected to a long electronic cable dragged behind a vessel. This method or acoustic recording is a powerful survey method as it can be paired with visual observer data, enabling new acoustic sounds to be ground-truthed with the sound source.</p>
 </section>
-<section id="science-centers-using-towed-arrays" class="level4">
-<h4 class="anchored" data-anchor-id="science-centers-using-towed-arrays">Science Centers using Towed Arrays</h4>
-<ul>
-<li><a href="https://noaa-afsc.github.io/AFSC-MML-PAM-Lab-Manual/content/Hardware.html#towed-hydrophone-arrays">AFSC</a></li>
-<li><a href="https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html">NEFSC</a></li>
-<li><a href="https://noaa-nwfsc.github.io/NWFSC-PAM-Lab-Manual/content/Hardware.html#towed-arrays">NWFSC</a></li>
-<li><a href="https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/Hardware.html#towed-array">PIFSC</a></li>
-<li><a href="https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html#towed-hydrophone-array">SEFSC</a></li>
-<li><a href="https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_Towed-Hydrophone.html">SWFSC</a></li>
-</ul>
+<section id="more-information" class="level4">
+<h4 class="anchored" data-anchor-id="more-information">More Information</h4>
+<p><a href="https://nmfs-ost.github.io/PAM_towed_array/">Link to more information on NOAA Fisheries Towed Hydrophone Arrays here.</a></p>
 </section>
 </div><div class="column" style="width:40%;">
 <p><img src="../content/images/Hardware/SHIP-TOWED-ARRAY.png" class="img-fluid" style="width:100.0%"></p>
@@ -486,20 +483,9 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="what-are-gliders">What are Gliders?</h4>
 <p>Gliders are autonomous underwater vehicles that are pre-programmed to travel a given path collecting acoustic and ancillary data. There are two primary types of gliders: Battery-powered (capabilities of traveling at varying depths in the water column) or wave-powered (powered by the motion of the waves)</p>
 </section>
-<section id="science-centers-using-gliders" class="level4">
-<h4 class="anchored" data-anchor-id="science-centers-using-gliders">Science Centers using Gliders</h4>
-<ul>
-<li><a href="https://nefsc.github.io/NEFSC_PAB_lab_manual/content/Hardware/Hardware.html#gliders">NEFSC</a></li>
-<li><a href="https://pifsc-protected-species-division.github.io/CRP_PAM_Manual/content/Hardware.html#glider">PIFSC</a></li>
-<li><a href="https://sefsc.github.io/SEFSC-PAM-Lab-Manual/content/Hardware.html#gliders">SEFSC</a></li>
-<li><a href="https://sael-swfsc.github.io/SAEL-lab-manual/content/Hardware_Gliders.html">SWFSC</a></li>
-</ul>
-</section>
-<section id="github-resources" class="level4">
-<h4 class="anchored" data-anchor-id="github-resources">Github Resources</h4>
-<ul>
-<li><a href="https://nmfs-ost.github.io/PAM-Glider/content/gliders.html">PAM Glider page</a></li>
-</ul>
+<section id="more-information-1" class="level4">
+<h4 class="anchored" data-anchor-id="more-information-1">More Information</h4>
+<p><a href="https://nmfs-ost.github.io/PAM-Glider/">Link to more information on NOAA Fisheries PAM-Gliders here.</a></p>
 </section>
 </div><div class="column" style="width:40%;">
 <p><img src="../content/images/Hardware/SLOCUM-GLIDER.png" class="img-fluid" style="width:100.0%"></p>
@@ -589,6 +575,7 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="resources-1">Resources</h4>
 <ul>
 <li><a href="https://github.com/SAEL-SWFSC/SAEL-lab-manual/blob/main/supplemental/Sonobuoy_Instructions.pdf">SWFSC Sonobuoy manual</a></li>
+<li><a href="https://repository.library.noaa.gov/view/noaa/20265">Sonobuoy Acoustic Data Collection during Cetacean Surveys</a></li>
 </ul>
 </section>
 </div><div class="column" style="width:18%;">
@@ -630,11 +617,11 @@ ul.task-list li input[type="checkbox"] {
 <p><img src="../content/images/Hardware/TAG-HUMPBACK.png" class="img-fluid" style="width:100.0%"></p>
 </div>
 </div>
-
-
 </section>
 </div>
 </div>
+
+
 </section>
 
 </main> <!-- /main -->
@@ -702,13 +689,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
