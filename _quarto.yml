@@ -54,7 +54,7 @@ website:
             text: PAM-Stocks
           - href: content/SI coord/PAM_priority_projects/PAMverse.qmd
             text: PAMverse
-          - href: content/SI coord/PAM_priority_projects/Meetings.qmd
+          - href: content/SI coord/Meetings.qmd
           - href: Meetings
       - href: content/FieldMethods.qmd
         text: "Field Methods"
