@@ -1,0 +1,17 @@
+---
+title: "Meetings"
+format: html
+---
+
+Important links to meeting documents :
+
+- [Notes from Bi-weekly SI Team Meetings](https://docs.google.com/document/d/1S1hxuyJ1MenSJsAr4ZSEihF6L58rrkmP52a3_fN3FIk/edit?usp=drive_link)
+
+- PAM-SI Virtual Meeting September 2026
+
+  - Agenda
+  - Meeting Notes
+  - Thursday Presentations: Spacious, East Coast DASBRs, Stationary PAM, PAM for Fish, Soundscapes, PAMverse, Makara
+  - Friday Presentations: Archiving Pipeline, Cloud Storage, Cloud-based Navy Review, Windows Workstation, Batch-Scale processing, Annotation to AI Classification 
+
+- [March 2024 Workshop Report](https://drive.google.com/file/d/1YJsUSxBJ0xDJAtz9DfxAc1tO-cmyBExG/view?usp=drive_link)
