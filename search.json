@@ -380,7 +380,7 @@
     "href": "content/SI coord/Meetings.html",
     "title": "Meetings",
     "section": "",
-    "text": "Important links to meeting documents :\n\nNotes from Bi-weekly SI Team Meetings\nPAM-SI Virtual Meeting September 2026\n\nAgenda\nMeeting Notes\nThursday Presentations: Spacious, East Coast DASBRs, Stationary PAM, PAM for Fish, Soundscapes,PAMverse, Makara\nFriday Presentations: Cloud Overview, Archiving Pipeline, Cloud Storage, Cloud-based Navy Review, Windows Workstation, Batch-Scale processing [live demos, no slides?], Annotation to AI Classification\n\nMarch 2024 Workshop Report",
+    "text": "Important links to meeting documents :\n\nNotes from Bi-weekly SI Team Meetings\nPAM-SI Virtual Meeting September 2026\n\nAgenda\nMeeting Report\nThursday Presentations: PAM Analytical Developments\n\nSpacious: Integrating slow-moving PAM platforms into species distribution models\nEast Coast DASBRs: Expanding acoustic density estimation\nGulf LISTEN: Linking ocean dynamics to cetacean distributions\nPAM Applications for fisheries management and stock assessments (SARS)\nU.S. Ocean Soundscape monitoring & condition reporting,\nPAMverse RStudio Ecosystem: Data integration & environmental matching\nMakara Database, PACM, and PARS Data Ecosystem\n\nFriday Presentations: National PAM Cloud Work\n\nNational PAM Cloud overview & modernized batch workflows\nNCEI Archiving Pipeline & Tugboat\nCloud Storage Architecture, Ingest, and Cost Optimization\nCloud-based Navy Review & Data handling protocols\nCloud Windows Workstation (pam-ww)\nBatch-Scale processing [live demos, no slides]\nAnnotation to AI Classification (Perch/Hoplite)\n\n\nMarch 2024 Workshop Report",
     "crumbs": [
       "PAM SI",
       "Meetings"
