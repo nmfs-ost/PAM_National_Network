@@ -20,12 +20,12 @@ Important links to meeting documents :
     - [PAMverse RStudio Ecosystem: Data integration & environmental matching](https://github.com/nmfs-ost/PAM_National_Network/blob/main/content/SI%20coord/supplement/PAMverse-Update-20260924.pdf)
     - [Makara Database, PACM, and PARS Data Ecosystem](https://github.com/nmfs-ost/PAM_National_Network/blob/main/content/SI%20coord/supplement/Makara-and-PACM-PAM-SI-Workshop-20260924.pdf)
   - **Friday Presentations:** **National PAM Cloud Work**
-    - [National PAM Cloud overview & modernized batch workflows](https://nmfs-ost.github.io/PAM_National_Network/content/SI%20coord/supplement/Cloud-Overview-Processing_PAM-SI-Virtual-Workshop-Sept-2026.pdf)
-    - [NCEI Archiving Pipeline & Tugboat](https://nmfs-ost.github.io/PAM_National_Network/content/SI%20coord/supplement/NCEI-NMFS-Tugboat_PAM-SI_Sept-25.pdf)
-    - [Cloud Storage Architecture, Ingest, and Cost Optimization](https://nmfs-ost.github.io/PAM_National_Network/content/SI%20coord/supplement/Dan-Woodrich-Cloud-storage.pdf)
-    - [Cloud-based Navy Review & Data handling protocols](https://nmfs-ost.github.io/PAM_National_Network/content/SI%20coord/supplement/Gedamke_PAM-SI-Meeting-Sept-2026.pdf)
-    - [Cloud Windows Workstation (pam-ww)](Dan-Woodrich-PAM-Windows-workstations)
+    - [National PAM Cloud overview & modernized batch workflows](https://github.com/nmfs-ost/PAM_National_Network/blob/main/content/SI%20coord/supplement/Cloud-Overview-Processing_PAM-SI-Virtual-Workshop-Sept-2026.pdf)
+    - [NCEI Archiving Pipeline & Tugboat](https://github.com/nmfs-ost/PAM_National_Network/blob/main/content/SI%20coord/supplement/NCEI-NMFS-Tugboat_PAM-SI_Sept-25.pdf)
+    - [Cloud Storage Architecture, Ingest, and Cost Optimization](https://github.com/nmfs-ost/PAM_National_Network/blob/main/content/SI%20coord/supplement/Dan-Woodrich-Cloud-storage.pdf)
+    - [Cloud-based Navy Review & Data handling protocols](https://github.com/nmfs-ost/PAM_National_Network/blob/main/content/SI%20coord/supplement/Gedamke_PAM-SI-Meeting-Sept-2026.pdf)
+    - [Cloud Windows Workstation (pam-ww)](https://github.com/nmfs-ost/PAM_National_Network/blob/main/content/SI%20coord/supplement/Dan-Woodrich-PAM-Windows-workstations.pdf)
     - Batch-Scale processing \[live demos, no slides\]
-    - [Annotation to AI Classification (Perch/Hoplite)](https://nmfs-ost.github.io/PAM_National_Network/content/SI%20coord/supplement/Ann%20Allen_PerchHoplitePresentation.pdf)
+    - [Annotation to AI Classification (Perch/Hoplite)](https://github.com/nmfs-ost/PAM_National_Network/blob/main/content/SI%20coord/supplement/Ann%20Allen_PerchHoplitePresentation.pdf)
 
 - [March 2024 Workshop Report](https://drive.google.com/file/d/1YJsUSxBJ0xDJAtz9DfxAc1tO-cmyBExG/view?usp=drive_link)
